@@ -1,0 +1,24 @@
+{
+  "thema": "SCORE",
+  "titel_wort": "SCORE",
+  "untertitel": "Wie unser 1-10-Rating entsteht",
+  "eyebrow": "SCORE",
+  "eintraege": [
+    {
+      "headline": "Jede Aktie bekommt einen *Score von 1 bis 10*.",
+      "body": "Basierend auf echten Marktdaten - keine Meinung, keine Emotion."
+    },
+    {
+      "headline": "Technik *plus* Fundamentaldaten.",
+      "body": "RSI, gleitende Durchschnitte, KGV, Marktkapitalisierung - alles fließt ein."
+    },
+    {
+      "headline": "Jeder Score kommt mit der *Begründung*.",
+      "body": "Kein Blackbox-Ergebnis - du siehst immer, warum die Zahl so ausfällt."
+    },
+    {
+      "headline": "Hoher Score heißt *nicht* automatisch Kaufsignal.",
+      "body": "Der Score ist ein datenbasierter Ausgangspunkt, keine Anlageempfehlung."
+    }
+  ]
+}

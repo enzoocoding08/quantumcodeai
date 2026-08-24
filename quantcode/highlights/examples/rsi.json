@@ -1,0 +1,24 @@
+{
+  "thema": "RSI",
+  "titel_wort": "RSI",
+  "untertitel": "Relative Strength Index erklärt",
+  "eyebrow": "RSI",
+  "eintraege": [
+    {
+      "headline": "RSI misst, ob eine Aktie *überkauft* oder *überverkauft* ist.",
+      "body": "Skala von 0 bis 100. Über 70 gilt als überkauft, unter 30 als überverkauft."
+    },
+    {
+      "headline": "Werte um *50* gelten als neutral.",
+      "body": "Die meiste Zeit bewegt sich der RSI irgendwo dazwischen - das ist normal, kein Signal für sich allein."
+    },
+    {
+      "headline": "RSI zeigt *Momentum*, nicht die Zukunft.",
+      "body": "Ein hoher RSI heißt nicht automatisch, dass der Kurs fällt. Es ist nur ein Baustein von vielen."
+    },
+    {
+      "headline": "So nutzen wir RSI *bei QuantCode AI*.",
+      "body": "Er fließt zusammen mit Fundamentaldaten in unseren täglichen 1-10-Score ein."
+    }
+  ]
+}
