@@ -1,0 +1,28 @@
+{
+  "thema": "KENNZAHLEN",
+  "titel_wort": "KENNZAHLEN",
+  "untertitel": "Die wichtigsten Zahlen auf einen Blick",
+  "eyebrow": "KENNZAHLEN",
+  "eintraege": [
+    {
+      "headline": "Das *KGV* zeigt, wie teuer eine Aktie im Verhältnis zum Gewinn ist.",
+      "body": "Kurs-Gewinn-Verhältnis: Aktienkurs geteilt durch Gewinn pro Aktie. Niedrig heißt günstig - muss aber nicht automatisch gut sein."
+    },
+    {
+      "headline": "Die *Marktkapitalisierung* zeigt die Gesamtgröße des Unternehmens.",
+      "body": "Aktienkurs mal Anzahl aller Aktien. Große Konzerne schwanken meist weniger stark als kleine Firmen."
+    },
+    {
+      "headline": "Die *Dividendenrendite* zeigt die jährliche Ausschüttung in Prozent.",
+      "body": "Dividende geteilt durch Aktienkurs. Eine hohe Rendite kann auch ein Warnsignal sein, wenn der Kurs stark gefallen ist."
+    },
+    {
+      "headline": "Das *Handelsvolumen* zeigt, wie viel gerade gehandelt wird.",
+      "body": "Hohes Volumen bei einer Kursbewegung bedeutet mehr Überzeugung dahinter als bei niedrigem Volumen."
+    },
+    {
+      "headline": "So fließen Kennzahlen *bei QuantCode AI* ein.",
+      "body": "Zusammen mit RSI und weiteren Signalen ergeben sie unseren täglichen 1-10-Score."
+    }
+  ]
+}

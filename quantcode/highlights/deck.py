@@ -15,10 +15,16 @@ from PIL import Image, ImageDraw, ImageFont
 from . import brand
 
 _MARKUP_RE = re.compile(r"\*(.+?)\*")
+_LEADING_PUNCT_RE = re.compile(r"^[,.:;!?)\]]+")
 
 
 def _tokenize(text: str) -> list[tuple[str, bool]]:
-    """Zerlegt Text in (wort, ist_akzent)-Tupel. *wort* wird zu Akzentfarbe."""
+    """Zerlegt Text in (wort, ist_akzent)-Tupel. *wort* wird zu Akzentfarbe.
+
+    Satzzeichen direkt nach einer *Akzent*-Markierung werden an das
+    vorherige Wort angehaengt, damit z.B. "*Muster*," nicht als
+    "Muster ," mit unschoenem Leerzeichen vor dem Komma gerendert wird.
+    """
     tokens: list[tuple[str, bool]] = []
     pos = 0
     for m in _MARKUP_RE.finditer(text):
@@ -29,7 +35,23 @@ def _tokenize(text: str) -> list[tuple[str, bool]]:
         pos = m.end()
     for w in text[pos:].split():
         tokens.append((w, False))
-    return tokens
+    return _merge_leading_punct(tokens)
+
+
+def _merge_leading_punct(tokens: list[tuple[str, bool]]) -> list[tuple[str, bool]]:
+    merged: list[tuple[str, bool]] = []
+    for word, accent in tokens:
+        m = _LEADING_PUNCT_RE.match(word)
+        if m and merged:
+            punct = m.group(0)
+            rest = word[len(punct):]
+            prev_word, prev_accent = merged[-1]
+            merged[-1] = (prev_word + punct, prev_accent)
+            if rest:
+                merged.append((rest, accent))
+        else:
+            merged.append((word, accent))
+    return merged
 
 
 def _wrap_tokens(draw: ImageDraw.ImageDraw, tokens, font: ImageFont.FreeTypeFont, max_width: int):

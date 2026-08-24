@@ -1,0 +1,24 @@
+{
+  "thema": "KI",
+  "titel_wort": "KI",
+  "untertitel": "Was unsere KI wirklich macht",
+  "eyebrow": "KI",
+  "eintraege": [
+    {
+      "headline": "Die KI liest *echte Marktdaten* - keine Vermutungen.",
+      "body": "Kurse, Volumen und Fundamentaldaten kommen direkt aus den Datenquellen, nicht aus Bauchgefühl."
+    },
+    {
+      "headline": "Sie erkennt *Muster*, keine Zukunft.",
+      "body": "Die KI vergleicht aktuelle Daten mit bekannten Mustern - sie sagt keine Kurse voraus."
+    },
+    {
+      "headline": "Die KI gibt *keine Kaufempfehlung*.",
+      "body": "Sie liefert einen Score und die Begründung dahinter. Die Entscheidung triffst du selbst."
+    },
+    {
+      "headline": "Am Ende bleibt sie *ein Werkzeug*, kein Orakel.",
+      "body": "Wie jedes Modell kann sie falsch liegen. Nutze den Score als Startpunkt, nicht als Endpunkt."
+    }
+  ]
+}
