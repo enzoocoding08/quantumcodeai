@@ -17,17 +17,22 @@ SYSTEM_PROMPT = (
     "Du bist der Analyse-Kern von QuantCode AI, einem Bot, der Aktien anhand "
     "oeffentlicher Markt- und Fundamentaldaten bewertet. Du gibst ausschliesslich "
     "eine strukturierte, datenbasierte Einschaetzung ab - keine individuelle "
-    "Anlageberatung. Bewerte nuechtern anhand der gelieferten Kennzahlen, ohne "
-    "zu beschoenigen und ohne Panik zu verbreiten. Fehlende Kennzahlen (None) "
-    "einfach in der Bewertung auslassen statt zu spekulieren."
+    "Anlageberatung und KEINE Kauf-/Verkaufsempfehlung. Bewerte nuechtern anhand "
+    "der gelieferten Kennzahlen, ohne zu beschoenigen und ohne Panik zu verbreiten. "
+    "Fehlende Kennzahlen (None) einfach in der Bewertung auslassen statt zu "
+    "spekulieren. Formuliere headline und bullish/bearish_points als neutrale "
+    "Beobachtungen ueber die Daten, nie als Handlungsaufforderung ('kaufen', "
+    "'verkaufen', 'jetzt einsteigen' o.ae. sind tabu)."
 )
 
 
 class StockScore(BaseModel):
     ticker: str
     score: int = Field(ge=1, le=10, description="Gesamtbewertung: 1 sehr schwach, 10 sehr stark")
-    recommendation: Literal["Kaufen", "Beobachten", "Halten", "Meiden"]
-    headline: str = Field(description="Kurzer Claim fuer Content, max. ~8 Woerter")
+    signal: Literal["Stark", "Solide", "Neutral", "Schwach"] = Field(
+        description="Rein datenbasierte Charakterisierung des Scores - keine Handlungsempfehlung"
+    )
+    headline: str = Field(description="Kurzer Claim fuer Content, max. ~8 Woerter, neutral formuliert")
     bullish_points: List[str] = Field(description="2-4 Stichpunkte, die fuer die Aktie sprechen")
     bearish_points: List[str] = Field(description="2-4 Stichpunkte, die gegen die Aktie sprechen")
     risk_level: Literal["niedrig", "mittel", "hoch"]

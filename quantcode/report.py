@@ -10,13 +10,13 @@ from pathlib import Path
 from .data import StockSnapshot
 from .scoring import StockScore
 
-DISCLAIMER = "Keine Anlageberatung. Alle Angaben ohne Gewaehr, rein informativ."
+DISCLAIMER = "Keine Anlageberatung · keine Kauf-/Verkaufsempfehlung. Alle Angaben ohne Gewaehr."
 
 
 def print_score(snapshot: StockSnapshot, score: StockScore) -> None:
     bar = "#" * score.score + "-" * (10 - score.score)
     print(f"\n{snapshot.ticker} ({snapshot.name}) - {snapshot.price} {snapshot.currency}")
-    print(f"Score: {score.score}/10  [{bar}]  -> {score.recommendation}")
+    print(f"Score: {score.score}/10  [{bar}]  ({score.signal})")
     print(f"  {score.headline}")
     print("  Pro:")
     for point in score.bullish_points:

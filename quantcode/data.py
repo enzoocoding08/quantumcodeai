@@ -55,7 +55,28 @@ def _pct_change(closes: pd.Series, days: int) -> float | None:
 
 
 def fetch_snapshot(ticker: str) -> StockSnapshot:
-    """Holt Kursdaten und Kennzahlen fuer einen Ticker von Yahoo Finance."""
+    """Holt Kursdaten und Kennzahlen fuer einen Ticker.
+
+    Versucht zuerst Yahoo Finance (yfinance, kein Key noetig). Yahoo blockt
+    Anfragen von Cloud-/Server-IPs aber haeufig (HTTP 429) - schlaegt das
+    fehl, fällt automatisch auf Alpha Vantage zurueck (braucht
+    ALPHA_VANTAGE_API_KEY in .env, siehe data_alphavantage.py).
+    """
+    try:
+        return _fetch_snapshot_yfinance(ticker)
+    except Exception as exc:
+        from . import data_alphavantage
+
+        try:
+            return data_alphavantage.fetch_snapshot(ticker)
+        except Exception as av_exc:
+            raise ValueError(
+                f"Konnte keine Daten fuer '{ticker}' holen. "
+                f"Yahoo Finance: {exc} | Alpha Vantage: {av_exc}"
+            ) from av_exc
+
+
+def _fetch_snapshot_yfinance(ticker: str) -> StockSnapshot:
     t = yf.Ticker(ticker)
     info = t.info or {}
     hist = t.history(period="1y", auto_adjust=True)
