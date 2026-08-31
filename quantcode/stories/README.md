@@ -19,7 +19,7 @@ Eine vollstaendige Analyse braucht ~4-5 Alpha-Vantage-Calls
 Endpunkte muessen wegen Rate-Limits einzeln nachgefragt werden). Der
 kostenlose Alpha-Vantage-Key ist auf **25 Requests pro Tag** begrenzt
 - das reicht fuer ~1 komplette Aktie mit Puffer, nicht fuer eine ganze
-Watchlist von 3 Titeln an einem Tag.
+Watchlist von vielen Titeln an einem Tag.
 
 Deshalb rotiert die taegliche Routine `state.json` durch
 `watchlist.json` - jeden Tag eine andere Aktie, statt jeden Tag alle
