@@ -1,5 +1,5 @@
 {
   "last_ticker_index": 1,
   "last_run_date": "2026-09-01",
-  "note": "last_ticker_index zeigt auf watchlist.json[tickers]. Nach jedem Lauf +1 (mit Wrap-Around)."
+  "note": "last_ticker_index zeigt auf watchlist.json[tickers]. Ab 2026-09-02: 2 Ticker/Tag (index und index+1), danach +2 (mit Wrap-Around)."
 }
