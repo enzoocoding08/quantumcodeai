@@ -10,6 +10,12 @@ Nutzung:
   python3 quantcode/social/publish_instagram.py image docs/content/daily/2026-09-01/foo.png "Caption text"
   python3 quantcode/social/publish_instagram.py video docs/content/daily/2026-09-01/foo.mp4 "Caption text"
   python3 quantcode/social/publish_instagram.py carousel "Caption text" docs/.../slide1.png docs/.../slide2.png ...
+  python3 quantcode/social/publish_instagram.py story-image docs/.../story.png
+  python3 quantcode/social/publish_instagram.py story-video docs/.../story.mp4
+
+Stories haben keine Caption (von der Graph API nicht unterstuetzt) - sollen
+also als eigenes, kurzes Ankuendigungs-Bild/Video mit Call-to-Action-Text
+("Neuer Post im Feed") gebaut werden, nicht als 1:1-Kopie des Posts.
 """
 
 from __future__ import annotations
@@ -105,6 +111,23 @@ def publish_carousel(caption: str, repo_relative_paths: list[str]) -> str:
     return result["id"]
 
 
+def publish_story_image(repo_relative_path: str) -> str:
+    ig_user_id = _env("IG_BUSINESS_ACCOUNT_ID")
+    url = _public_url(repo_relative_path)
+    container = _post(f"{ig_user_id}/media", image_url=url, media_type="STORIES")
+    result = _post(f"{ig_user_id}/media_publish", creation_id=container["id"])
+    return result["id"]
+
+
+def publish_story_video(repo_relative_path: str) -> str:
+    ig_user_id = _env("IG_BUSINESS_ACCOUNT_ID")
+    url = _public_url(repo_relative_path)
+    container = _post(f"{ig_user_id}/media", video_url=url, media_type="STORIES")
+    _wait_until_ready(container["id"])
+    result = _post(f"{ig_user_id}/media_publish", creation_id=container["id"])
+    return result["id"]
+
+
 def main() -> None:
     if len(sys.argv) < 3:
         print(__doc__)
@@ -117,6 +140,10 @@ def main() -> None:
     elif kind == "carousel":
         caption = sys.argv[2]
         media_id = publish_carousel(caption, sys.argv[3:])
+    elif kind == "story-image":
+        media_id = publish_story_image(sys.argv[2])
+    elif kind == "story-video":
+        media_id = publish_story_video(sys.argv[2])
     else:
         print(__doc__)
         raise SystemExit(1)
