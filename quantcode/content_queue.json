@@ -1,0 +1,79 @@
+{
+  "note": "Warteschlange fuer zusaetzlichen Bonus-Content (ausserhalb des normalen taeglichen Trigger-Postings). Der 'extra content'-Trigger postet pro Lauf GENAU EIN pending item (das mit der niedrigsten order-Zahl), setzt status auf 'posted' und committet+pusht das Update. Dateien liegen unter docs/content/queue/.",
+  "items": [
+    {
+      "id": "legendary-buffett",
+      "order": 1,
+      "type": "carousel",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/quantcode-ai-post26-slide-1.png",
+        "docs/content/queue/quantcode-ai-post26-slide-2.png",
+        "docs/content/queue/quantcode-ai-post26-slide-3.png",
+        "docs/content/queue/quantcode-ai-post26-slide-4.png",
+        "docs/content/queue/quantcode-ai-post26-slide-5.png",
+        "docs/content/queue/quantcode-ai-post26-slide-6.png"
+      ],
+      "story_file": "docs/content/queue/quantcode-ai-story-post26.png",
+      "caption": "Legendary Traders: Warren Buffett\n\nStarted investing at 11. Built Berkshire Hathaway from a failing textile mill into one of the largest companies on Earth. Never chased hype - bought wonderful businesses at fair prices and held them for decades.\n\nHis most famous line still holds up: be fearful when others are greedy, and greedy when others are fearful.\n\nNot financial advice - educational content only.\n\n#warrenbuffett #investing #stockmarket #valueinvesting #berkshirehathaway #financeeducation #legendarytraders #wallstreet #quantcodeai"
+    },
+    {
+      "id": "legendary-livermore",
+      "order": 2,
+      "type": "reel",
+      "status": "pending",
+      "files": ["docs/content/queue/quantcode-ai-reel19-livermore.mp4"],
+      "story_file": "docs/content/queue/quantcode-ai-story-reel19.png",
+      "caption": "Legendary Traders: Jesse Livermore\n\nStarted trading in the early 1900s with almost nothing and became known as the \"boy plunger\" for making and losing several fortunes. Famously shorted the market before the 1929 crash - and still went broke more than once breaking his own rules.\n\nHis real lesson wasn't a strategy. It was discipline.\n\nNot financial advice - educational content only.\n\n#jesselivermore #legendarytraders #investing #stockmarket #tradingpsychology #financeeducation #wallstreet #quantcodeai"
+    },
+    {
+      "id": "term-liquidity",
+      "order": 3,
+      "type": "story",
+      "status": "pending",
+      "files": ["docs/content/queue/quantcode-ai-term-liquidity.png"]
+    },
+    {
+      "id": "term-slippage",
+      "order": 4,
+      "type": "story",
+      "status": "pending",
+      "files": ["docs/content/queue/quantcode-ai-term-slippage.png"]
+    },
+    {
+      "id": "term-basispoint",
+      "order": 5,
+      "type": "story",
+      "status": "pending",
+      "files": ["docs/content/queue/quantcode-ai-term-basispoint.png"]
+    },
+    {
+      "id": "term-bidask",
+      "order": 6,
+      "type": "story",
+      "status": "pending",
+      "files": ["docs/content/queue/quantcode-ai-term-bidask.png"]
+    },
+    {
+      "id": "term-yieldcurve",
+      "order": 7,
+      "type": "story",
+      "status": "pending",
+      "files": ["docs/content/queue/quantcode-ai-term-yieldcurve.png"]
+    },
+    {
+      "id": "term-shortsqueeze",
+      "order": 8,
+      "type": "story",
+      "status": "pending",
+      "files": ["docs/content/queue/quantcode-ai-term-shortsqueeze.png"]
+    },
+    {
+      "id": "term-hedge",
+      "order": 9,
+      "type": "story",
+      "status": "pending",
+      "files": ["docs/content/queue/quantcode-ai-term-hedge.png"]
+    }
+  ]
+}
