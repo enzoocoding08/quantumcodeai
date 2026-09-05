@@ -27,50 +27,75 @@
       "caption": "Legendary Traders: Jesse Livermore\n\nStarted trading in the early 1900s with almost nothing and became known as the \"boy plunger\" for making and losing several fortunes. Famously shorted the market before the 1929 crash - and still went broke more than once breaking his own rules.\n\nHis real lesson wasn't a strategy. It was discipline.\n\nNot financial advice - educational content only.\n\n#jesselivermore #legendarytraders #investing #stockmarket #tradingpsychology #financeeducation #wallstreet #quantcodeai"
     },
     {
-      "id": "term-liquidity",
+      "id": "legendary-simons",
       "order": 3,
+      "type": "reel",
+      "status": "pending",
+      "files": ["docs/content/queue/quantcode-ai-reel20-simons.mp4"],
+      "story_file": "docs/content/queue/quantcode-ai-story-reel20.png",
+      "caption": "Legendary Traders: Jim Simons\n\nA mathematician before he ever traded a stock. In 1988 he started the Medallion Fund and used math and computer models instead of gut instinct - returning about 66% a year before fees for over three decades, a track record almost nobody else in history has matched.\n\nHe hired physicists and codebreakers instead of traditional Wall Street traders. Disciplined data beat intuition, again and again.\n\nNot financial advice - educational content only.\n\n#jimsimons #legendarytraders #quant #investing #stockmarket #financeeducation #wallstreet #quantcodeai"
+    },
+    {
+      "id": "myth-vs-fact-1",
+      "order": 4,
+      "type": "carousel",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/quantcode-ai-post27-slide-1.png",
+        "docs/content/queue/quantcode-ai-post27-slide-2.png",
+        "docs/content/queue/quantcode-ai-post27-slide-3.png",
+        "docs/content/queue/quantcode-ai-post27-slide-4.png",
+        "docs/content/queue/quantcode-ai-post27-slide-5.png",
+        "docs/content/queue/quantcode-ai-post27-slide-6.png"
+      ],
+      "story_file": "docs/content/queue/quantcode-ai-story-post27.png",
+      "caption": "4 investing myths that just will not die:\n\nYou don't need a lot of money to start. Stocks don't always go up. Day trading rarely beats simple index investing. And checking your portfolio daily usually makes decisions worse, not better.\n\nSlow down, zoom out.\n\nNot financial advice - educational content only.\n\n#investingmyths #investing #stockmarket #financeeducation #stocks #investingtips #personalfinance #wallstreet #quantcodeai"
+    },
+    {
+      "id": "term-liquidity",
+      "order": 5,
       "type": "story",
       "status": "pending",
       "files": ["docs/content/queue/quantcode-ai-term-liquidity.png"]
     },
     {
       "id": "term-slippage",
-      "order": 4,
+      "order": 6,
       "type": "story",
       "status": "pending",
       "files": ["docs/content/queue/quantcode-ai-term-slippage.png"]
     },
     {
       "id": "term-basispoint",
-      "order": 5,
+      "order": 7,
       "type": "story",
       "status": "pending",
       "files": ["docs/content/queue/quantcode-ai-term-basispoint.png"]
     },
     {
       "id": "term-bidask",
-      "order": 6,
+      "order": 8,
       "type": "story",
       "status": "pending",
       "files": ["docs/content/queue/quantcode-ai-term-bidask.png"]
     },
     {
       "id": "term-yieldcurve",
-      "order": 7,
+      "order": 9,
       "type": "story",
       "status": "pending",
       "files": ["docs/content/queue/quantcode-ai-term-yieldcurve.png"]
     },
     {
       "id": "term-shortsqueeze",
-      "order": 8,
+      "order": 10,
       "type": "story",
       "status": "pending",
       "files": ["docs/content/queue/quantcode-ai-term-shortsqueeze.png"]
     },
     {
       "id": "term-hedge",
-      "order": 9,
+      "order": 11,
       "type": "story",
       "status": "pending",
       "files": ["docs/content/queue/quantcode-ai-term-hedge.png"]
