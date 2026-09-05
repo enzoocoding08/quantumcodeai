@@ -1,5 +1,6 @@
 {
-  "last_ticker_index": 10,
-  "last_run_date": "2026-09-04",
-  "note": "last_ticker_index = Index des ZULETZT abgeschlossenen Tickers (nicht der naechste!). Naechster Lauf: (last_ticker_index+1) und (last_ticker_index+2), mit Wrap-Around ueber die Listenlaenge. Am 2026-09-03 wurden zusaetzlich TSLA/ADBE/NFLX (Index 6-8) per Ad-hoc-Anfrage abgedeckt (Web-Recherche statt Alpha Vantage) - deshalb sprang der Index am 2026-09-04 direkt von 5 auf 10 (DIS=9, CRM=10), um Duplikate zu vermeiden."
+  "last_ticker_index": 14,
+  "last_run_date": "2026-09-05",
+  "tickers_per_day": 4,
+  "note": "last_ticker_index = Index des ZULETZT abgeschlossenen Tickers (nicht der naechste!). Naechster Lauf: (last_ticker_index+1) bis (last_ticker_index+4), mit Wrap-Around ueber die Listenlaenge. Ab 2026-09-05 laufen Story-Analysen primaer per Web-Recherche (4 Ticker/Tag statt 2, siehe daily trigger), Alpha Vantage nur noch optional falls Quota gerade frei ist."
 }
