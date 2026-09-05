@@ -27,8 +27,17 @@
       "caption": "Legendary Traders: Jesse Livermore\n\nStarted trading in the early 1900s with almost nothing and became known as the \"boy plunger\" for making and losing several fortunes. Famously shorted the market before the 1929 crash - and still went broke more than once breaking his own rules.\n\nHis real lesson wasn't a strategy. It was discipline.\n\nNot financial advice - educational content only.\n\n#jesselivermore #legendarytraders #investing #stockmarket #tradingpsychology #financeeducation #wallstreet #quantcodeai"
     },
     {
-      "id": "legendary-simons",
+      "id": "market-recap-sep4",
       "order": 3,
+      "type": "reel",
+      "status": "pending",
+      "files": ["docs/content/queue/quantcode-ai-reel21-marketwrap.mp4"],
+      "story_file": "docs/content/queue/quantcode-ai-story-reel21.png",
+      "caption": "3 Things That Moved The Market (Friday Sep 4):\n\n1) August payrolls jumped 162K vs just 53K expected - a shocker that sent bond yields higher on renewed rate hike fears.\n\n2) Stocks pulled back across the board: Dow -0.51%, S&P 500 -0.38%, Nasdaq -0.29%.\n\n3) Tesla fell almost 6% after its Cybercab launch left more questions than answers - and regulators opened a safety review.\n\nNew format alert: quick market recaps like this one are happening now. Let us know if you want more of these.\n\nNot financial advice - educational content only.\n\n#stockmarket #investing #markets #tesla #jobsreport #wallstreet #financeeducation #marketrecap #quantcodeai"
+    },
+    {
+      "id": "legendary-simons",
+      "order": 4,
       "type": "reel",
       "status": "pending",
       "files": ["docs/content/queue/quantcode-ai-reel20-simons.mp4"],
@@ -37,7 +46,7 @@
     },
     {
       "id": "myth-vs-fact-1",
-      "order": 4,
+      "order": 5,
       "type": "carousel",
       "status": "pending",
       "files": [
@@ -53,49 +62,49 @@
     },
     {
       "id": "term-liquidity",
-      "order": 5,
+      "order": 6,
       "type": "story",
       "status": "pending",
       "files": ["docs/content/queue/quantcode-ai-term-liquidity.png"]
     },
     {
       "id": "term-slippage",
-      "order": 6,
+      "order": 7,
       "type": "story",
       "status": "pending",
       "files": ["docs/content/queue/quantcode-ai-term-slippage.png"]
     },
     {
       "id": "term-basispoint",
-      "order": 7,
+      "order": 8,
       "type": "story",
       "status": "pending",
       "files": ["docs/content/queue/quantcode-ai-term-basispoint.png"]
     },
     {
       "id": "term-bidask",
-      "order": 8,
+      "order": 9,
       "type": "story",
       "status": "pending",
       "files": ["docs/content/queue/quantcode-ai-term-bidask.png"]
     },
     {
       "id": "term-yieldcurve",
-      "order": 9,
+      "order": 10,
       "type": "story",
       "status": "pending",
       "files": ["docs/content/queue/quantcode-ai-term-yieldcurve.png"]
     },
     {
       "id": "term-shortsqueeze",
-      "order": 10,
+      "order": 11,
       "type": "story",
       "status": "pending",
       "files": ["docs/content/queue/quantcode-ai-term-shortsqueeze.png"]
     },
     {
       "id": "term-hedge",
-      "order": 11,
+      "order": 12,
       "type": "story",
       "status": "pending",
       "files": ["docs/content/queue/quantcode-ai-term-hedge.png"]
