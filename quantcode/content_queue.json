@@ -39,7 +39,7 @@
       "id": "legendary-simons",
       "order": 4,
       "type": "reel",
-      "status": "pending",
+      "status": "posted",
       "files": ["docs/content/queue/quantcode-ai-reel20-simons.mp4"],
       "story_file": "docs/content/queue/quantcode-ai-story-reel20.png",
       "caption": "Legendary Traders: Jim Simons\n\nA mathematician before he ever traded a stock. In 1988 he started the Medallion Fund and used math and computer models instead of gut instinct - returning about 66% a year before fees for over three decades, a track record almost nobody else in history has matched.\n\nHe hired physicists and codebreakers instead of traditional Wall Street traders. Disciplined data beat intuition, again and again.\n\nNot financial advice - educational content only.\n\n#jimsimons #legendarytraders #quant #investing #stockmarket #financeeducation #wallstreet #quantcodeai"
@@ -48,7 +48,7 @@
       "id": "myth-vs-fact-1",
       "order": 5,
       "type": "carousel",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/quantcode-ai-post27-slide-1.png",
         "docs/content/queue/quantcode-ai-post27-slide-2.png",
