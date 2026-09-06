@@ -108,6 +108,38 @@
       "type": "story",
       "status": "pending",
       "files": ["docs/content/queue/quantcode-ai-term-hedge.png"]
+    },
+    {
+      "id": "legendary-lynch",
+      "order": 13,
+      "type": "carousel",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/quantcode-ai-post28-slide-1.png",
+        "docs/content/queue/quantcode-ai-post28-slide-2.png",
+        "docs/content/queue/quantcode-ai-post28-slide-3.png",
+        "docs/content/queue/quantcode-ai-post28-slide-4.png",
+        "docs/content/queue/quantcode-ai-post28-slide-5.png",
+        "docs/content/queue/quantcode-ai-post28-slide-6.png"
+      ],
+      "story_file": "docs/content/queue/quantcode-ai-story-post28.png",
+      "caption": "Legendary Traders: Peter Lynch\n\nRan Fidelity's Magellan Fund from 1977 to 1990 and averaged about 29% a year, growing it from roughly $20 million to more than $14 billion - the best-performing mutual fund in the world at the time.\n\nHis edge wasn't a secret formula. It was paying attention to the businesses and products already around him, and having the patience to let a good idea compound.\n\nNot financial advice - educational content only.\n\n#peterlynch #legendarytraders #investing #stockmarket #magellanfund #financeeducation #wallstreet #quantcodeai"
+    },
+    {
+      "id": "myth-vs-fact-2",
+      "order": 14,
+      "type": "carousel",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/quantcode-ai-post29-slide-1.png",
+        "docs/content/queue/quantcode-ai-post29-slide-2.png",
+        "docs/content/queue/quantcode-ai-post29-slide-3.png",
+        "docs/content/queue/quantcode-ai-post29-slide-4.png",
+        "docs/content/queue/quantcode-ai-post29-slide-5.png",
+        "docs/content/queue/quantcode-ai-post29-slide-6.png"
+      ],
+      "story_file": "docs/content/queue/quantcode-ai-story-post29.png",
+      "caption": "4 more investing myths that just will not die:\n\nA high dividend yield isn't automatically safer. Owning 20 stocks in one sector isn't real diversification. Trying to dodge the market's worst days often means missing its best ones too. And a fund's past performance rarely predicts its future.\n\nEvidence over instinct.\n\nNot financial advice - educational content only.\n\n#investingmyths #investing #stockmarket #financeeducation #stocks #investingtips #personalfinance #wallstreet #quantcodeai"
     }
   ]
 }
