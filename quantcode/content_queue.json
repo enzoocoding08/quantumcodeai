@@ -149,6 +149,51 @@
       "files": ["docs/content/queue/quantcode-ai-reel22-dalio.mp4"],
       "story_file": "docs/content/queue/quantcode-ai-story-reel22.png",
       "caption": "Legendary Traders: Ray Dalio\n\nStarted Bridgewater Associates in 1975, at just 26, out of a two bedroom apartment in Manhattan. Today it's the largest hedge fund in the world.\n\nHis edge was radical transparency - recording meetings and openly rating employees so bad ideas got challenged by anyone in the room. He's also known for the All Weather portfolio, built to hold up in any economic climate.\n\nNot financial advice - educational content only.\n\n#raydalio #legendarytraders #bridgewater #investing #stockmarket #financeeducation #wallstreet #quantcodeai"
+    },
+    {
+      "id": "format-test-quiz",
+      "order": 16,
+      "type": "reel",
+      "status": "pending",
+      "files": ["docs/content/queue/quantcode-ai-reel-quiz1.mp4"],
+      "story_file": "docs/content/queue/Story-quiz1.png",
+      "caption": "Stock or Not: guess which one is riskier.\n\nStock A: PE of 27.9x. Stock B: PE of 18.3x. Which one is the riskier growth stock?\n\nStock A is NVIDIA - revenue up 106% this year. Stock B is Johnson & Johnson, growing single digits. NVIDIA's PE looks high, but its PEG ratio is just 0.63 - actually cheap once you adjust for growth.\n\nThe number alone never tells the whole story.\n\nNot financial advice - educational content only.\n\n#stockmarket #investing #nvidia #financeeducation #stockquiz #wallstreet #quantcodeai"
+    },
+    {
+      "id": "format-test-guess",
+      "order": 17,
+      "type": "reel",
+      "status": "pending",
+      "files": ["docs/content/queue/quantcode-ai-reel-guess1.mp4"],
+      "story_file": "docs/content/queue/Story-guess1.png",
+      "caption": "Guess the company from 3 facts:\n\n1) Profit margin of just 3% - one of the thinnest in retail.\n2) PEG ratio of 4.5x - pricier than almost any other 'boring' stock.\n3) Earnings grew 45% year over year.\n\nIt's Costco. Investors pay a premium for a wafer-thin margin business, because the membership model is that reliable.\n\nNot financial advice - educational content only.\n\n#costco #stockmarket #investing #financeeducation #guessthecompany #wallstreet #quantcodeai"
+    },
+    {
+      "id": "format-test-portfolio",
+      "order": 18,
+      "type": "reel",
+      "status": "pending",
+      "files": ["docs/content/queue/quantcode-ai-reel-portfolio1.mp4"],
+      "story_file": "docs/content/queue/Story-portfolio1.png",
+      "caption": "Rate My Portfolio: a common beginner mistake we made up to illustrate the point (not a real submission).\n\n90% in one AI stock. 10% in cash. That's it - no bonds, no other sectors, nothing international.\n\nRed flag #1: zero diversification - one bad earnings report and the whole thing moves together.\nRed flag #2: no real cash cushion for when an actual buying opportunity shows up.\n\nThis isn't a portfolio, it's a single bet wearing a costume.\n\nNot financial advice - educational content only.\n\n#ratemyportfolio #investing #stockmarket #financeeducation #personalfinance #wallstreet #quantcodeai"
+    },
+    {
+      "id": "format-test-onefact",
+      "order": 19,
+      "type": "reel",
+      "status": "pending",
+      "files": ["docs/content/queue/quantcode-ai-reel-onefact1.mp4"],
+      "story_file": "docs/content/queue/Story-onefact1.png",
+      "caption": "1 Chart, 1 Fact: Adobe's PE looks pretty average at 16x. But its PEG ratio is just 0.6x - making it one of the cheapest large tech stocks, growth-adjusted, in the entire market right now.\n\nNot financial advice - educational content only.\n\n#adobe #stockmarket #investing #financeeducation #wallstreet #quantcodeai"
+    },
+    {
+      "id": "format-test-watchlist",
+      "order": 20,
+      "type": "reel",
+      "status": "pending",
+      "files": ["docs/content/queue/quantcode-ai-reel-watchlist1.mp4"],
+      "story_file": "docs/content/queue/Story-watchlist1.png",
+      "caption": "This week's watchlist - 3 stocks, 3 upcoming catalysts:\n\nAdobe reports Sep 10 - cheap growth-adjusted, but down sharply over the past year, so this print matters.\nJohnson & Johnson reports Oct 13 - near 52-week highs, steady mid-single-digit growth.\nNetflix reports Oct 20 - still one of the stronger growth stories in the group.\n\nThree very different setups, all worth watching this month.\n\nNot financial advice - educational content only.\n\n#watchlist #stockmarket #investing #financeeducation #adobe #netflix #wallstreet #quantcodeai"
     }
   ]
 }
