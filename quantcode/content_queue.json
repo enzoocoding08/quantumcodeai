@@ -194,6 +194,15 @@
       "files": ["docs/content/queue/quantcode-ai-reel-watchlist1.mp4"],
       "story_file": "docs/content/queue/Story-watchlist1.png",
       "caption": "This week's watchlist - 3 stocks, 3 upcoming catalysts:\n\nAdobe reports Sep 10 - cheap growth-adjusted, but down sharply over the past year, so this print matters.\nJohnson & Johnson reports Oct 13 - near 52-week highs, steady mid-single-digit growth.\nNetflix reports Oct 20 - still one of the stronger growth stories in the group.\n\nThree very different setups, all worth watching this month.\n\nNot financial advice - educational content only.\n\n#watchlist #stockmarket #investing #financeeducation #adobe #netflix #wallstreet #quantcodeai"
+    },
+    {
+      "id": "trading-bot-day1",
+      "order": 21,
+      "type": "reel",
+      "status": "pending",
+      "files": ["docs/content/queue/quantcode-ai-reel24-tradingbot-day1.mp4"],
+      "story_file": "docs/content/queue/quantcode-ai-story-reel24.png",
+      "caption": "Day 1 of our Trading Bot Journal.\n\nThis is PAPER TRADING - $10,000 simulated, no real money at risk. We're testing the strategy in the open before any real capital goes in.\n\nToday: 6 longs (BTC, ETH, SOL, XRP, NVDA, AAPL) - all healthy trends without being overextended. Plus 1 short (Gold) - the biggest whale positions are betting against a crowd of retail buyers, and the technicals agree.\n\nEvery position has a stop loss and take profit already set. We'll show you the wins and the losses, every single day.\n\nNot financial advice - educational content only.\n\n#tradingbot #papertrading #investing #stockmarket #crypto #financeeducation #wallstreet #quantcodeai"
     }
   ]
 }
