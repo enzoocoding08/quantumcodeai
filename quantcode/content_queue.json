@@ -22,7 +22,9 @@
       "order": 2,
       "type": "reel",
       "status": "posted",
-      "files": ["docs/content/queue/quantcode-ai-reel19-livermore.mp4"],
+      "files": [
+        "docs/content/queue/quantcode-ai-reel19-livermore.mp4"
+      ],
       "story_file": "docs/content/queue/quantcode-ai-story-reel19.png",
       "caption": "Legendary Traders: Jesse Livermore\n\nStarted trading in the early 1900s with almost nothing and became known as the \"boy plunger\" for making and losing several fortunes. Famously shorted the market before the 1929 crash - and still went broke more than once breaking his own rules.\n\nHis real lesson wasn't a strategy. It was discipline.\n\nNot financial advice - educational content only.\n\n#jesselivermore #legendarytraders #investing #stockmarket #tradingpsychology #financeeducation #wallstreet #quantcodeai"
     },
@@ -31,7 +33,9 @@
       "order": 3,
       "type": "reel",
       "status": "posted",
-      "files": ["docs/content/queue/quantcode-ai-reel21-marketwrap.mp4"],
+      "files": [
+        "docs/content/queue/quantcode-ai-reel21-marketwrap.mp4"
+      ],
       "story_file": "docs/content/queue/quantcode-ai-story-reel21.png",
       "caption": "3 Things That Moved The Market (Friday Sep 4):\n\n1) August payrolls jumped 162K vs just 53K expected - a shocker that sent bond yields higher on renewed rate hike fears.\n\n2) Stocks pulled back across the board: Dow -0.51%, S&P 500 -0.38%, Nasdaq -0.29%.\n\n3) Tesla fell almost 6% after its Cybercab launch left more questions than answers - and regulators opened a safety review.\n\nNew format alert: quick market recaps like this one are happening now. Let us know if you want more of these.\n\nNot financial advice - educational content only.\n\n#stockmarket #investing #markets #tesla #jobsreport #wallstreet #financeeducation #marketrecap #quantcodeai"
     },
@@ -40,7 +44,9 @@
       "order": 4,
       "type": "reel",
       "status": "posted",
-      "files": ["docs/content/queue/quantcode-ai-reel20-simons.mp4"],
+      "files": [
+        "docs/content/queue/quantcode-ai-reel20-simons.mp4"
+      ],
       "story_file": "docs/content/queue/quantcode-ai-story-reel20.png",
       "caption": "Legendary Traders: Jim Simons\n\nA mathematician before he ever traded a stock. In 1988 he started the Medallion Fund and used math and computer models instead of gut instinct - returning about 66% a year before fees for over three decades, a track record almost nobody else in history has matched.\n\nHe hired physicists and codebreakers instead of traditional Wall Street traders. Disciplined data beat intuition, again and again.\n\nNot financial advice - educational content only.\n\n#jimsimons #legendarytraders #quant #investing #stockmarket #financeeducation #wallstreet #quantcodeai"
     },
@@ -64,50 +70,64 @@
       "id": "term-liquidity",
       "order": 6,
       "type": "story",
-      "status": "pending",
-      "files": ["docs/content/queue/quantcode-ai-term-liquidity.png"]
+      "status": "posted",
+      "files": [
+        "docs/content/queue/quantcode-ai-term-liquidity.png"
+      ]
     },
     {
       "id": "term-slippage",
       "order": 7,
       "type": "story",
       "status": "pending",
-      "files": ["docs/content/queue/quantcode-ai-term-slippage.png"]
+      "files": [
+        "docs/content/queue/quantcode-ai-term-slippage.png"
+      ]
     },
     {
       "id": "term-basispoint",
       "order": 8,
       "type": "story",
       "status": "pending",
-      "files": ["docs/content/queue/quantcode-ai-term-basispoint.png"]
+      "files": [
+        "docs/content/queue/quantcode-ai-term-basispoint.png"
+      ]
     },
     {
       "id": "term-bidask",
       "order": 9,
       "type": "story",
       "status": "pending",
-      "files": ["docs/content/queue/quantcode-ai-term-bidask.png"]
+      "files": [
+        "docs/content/queue/quantcode-ai-term-bidask.png"
+      ]
     },
     {
       "id": "term-yieldcurve",
       "order": 10,
       "type": "story",
       "status": "pending",
-      "files": ["docs/content/queue/quantcode-ai-term-yieldcurve.png"]
+      "files": [
+        "docs/content/queue/quantcode-ai-term-yieldcurve.png"
+      ]
     },
     {
       "id": "term-shortsqueeze",
       "order": 11,
       "type": "story",
       "status": "pending",
-      "files": ["docs/content/queue/quantcode-ai-term-shortsqueeze.png"]
+      "files": [
+        "docs/content/queue/quantcode-ai-term-shortsqueeze.png"
+      ]
     },
     {
       "id": "term-hedge",
       "order": 12,
       "type": "story",
       "status": "pending",
-      "files": ["docs/content/queue/quantcode-ai-term-hedge.png"]
+      "files": [
+        "docs/content/queue/quantcode-ai-term-hedge.png"
+      ]
     },
     {
       "id": "legendary-lynch",
@@ -146,7 +166,9 @@
       "order": 15,
       "type": "reel",
       "status": "posted",
-      "files": ["docs/content/queue/quantcode-ai-reel22-dalio.mp4"],
+      "files": [
+        "docs/content/queue/quantcode-ai-reel22-dalio.mp4"
+      ],
       "story_file": "docs/content/queue/quantcode-ai-story-reel22.png",
       "caption": "Legendary Traders: Ray Dalio\n\nStarted Bridgewater Associates in 1975, at just 26, out of a two bedroom apartment in Manhattan. Today it's the largest hedge fund in the world.\n\nHis edge was radical transparency - recording meetings and openly rating employees so bad ideas got challenged by anyone in the room. He's also known for the All Weather portfolio, built to hold up in any economic climate.\n\nNot financial advice - educational content only.\n\n#raydalio #legendarytraders #bridgewater #investing #stockmarket #financeeducation #wallstreet #quantcodeai"
     },
@@ -155,7 +177,9 @@
       "order": 16,
       "type": "reel",
       "status": "pending",
-      "files": ["docs/content/queue/quantcode-ai-reel-quiz1.mp4"],
+      "files": [
+        "docs/content/queue/quantcode-ai-reel-quiz1.mp4"
+      ],
       "story_file": "docs/content/queue/Story-quiz1.png",
       "caption": "Stock or Not: guess which one is riskier.\n\nStock A: PE of 27.9x. Stock B: PE of 18.3x. Which one is the riskier growth stock?\n\nStock A is NVIDIA - revenue up 106% this year. Stock B is Johnson & Johnson, growing single digits. NVIDIA's PE looks high, but its PEG ratio is just 0.63 - actually cheap once you adjust for growth.\n\nThe number alone never tells the whole story.\n\nNot financial advice - educational content only.\n\n#stockmarket #investing #nvidia #financeeducation #stockquiz #wallstreet #quantcodeai"
     },
@@ -164,7 +188,9 @@
       "order": 17,
       "type": "reel",
       "status": "pending",
-      "files": ["docs/content/queue/quantcode-ai-reel-guess1.mp4"],
+      "files": [
+        "docs/content/queue/quantcode-ai-reel-guess1.mp4"
+      ],
       "story_file": "docs/content/queue/Story-guess1.png",
       "caption": "Guess the company from 3 facts:\n\n1) Profit margin of just 3% - one of the thinnest in retail.\n2) PEG ratio of 4.5x - pricier than almost any other 'boring' stock.\n3) Earnings grew 45% year over year.\n\nIt's Costco. Investors pay a premium for a wafer-thin margin business, because the membership model is that reliable.\n\nNot financial advice - educational content only.\n\n#costco #stockmarket #investing #financeeducation #guessthecompany #wallstreet #quantcodeai"
     },
@@ -173,7 +199,9 @@
       "order": 18,
       "type": "reel",
       "status": "pending",
-      "files": ["docs/content/queue/quantcode-ai-reel-portfolio1.mp4"],
+      "files": [
+        "docs/content/queue/quantcode-ai-reel-portfolio1.mp4"
+      ],
       "story_file": "docs/content/queue/Story-portfolio1.png",
       "caption": "Rate My Portfolio: a common beginner mistake we made up to illustrate the point (not a real submission).\n\n90% in one AI stock. 10% in cash. That's it - no bonds, no other sectors, nothing international.\n\nRed flag #1: zero diversification - one bad earnings report and the whole thing moves together.\nRed flag #2: no real cash cushion for when an actual buying opportunity shows up.\n\nThis isn't a portfolio, it's a single bet wearing a costume.\n\nNot financial advice - educational content only.\n\n#ratemyportfolio #investing #stockmarket #financeeducation #personalfinance #wallstreet #quantcodeai"
     },
@@ -182,7 +210,9 @@
       "order": 19,
       "type": "reel",
       "status": "pending",
-      "files": ["docs/content/queue/quantcode-ai-reel-onefact1.mp4"],
+      "files": [
+        "docs/content/queue/quantcode-ai-reel-onefact1.mp4"
+      ],
       "story_file": "docs/content/queue/Story-onefact1.png",
       "caption": "1 Chart, 1 Fact: Adobe's PE looks pretty average at 16x. But its PEG ratio is just 0.6x - making it one of the cheapest large tech stocks, growth-adjusted, in the entire market right now.\n\nNot financial advice - educational content only.\n\n#adobe #stockmarket #investing #financeeducation #wallstreet #quantcodeai"
     },
@@ -191,7 +221,9 @@
       "order": 20,
       "type": "reel",
       "status": "pending",
-      "files": ["docs/content/queue/quantcode-ai-reel-watchlist1.mp4"],
+      "files": [
+        "docs/content/queue/quantcode-ai-reel-watchlist1.mp4"
+      ],
       "story_file": "docs/content/queue/Story-watchlist1.png",
       "caption": "This week's watchlist - 3 stocks, 3 upcoming catalysts:\n\nAdobe reports Sep 10 - cheap growth-adjusted, but down sharply over the past year, so this print matters.\nJohnson & Johnson reports Oct 13 - near 52-week highs, steady mid-single-digit growth.\nNetflix reports Oct 20 - still one of the stronger growth stories in the group.\n\nThree very different setups, all worth watching this month.\n\nNot financial advice - educational content only.\n\n#watchlist #stockmarket #investing #financeeducation #adobe #netflix #wallstreet #quantcodeai"
     },
@@ -200,7 +232,9 @@
       "order": 21,
       "type": "reel",
       "status": "pending",
-      "files": ["docs/content/queue/quantcode-ai-reel24-tradingbot-day1.mp4"],
+      "files": [
+        "docs/content/queue/quantcode-ai-reel24-tradingbot-day1.mp4"
+      ],
       "story_file": "docs/content/queue/quantcode-ai-story-reel24.png",
       "caption": "Day 1 of our Trading Bot Journal.\n\nThis is PAPER TRADING - $10,000 simulated, no real money at risk. We're testing the strategy in the open before any real capital goes in.\n\nToday: 6 longs (BTC, ETH, SOL, XRP, NVDA, AAPL) - all healthy trends without being overextended. Plus 1 short (Gold) - the biggest whale positions are betting against a crowd of retail buyers, and the technicals agree.\n\nEvery position has a stop loss and take profit already set. We'll show you the wins and the losses, every single day.\n\nNot financial advice - educational content only.\n\n#tradingbot #papertrading #investing #stockmarket #crypto #financeeducation #wallstreet #quantcodeai"
     }
