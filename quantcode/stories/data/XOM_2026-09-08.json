@@ -1,0 +1,22 @@
+{
+  "time": "09:15 AM",
+  "country": "US",
+  "company": "Exxon Mobil",
+  "ticker": "XOM",
+  "sector": "Energy",
+  "score": 8,
+  "score_trend": "7 -> 8 -> 8",
+  "headline": "Profits doubled, momentum intact",
+  "tag1": "Net inc +105%", "tag2": "PE 21.4x", "tag3": "Risk: Medium",
+  "chart_range_label": "52-WEEK RANGE",
+  "closes": [105.30, 159.47],
+  "chart_note": "52-week range: $105.30 - $174.09. Currently $159.47, up about 55% over the past year but roughly 8% off the 52-week high.",
+  "market_cap": "$655.7B", "pe_ratio": "21.4x",
+  "high_52w": "$174.09", "low_52w": "$105.30",
+  "avg_volume": "15.7M", "div_yield": "2.6%", "next_earnings": "Oct 23, 2026",
+  "why_today": "Q2 net income more than doubled YoY to $14.5B on rising oil prices, record Permian Basin output, and a sharp turnaround in refining - revenue of $114.5B beat estimates of $109.9B by a wide margin.",
+  "pro_1": "Analyst consensus is Buy (75% buy rating from 30 analysts) on the back of the earnings beat",
+  "pro_2": "Forward PE of roughly 13.8x is notably cheaper than the trailing 21.4x, reflecting expected continued earnings growth",
+  "con_1": "Energy earnings are tied to oil prices staying elevated - a commodity swing can reverse the momentum quickly",
+  "con_2": "Stock is already up 55% over 12 months, so a lot of the good news may already be reflected in the price"
+}

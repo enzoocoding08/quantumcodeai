@@ -1,6 +1,6 @@
 {
-  "last_ticker_index": 18,
-  "last_run_date": "2026-09-07",
+  "last_ticker_index": 22,
+  "last_run_date": "2026-09-08",
   "tickers_per_day": 4,
   "note": "last_ticker_index = Index des ZULETZT abgeschlossenen Tickers (nicht der naechste!). Naechster Lauf: (last_ticker_index+1) bis (last_ticker_index+4), mit Wrap-Around ueber die Listenlaenge. Ab 2026-09-05 laufen Story-Analysen primaer per Web-Recherche (4 Ticker/Tag statt 2, siehe daily trigger), Alpha Vantage nur noch optional falls Quota gerade frei ist."
 }

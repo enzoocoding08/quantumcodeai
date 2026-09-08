@@ -1,0 +1,22 @@
+{
+  "time": "09:15 AM",
+  "country": "US",
+  "company": "McDonald's",
+  "ticker": "MCD",
+  "sector": "Consumer Discretionary",
+  "score": 6,
+  "score_trend": "6 -> 6 -> 6",
+  "headline": "Steady compounder, growth cooling",
+  "tag1": "Beta 0.41", "tag2": "Div 2.9%", "tag3": "Risk: Low",
+  "chart_range_label": "52-WEEK RANGE",
+  "closes": [283.47, 309.56],
+  "chart_note": "52-week range: $283.47 - $341.75. Currently $309.56, about 9% off the 52-week high.",
+  "market_cap": "$220B", "pe_ratio": "25.0x",
+  "high_52w": "$341.75", "low_52w": "$283.47",
+  "avg_volume": "4.6M", "div_yield": "2.9%", "next_earnings": "Nov 5, 2026",
+  "why_today": "Q2 revenue rose 3.7% YoY to $7.1B, meeting estimates, but comparable sales growth slowed to 1.3% from 3.8% a year ago - a sign the pace of the turnaround is cooling even as the stock stays a low-volatility dividend compounder.",
+  "pro_1": "Analyst consensus is Buy (75% buy, 41 analysts), average price target $337 implies room back to highs",
+  "pro_2": "Beta of just 0.41 - one of the most defensive large caps in the market",
+  "con_1": "US same-store sales growth decelerated sharply quarter over quarter",
+  "con_2": "At 25x earnings it is not cheap for a business growing revenue under 4%"
+}

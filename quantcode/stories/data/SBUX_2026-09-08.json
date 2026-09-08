@@ -1,0 +1,22 @@
+{
+  "time": "09:15 AM",
+  "country": "US",
+  "company": "Starbucks",
+  "ticker": "SBUX",
+  "sector": "Consumer Discretionary",
+  "score": 7,
+  "score_trend": "6 -> 7 -> 7",
+  "headline": "Turnaround is real, priced for it too",
+  "tag1": "Comps +7.9%", "tag2": "PE 60x", "tag3": "Risk: Medium",
+  "chart_range_label": "52-WEEK RANGE",
+  "closes": [77.99, 104.47],
+  "chart_note": "52-week range: $77.99 - $110.51. Currently $104.47, near the top of its 52-week range.",
+  "market_cap": "$119.1B", "pe_ratio": "60.2x",
+  "high_52w": "$110.51", "low_52w": "$77.99",
+  "avg_volume": "7.0M", "div_yield": "2.3%", "next_earnings": "Oct 27, 2026",
+  "why_today": "Fiscal Q3 global comparable sales jumped 7.9%, with North America up 8.1% and traffic up 4.5% - CEO Brian Niccol's turnaround is showing up in the numbers, and management raised full-year EPS guidance to $2.55-$2.65.",
+  "pro_1": "Comp sales acceleration and traffic growth beat estimates across every region",
+  "pro_2": "Analyst consensus is Buy from 37 analysts covering the stock",
+  "con_1": "At 60x trailing earnings, a lot of the turnaround is already priced in - average price target of $106 implies only about 2% upside from here",
+  "con_2": "Reported revenue actually slipped 1% YoY due to the China retail stake divestiture, muddying the headline growth picture"
+}

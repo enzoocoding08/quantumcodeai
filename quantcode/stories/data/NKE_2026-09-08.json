@@ -1,0 +1,22 @@
+{
+  "time": "09:15 AM",
+  "country": "US",
+  "company": "Nike",
+  "ticker": "NKE",
+  "sector": "Consumer Discretionary",
+  "score": 5,
+  "score_trend": "5 -> 5 -> 5",
+  "headline": "Deep value or falling knife?",
+  "tag1": "Near 52w low", "tag2": "Div 4.3%", "tag3": "Risk: High",
+  "chart_range_label": "52-WEEK RANGE",
+  "closes": [37.95, 38.41],
+  "chart_note": "52-week range: $37.95 - $76.97. Currently $38.41, sitting right at the bottom of its 52-week range.",
+  "market_cap": "$57.0B", "pe_ratio": "18.3x",
+  "high_52w": "$76.97", "low_52w": "$37.95",
+  "avg_volume": "25.0M", "div_yield": "4.3%", "next_earnings": "Oct 1, 2026",
+  "why_today": "Fiscal Q1 revenue grew about 2% YoY to $12.94B, but Greater China sales fell 12% reported (17% currency-neutral) as Nike overhauls its Chinese distributor network - the core reason the stock trades near a 52-week low.",
+  "pro_1": "Analyst average price target of $50.66 implies roughly 30% upside from current levels",
+  "pro_2": "Dividend yield has climbed to 4.3% after the selloff - a rare level for Nike historically",
+  "con_1": "Consensus rating is only Hold (11 buy / 25 hold / 3 sell of 39 analysts) - Wall Street is not convinced yet",
+  "con_2": "China, historically a top-3 market, is still shrinking double digits with more restructuring ahead into 2027"
+}
