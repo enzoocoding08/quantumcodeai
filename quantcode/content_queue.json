@@ -198,7 +198,7 @@
       "id": "format-test-portfolio",
       "order": 18,
       "type": "reel",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/quantcode-ai-reel-portfolio1.mp4"
       ],
