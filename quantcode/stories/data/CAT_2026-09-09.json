@@ -1,0 +1,22 @@
+{
+  "time": "09:10 AM",
+  "country": "US",
+  "company": "Caterpillar",
+  "ticker": "CAT",
+  "sector": "Industrials",
+  "score": 7,
+  "score_trend": "6 -> 7 -> 7",
+  "headline": "Blowout quarter, but priced for one",
+  "tag1": "Revenue +23.7%", "tag2": "PE 35.0x", "tag3": "Risk: Medium-High",
+  "chart_range_label": "52-WEEK RANGE",
+  "closes": [416.44, 822.00],
+  "chart_note": "52-week range: $416.44 - $1,073.46. Currently $822.00, nearly double its 52-week low after a roughly 95% run over the past year.",
+  "market_cap": "$378.1B", "pe_ratio": "35.0x",
+  "high_52w": "$1,073.46", "low_52w": "$416.44",
+  "avg_volume": "3.2M", "div_yield": "0.8%", "next_earnings": "Nov 2026 (est.)",
+  "why_today": "Q2 revenue jumped 23.7% YoY to a record $20.5B, adjusted EPS beat estimates by 32%, and backlog surged to a record $72B - up 92% from a year earlier - prompting management to raise full-year guidance.",
+  "pro_1": "Analyst consensus is Buy (19 analysts), though the average price target of $975.61 implies more moderate upside from here",
+  "pro_2": "Record backlog with 59% deliverable in the next 12 months gives real revenue visibility",
+  "con_1": "At 35x earnings after a 95% 12-month rally, this is priced for continued perfection, not just good results",
+  "con_2": "Beta of 1.59 - among the more volatile names in this basket if the industrial cycle turns"
+}

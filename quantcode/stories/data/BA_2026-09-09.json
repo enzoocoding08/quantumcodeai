@@ -1,0 +1,22 @@
+{
+  "time": "09:10 AM",
+  "country": "US",
+  "company": "Boeing",
+  "ticker": "BA",
+  "sector": "Industrials",
+  "score": 7,
+  "score_trend": "6 -> 7 -> 7",
+  "headline": "Record backlog, still not profitable",
+  "tag1": "Backlog $715B", "tag2": "Still lossmaking", "tag3": "Risk: Medium",
+  "chart_range_label": "52-WEEK RANGE",
+  "closes": [176.77, 213.17],
+  "chart_note": "52-week range: $176.77 - $254.35. Currently $213.17, roughly in the middle of its 52-week range.",
+  "market_cap": "$167.5B", "pe_ratio": "n/m (unprofitable)",
+  "high_52w": "$254.35", "low_52w": "$176.77",
+  "avg_volume": "5.5M", "div_yield": "0.0%", "next_earnings": "Oct 28, 2026",
+  "why_today": "Q2 revenue grew 8% YoY to $24.6B on 171 commercial deliveries, and total backlog hit a record $715B - but Boeing still posted a GAAP loss of $0.67 per share, underscoring the turnaround isn't finished yet.",
+  "pro_1": "Analyst consensus is Buy (28 analysts), average price target $274.85 implies nearly 29% upside",
+  "pro_2": "737 production ramping toward 52/month, management calls $10B in free cash flow \"very attainable\" over time",
+  "con_1": "Still not profitable on a GAAP basis - the turnaround is real but not finished",
+  "con_2": "$45.9B in consolidated debt against the backlog means execution risk still matters a lot here"
+}

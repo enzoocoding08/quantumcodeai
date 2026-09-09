@@ -1,0 +1,22 @@
+{
+  "time": "09:10 AM",
+  "country": "US",
+  "company": "Chevron",
+  "ticker": "CVX",
+  "sector": "Energy",
+  "score": 8,
+  "score_trend": "7 -> 8 -> 8",
+  "headline": "Net income up 384%, near record highs",
+  "tag1": "Net inc +384%", "tag2": "PE 18.9x", "tag3": "Risk: Low",
+  "chart_range_label": "52-WEEK RANGE",
+  "closes": [146.49, 210.38],
+  "chart_note": "52-week range: $146.49 - $214.71. Currently $210.38, near the 52-week high after a 28% run over the past year.",
+  "market_cap": "$370.3B", "pe_ratio": "18.9x",
+  "high_52w": "$214.71", "low_52w": "$146.49",
+  "avg_volume": "7.5M", "div_yield": "3.6%", "next_earnings": "Oct 23, 2026 (est.)",
+  "why_today": "Q2 net income jumped 384% YoY to $12.1B, adjusted EPS beat estimates by nearly 19%, and production hit a record on the back of Hess integration synergies that came in 50% above target and ahead of schedule.",
+  "pro_1": "Analyst consensus is Buy (25 analysts), average price target $221 implies further upside near highs",
+  "pro_2": "Hess synergies and structural cost cuts landed six months early - real execution, not just guidance",
+  "con_1": "Stock already up 28% over 12 months and sitting near its 52-week high - a lot of good news may be priced in",
+  "con_2": "Energy earnings stay tied to oil prices - a commodity pullback would hit this thesis directly"
+}

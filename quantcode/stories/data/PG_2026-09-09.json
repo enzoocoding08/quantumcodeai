@@ -1,0 +1,22 @@
+{
+  "time": "09:10 AM",
+  "country": "US",
+  "company": "Procter & Gamble",
+  "ticker": "PG",
+  "sector": "Consumer Staples",
+  "score": 5,
+  "score_trend": "6 -> 5 -> 5",
+  "headline": "Steady dividend, stalling growth",
+  "tag1": "Organic sales flat", "tag2": "Beta 0.38", "tag3": "Risk: Low",
+  "chart_range_label": "52-WEEK RANGE",
+  "closes": [137.62, 146.53],
+  "chart_note": "52-week range: $137.62 - $167.25. Currently $146.53, well off the 52-week high and close to the low end of its range.",
+  "market_cap": "$338.2B", "pe_ratio": "23.4x",
+  "high_52w": "$167.25", "low_52w": "$137.62",
+  "avg_volume": "7.8M", "div_yield": "2.8%", "next_earnings": "Oct 22, 2026",
+  "why_today": "Fiscal Q4 organic sales were flat YoY and core operating margin fell 130 basis points, with core EPS down 3% - a soft quarter that explains why the stock is trading closer to its 52-week low than its high.",
+  "pro_1": "One of the lowest-beta large caps in the market (0.38) - a genuine ballast holding in a volatile portfolio",
+  "pro_2": "$2.8B in pre-tax productivity savings this year still funds brand investment despite margin pressure",
+  "con_1": "Full-year organic sales growth of just 1%, with margins moving the wrong direction",
+  "con_2": "Trading near 52-week lows is a signal the market isn't yet convinced the growth slowdown is temporary"
+}
