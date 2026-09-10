@@ -10,11 +10,11 @@
       "take_profit": 84500,
       "stop_loss": 77000,
       "signals_at_entry": "not recorded at entry time - general note was 'healthy trend without being overextended'",
-      "status": "open",
-      "exit_price": null,
-      "exit_date": null,
-      "result_pct": null,
-      "outcome_notes": null
+      "status": "closed",
+      "exit_price": 76984,
+      "exit_date": "2026-09-10",
+      "result_pct": -3.07,
+      "outcome_notes": "Stop-loss triggered as designed (SL was 77000, filled at 76984). Realized PnL -$24.54. Second closed trade in this log, part of a broader macro risk-off move (oil back above $100/bbl, ECB hike, global equities retreating)."
     },
     {
       "id": "day1-eth-long",
@@ -123,9 +123,9 @@
     }
   ],
   "stats": {
-    "note": "Still not computed - 1 closed trade (a loss) out of 8 total tells us nothing about real edge. Revisit after a meaningful number of CLOSED trades (20+).",
+    "note": "Still not computed - 2 closed trades (both losses) out of 8 total tells us nothing about real edge. Revisit after a meaningful number of CLOSED trades (20+).",
     "total_trades": 8,
-    "closed_trades": 1,
+    "closed_trades": 2,
     "win_rate": null,
     "avg_r_multiple": null,
     "expectancy": null
