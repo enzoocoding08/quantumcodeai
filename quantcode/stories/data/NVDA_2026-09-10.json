@@ -1,0 +1,22 @@
+{
+  "time": "09:10 AM",
+  "country": "US",
+  "company": "NVIDIA",
+  "ticker": "NVDA",
+  "sector": "Technology",
+  "score": 9,
+  "score_trend": "8 -> 9 -> 9",
+  "headline": "Revenue doubled, Street unanimous",
+  "tag1": "Revenue +106%", "tag2": "29/29 Buy", "tag3": "Risk: Medium",
+  "chart_range_label": "52-WEEK RANGE",
+  "closes": [164.27, 224.37],
+  "chart_note": "52-week range: $164.27 - $236.54. Currently $224.37, near the top of its 52-week range.",
+  "market_cap": "$5.52T", "pe_ratio": "28.5x",
+  "high_52w": "$236.54", "low_52w": "$164.27",
+  "avg_volume": "n/a", "div_yield": "0.0%", "next_earnings": "Nov 17, 2026",
+  "why_today": "Q2 FY27 revenue came in at $96.2B, up 106% YoY, with Data Center revenue of $89.0B up 117% YoY on relentless AI GPU demand. Gross margins held at 75%, and guidance calls for about $108B next quarter.",
+  "pro_1": "Every one of the 29 analysts covering the stock rates it Buy or Strong Buy - rare unanimity",
+  "pro_2": "Average price target of $325.23 implies roughly 45% upside from current levels",
+  "con_1": "Growth this explosive eventually decelerates - the bar for 'beat and raise' keeps getting higher",
+  "con_2": "At 28.5x earnings on a $5.5T market cap, any AI-spending slowdown would hit hard given the size of the bet already priced in"
+}

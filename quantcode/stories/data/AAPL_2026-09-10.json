@@ -1,0 +1,22 @@
+{
+  "time": "09:10 AM",
+  "country": "US",
+  "company": "Apple",
+  "ticker": "AAPL",
+  "sector": "Technology",
+  "score": 7,
+  "score_trend": "7 -> 7 -> 7",
+  "headline": "Steady execution, fairly valued",
+  "tag1": "iPhone rev +22%", "tag2": "PE 36.3x", "tag3": "Risk: Low",
+  "chart_range_label": "52-WEEK RANGE",
+  "closes": [225.95, 316.22],
+  "chart_note": "52-week range: $225.95 - $344.57. Currently $316.22, roughly in the upper-middle of its 52-week range.",
+  "market_cap": "$4.57T", "pe_ratio": "36.3x",
+  "high_52w": "$344.57", "low_52w": "$225.95",
+  "avg_volume": "54M", "div_yield": "0.35%", "next_earnings": "Oct 29, 2026",
+  "why_today": "Fiscal Q3 revenue hit a June-quarter record of $109.4B, up 16% YoY, with iPhone revenue up 22% on iPhone 17 demand and EPS growing 29%. Mac and Services also posted record quarters.",
+  "pro_1": "Analyst consensus is Buy (24 buy / 6 sell), with broad-based growth across iPhone, Mac, and Services",
+  "pro_2": "Beta of 1.09 - moves roughly in line with the market, a relatively steady large-cap holding",
+  "con_1": "Average price target of $323.86 implies only modest upside from current levels - a lot of the good news is already priced in",
+  "con_2": "At 36x earnings, valuation leaves little room for a growth disappointment"
+}

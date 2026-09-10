@@ -1,0 +1,22 @@
+{
+  "time": "09:10 AM",
+  "country": "US",
+  "company": "Intel",
+  "ticker": "INTC",
+  "sector": "Technology",
+  "score": 6,
+  "score_trend": "5 -> 6 -> 6",
+  "headline": "Real turnaround, but already priced in",
+  "tag1": "Revenue +25%", "tag2": "PE 42.8x", "tag3": "Risk: High",
+  "chart_range_label": "52-WEEK RANGE",
+  "closes": [24.05, 105.16],
+  "chart_note": "52-week range: $24.05 - $142.35. Currently $105.16, up over 300% from the 52-week low.",
+  "market_cap": "$561.6B", "pe_ratio": "42.8x (fwd)",
+  "high_52w": "$142.35", "low_52w": "$24.05",
+  "avg_volume": "134.4M", "div_yield": "0.0%", "next_earnings": "Oct 22, 2026 (est.)",
+  "why_today": "Q2 revenue jumped 25% YoY to $16.1B, the strongest growth in over 15 years, driven by AI demand. Foundry losses narrowed sharply from -71.7% to -36.2% operating margin - real progress, though the unit still lost $2.1B for the quarter.",
+  "pro_1": "Foundry turnaround is showing up in the numbers, not just guidance - losses cut nearly in half in a year",
+  "pro_2": "Revenue growth of 25% is Intel's best in over a decade",
+  "con_1": "Analyst consensus is only Hold (63% hold, just 31% buy) - Wall Street wants more proof before conviction",
+  "con_2": "Dividend suspended, beta of 2.23 (highly volatile), and a negative PEG ratio reflecting still-fragile earnings"
+}

@@ -1,0 +1,22 @@
+{
+  "time": "09:10 AM",
+  "country": "US",
+  "company": "Microsoft",
+  "ticker": "MSFT",
+  "sector": "Technology",
+  "score": 8,
+  "score_trend": "7 -> 8 -> 8",
+  "headline": "Azure acceleration, Street conviction",
+  "tag1": "Azure +43%", "tag2": "PEG 1.57", "tag3": "Risk: Low",
+  "chart_range_label": "52-WEEK RANGE",
+  "closes": [349.20, 495.40],
+  "chart_note": "52-week range: $349.20 - $553.72. Currently $495.40, up about 25% over the past year, outpacing the S&P 500's 18% gain.",
+  "market_cap": "$4T", "pe_ratio": "20.7x",
+  "high_52w": "$553.72", "low_52w": "$349.20",
+  "avg_volume": "21.6M", "div_yield": "0.72%", "next_earnings": "Oct 29, 2026 (est.)",
+  "why_today": "Q4 FY26 revenue hit $90.0B, up 18% YoY and beating estimates by $2.4B. Azure growth accelerated to 43% YoY (from ~40% in Q3), pushing full-year Azure revenue above $100B for the first time - shares rose about 8% on the report.",
+  "pro_1": "Analyst consensus is Strong Buy (55 analysts), average price target $572.92 implies meaningful upside",
+  "pro_2": "Azure growth is accelerating, not decelerating - a rare combination at this scale",
+  "con_1": "Guidance calls for continued heavy AI infrastructure spending, which pressures near-term margins",
+  "con_2": "Still down from its 52-week high of $553.72, so the market isn't fully rewarding the acceleration yet"
+}
