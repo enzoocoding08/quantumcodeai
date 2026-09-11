@@ -1,0 +1,22 @@
+{
+  "time": "09:11 AM",
+  "country": "US",
+  "company": "Amazon",
+  "ticker": "AMZN",
+  "sector": "Consumer Discretionary",
+  "score": 8,
+  "score_trend": "8 -> 8",
+  "headline": "AWS accelerates to fastest pace in 18 quarters",
+  "tag1": "AWS +37%", "tag2": "61 Strong Buy", "tag3": "Risk: Medium",
+  "chart_range_label": "52-WEEK RANGE",
+  "closes": [196.00, 252.40],
+  "chart_note": "52-week range: $196.00 - $287.20. Currently $252.40, up from the 52-week low but still below its high.",
+  "market_cap": "$2.72T", "pe_ratio": "35.3x",
+  "high_52w": "$287.20", "low_52w": "$196.00",
+  "avg_volume": "n/a", "div_yield": "0.0%", "next_earnings": "Oct 22, 2026",
+  "why_today": "Q2 2026 net sales hit $200.6B, up 20% YoY. AWS revenue jumped 37% YoY to $42.2B - its fastest growth pace in 18 quarters, helped by an AI-related boost from Anthropic. Operating income rose 43% YoY to $27.5B, outpacing revenue growth.",
+  "pro_1": "AWS reaccelerating just as AI-cloud demand peaks - fastest growth in over 4 years",
+  "pro_2": "61 analysts rate it Strong Buy, average price target of $328 implies roughly 30% upside",
+  "con_1": "PE of 35x is a premium versus the broader market, leaving less room for error",
+  "con_2": "Retail margins remain thinner than AWS, so any cloud slowdown would hit profitability hard"
+}

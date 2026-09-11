@@ -1,0 +1,22 @@
+{
+  "time": "09:11 AM",
+  "country": "US",
+  "company": "Tesla",
+  "ticker": "TSLA",
+  "sector": "Consumer Discretionary",
+  "score": 6,
+  "score_trend": "5 -> 6",
+  "headline": "Record deliveries, but profits keep missing",
+  "tag1": "Deliveries +25%", "tag2": "PE 342x", "tag3": "Risk: High",
+  "chart_range_label": "52-WEEK RANGE",
+  "closes": [182.00, 367.22],
+  "chart_note": "52-week range: $182.00 - $488.54. Currently $367.22, still about 25% below its 52-week high.",
+  "market_cap": "$1.45T", "pe_ratio": "342.1x",
+  "high_52w": "$488.54", "low_52w": "$182.00",
+  "avg_volume": "n/a", "div_yield": "0.0%", "next_earnings": "Oct 28, 2026",
+  "why_today": "Q2 2026 deliveries hit a record 480,126 vehicles, up 25% YoY and beating estimates by 74,000. Revenue hit a record $28.24B, up 26% YoY. But profits missed again on heavy spending, and shares fell 14.5% on the report despite the record top line.",
+  "pro_1": "Deliveries and revenue both at all-time highs, ending two years of delivery declines",
+  "pro_2": "Energy storage deployment up 53% sequentially, a fast-growing side of the business",
+  "con_1": "Trailing PE of 342x prices in years of flawless execution - extremely little margin for error",
+  "con_2": "Profits keep missing even as revenue grows, and analyst price target implies only about 7% upside"
+}

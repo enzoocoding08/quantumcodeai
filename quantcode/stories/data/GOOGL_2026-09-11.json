@@ -1,0 +1,22 @@
+{
+  "time": "09:11 AM",
+  "country": "US",
+  "company": "Alphabet",
+  "ticker": "GOOGL",
+  "sector": "Technology",
+  "score": 8,
+  "score_trend": "7 -> 8",
+  "headline": "Cloud surges 82%, still down from highs",
+  "tag1": "Cloud +82%", "tag2": "58/58 Buy", "tag3": "Risk: Low",
+  "chart_range_label": "52-WEEK RANGE",
+  "closes": [235.84, 332.60],
+  "chart_note": "52-week range: $235.84 - $408.61. Currently $332.60, about 19% below its February high despite record Cloud growth.",
+  "market_cap": "$4.06T", "pe_ratio": "16.7x",
+  "high_52w": "$408.61", "low_52w": "$235.84",
+  "avg_volume": "n/a", "div_yield": "0.27%", "next_earnings": "Oct 27, 2026 (est.)",
+  "why_today": "Q2 2026 revenue hit $119.8B, up 24% YoY, with Google Cloud revenue surging 82% to $24.8B on AI infrastructure demand. Net income jumped 298% to $112B. All 58 analysts covering the stock rate it a Buy, yet shares remain about 19% below their February high.",
+  "pro_1": "Cloud growth accelerating fast (82% YoY) while the stock trades at just 16.7x earnings - cheap for this growth rate",
+  "pro_2": "Unanimous Buy consensus (58/58 analysts), average price target of $428 implies roughly 29% upside",
+  "con_1": "Heavy AI infrastructure spending could pressure margins if growth decelerates",
+  "con_2": "Still hasn't reclaimed its February high, showing the market wants more proof before re-rating it"
+}

@@ -1,0 +1,22 @@
+{
+  "time": "09:11 AM",
+  "country": "US",
+  "company": "Meta Platforms",
+  "ticker": "META",
+  "sector": "Technology",
+  "score": 7,
+  "score_trend": "6 -> 7",
+  "headline": "Revenue up 28%, but EPS missed on AI spend",
+  "tag1": "Revenue +28%", "tag2": "PEG 0.91", "tag3": "Risk: Medium",
+  "chart_range_label": "52-WEEK RANGE",
+  "closes": [520.26, 649.92],
+  "chart_note": "52-week range: $520.26 - $796.25. Currently $649.92, about 18% below its 52-week high.",
+  "market_cap": "$1.65T", "pe_ratio": "24.3x",
+  "high_52w": "$796.25", "low_52w": "$520.26",
+  "avg_volume": "n/a", "div_yield": "0.3%", "next_earnings": "Oct 28, 2026 (est.)",
+  "why_today": "Q2 2026 revenue reached $60.8B, up 28% YoY on strong ad growth. But EPS of $6.18 missed the $7.22 estimate as total costs jumped 55%, compressing operating margin to 31% from 43% a year ago. Full-year capex guidance was raised to $130-145B.",
+  "pro_1": "Ad revenue growth still accelerating (28% YoY), and PEG of 0.91 suggests the growth isn't fully priced in",
+  "pro_2": "62 analysts rate it Strong Buy, average price target of $754 implies roughly 17% upside",
+  "con_1": "Operating margin compressed sharply (43% to 31%) as AI infrastructure spending ramps",
+  "con_2": "Capex guidance keeps climbing ($130-145B for FY26), raising the bar for AI spend to pay off"
+}
