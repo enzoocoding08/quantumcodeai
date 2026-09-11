@@ -220,7 +220,7 @@
       "id": "format-test-watchlist",
       "order": 20,
       "type": "reel",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/quantcode-ai-reel-watchlist1.mp4"
       ],
