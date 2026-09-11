@@ -354,6 +354,15 @@
       "files": ["docs/content/queue/quantcode-ai-reel-onefact2.mp4"],
       "story_file": "docs/content/queue/Story-onefact2.png",
       "caption": "1 Chart, 1 Fact: Alphabet's cloud revenue surged 82% year over year last quarter. But the stock trades at just 16.7x earnings - one of the cheapest large-cap tech names in the entire market right now.\n\nNot financial advice - educational content only.\n\n#alphabet #google #stockmarket #investing #financeeducation #wallstreet #quantcodeai"
+    },
+    {
+      "id": "term-assetallocation",
+      "order": 35,
+      "type": "reel",
+      "status": "pending",
+      "files": ["docs/content/queue/quantcode-ai-reel42-assetallocation.mp4"],
+      "story_file": "docs/content/queue/Story-reel42.png",
+      "caption": "Asset Allocation.\n\nBefore you pick a single stock, this decision matters more. It's how you split your money across stocks, bonds, cash, and other assets based on your goals and how much risk you can actually stomach.\n\nA 25-year-old and a 65-year-old shouldn't own the same mix, even with identical amounts of money. Time horizon changes everything - more time means more room to ride out a crash.\n\nGet the allocation right, and the individual stock picks matter less than you'd think. Get it wrong, and no amount of stock-picking skill saves you.\n\nNot financial advice - educational content only.\n\n#assetallocation #investing #stockmarket #financeeducation #riskmanagement #wallstreet #quantcodeai"
     }
   ]
 }
