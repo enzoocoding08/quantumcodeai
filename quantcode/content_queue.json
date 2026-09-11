@@ -282,6 +282,78 @@
       "files": ["docs/content/queue/quantcode-ai-reel35-tradingbot-day4.mp4"],
       "story_file": "docs/content/queue/quantcode-ai-story-reel35.png",
       "caption": "Day 4 of our Trading Bot Journal.\n\nThis is PAPER TRADING - $10,000 simulated, no real money at risk.\n\nToday: two more stop-losses hit - Bitcoin and Nvidia, both closed exactly as designed, down $67.29 combined. Our Gold and Amazon shorts kept gaining, up almost $32 combined.\n\nThe story today: hot producer prices pushed bond yields higher and raised the odds of a Fed rate hike next week, with oil still above $100 a barrel.\n\nWe screened stocks, the index, and crypto for a new trade - nothing cleared our 3-signal bar. So today: no new trade. Discipline over activity.\n\nNot financial advice - educational content only.\n\n#tradingbot #papertrading #investing #stockmarket #crypto #financeeducation #wallstreet #quantcodeai"
+    },
+    {
+      "id": "term-marketcap",
+      "order": 27,
+      "type": "reel",
+      "status": "pending",
+      "files": ["docs/content/queue/quantcode-ai-reel37-marketcap.mp4"],
+      "story_file": "docs/content/queue/Story-reel37.png",
+      "caption": "Market Capitalization.\n\nShare price times the number of shares - the market's total bet on a company's future.\n\nA $1B company and a $1T company are playing completely different games. Small caps can double on good news, but crash just as fast. Mega caps move slower, but one can drag an entire index with it.\n\nMarket cap isn't a quality signal - a huge company can be a bad investment, and a tiny one can be a great one. It just tells you the size of the bet everyone else is already making.\n\nNot financial advice - educational content only.\n\n#marketcap #investing #stockmarket #financeeducation #wallstreet #quantcodeai"
+    },
+    {
+      "id": "term-peratio",
+      "order": 28,
+      "type": "reel",
+      "status": "pending",
+      "files": ["docs/content/queue/quantcode-ai-reel38-peratio.mp4"],
+      "story_file": "docs/content/queue/Story-reel38.png",
+      "caption": "Price to Earnings Ratio.\n\nHow many years of current profit it would take to earn back what you paid for the stock. A PE of 15 means 15 years of today's earnings.\n\nSounds simple - but a high PE isn't automatically expensive, and a low one isn't automatically cheap. A fast grower can justify a higher multiple, a company in decline deserves a lower one.\n\nThe real question is never just the number - it's whether the growth behind it justifies the price.\n\nNot financial advice - educational content only.\n\n#peratio #investing #stockmarket #financeeducation #wallstreet #quantcodeai"
+    },
+    {
+      "id": "term-bullbear",
+      "order": 29,
+      "type": "reel",
+      "status": "pending",
+      "files": ["docs/content/queue/quantcode-ai-reel39-bullbear.mp4"],
+      "story_file": "docs/content/queue/Story-reel39.png",
+      "caption": "Bull Market vs Bear Market.\n\nWall Street's favorite animals - and they're not just vibes, there's an actual definition. A bear market is a drop of 20% or more from a recent high. A bull market is everything after that.\n\nBear markets feel endless while you're in one - but historically they've been shorter than bull markets, which have made up the losses and then some.\n\nThe mistake isn't being in a bear market. It's panic-selling at the bottom of one.\n\nNot financial advice - educational content only.\n\n#bullmarket #bearmarket #investing #stockmarket #financeeducation #wallstreet #quantcodeai"
+    },
+    {
+      "id": "term-indexfunds",
+      "order": 30,
+      "type": "reel",
+      "status": "pending",
+      "files": ["docs/content/queue/quantcode-ai-reel40-indexfunds.mp4"],
+      "story_file": "docs/content/queue/Story-reel40.png",
+      "caption": "Index Funds.\n\nInstead of picking individual stocks, you buy a tiny slice of hundreds or thousands of companies at once. No stock-picking, no guessing which company wins - you just own the market.\n\nThe tradeoff: you'll never beat the market, because you literally are the market, minus a tiny fee. But most professional fund managers don't beat it either, especially after fees.\n\nFor most people, owning everything, cheaply, for decades, quietly wins.\n\nNot financial advice - educational content only.\n\n#indexfunds #investing #stockmarket #financeeducation #wallstreet #quantcodeai"
+    },
+    {
+      "id": "term-inflationrates",
+      "order": 31,
+      "type": "reel",
+      "status": "pending",
+      "files": ["docs/content/queue/quantcode-ai-reel41-inflationrates.mp4"],
+      "story_file": "docs/content/queue/Story-reel41.png",
+      "caption": "Inflation & Interest Rates.\n\nLocked in a constant tug of war. When inflation runs hot, central banks raise interest rates to cool the economy down - borrowing gets more expensive, spending slows.\n\nBut higher rates also make stocks less attractive versus safer bonds, which is why markets often wobble on inflation reports.\n\nIt's not one villain and one hero - it's a lever central banks pull, and stocks, bonds, and your mortgage all react.\n\nNot financial advice - educational content only.\n\n#inflation #interestrates #investing #stockmarket #financeeducation #wallstreet #quantcodeai"
+    },
+    {
+      "id": "format-test-guess2",
+      "order": 32,
+      "type": "reel",
+      "status": "pending",
+      "files": ["docs/content/queue/quantcode-ai-reel-guess2.mp4"],
+      "story_file": "docs/content/queue/Story-guess2.png",
+      "caption": "Guess the company from 3 facts:\n\n1) Net profit margin of 51.7% - nearly 5x the industry average.\n2) PE ratio around 31x - a clear premium to the market.\n3) Revenue growing 16-17% a year.\n\nIt's Visa. A near-monopoly on global payment processing - investors pay a premium for margins almost no other business model can touch.\n\nNot financial advice - educational content only.\n\n#visa #stockmarket #investing #financeeducation #guessthecompany #wallstreet #quantcodeai"
+    },
+    {
+      "id": "format-test-portfolio2",
+      "order": 33,
+      "type": "reel",
+      "status": "pending",
+      "files": ["docs/content/queue/quantcode-ai-reel-portfolio2.mp4"],
+      "story_file": "docs/content/queue/Story-portfolio2.png",
+      "caption": "Rate My Portfolio: another common beginner mistake we made up to illustrate the point (not a real submission).\n\n70% in 3 regional bank stocks. 20% in a single high-yield junk bond fund. 10% cash. That's it.\n\nRed flag #1: fake diversification - 3 stocks in the same sector move together, so a rate scare or credit event hits all 3 at once.\nRed flag #2: those junk bonds aren't actually safe - they behave more like stocks than real fixed income.\n\nThis isn't diversified. It's the same bet, worn three different disguises.\n\nNot financial advice - educational content only.\n\n#ratemyportfolio #investing #stockmarket #financeeducation #personalfinance #wallstreet #quantcodeai"
+    },
+    {
+      "id": "format-test-onefact2",
+      "order": 34,
+      "type": "reel",
+      "status": "pending",
+      "files": ["docs/content/queue/quantcode-ai-reel-onefact2.mp4"],
+      "story_file": "docs/content/queue/Story-onefact2.png",
+      "caption": "1 Chart, 1 Fact: Alphabet's cloud revenue surged 82% year over year last quarter. But the stock trades at just 16.7x earnings - one of the cheapest large-cap tech names in the entire market right now.\n\nNot financial advice - educational content only.\n\n#alphabet #google #stockmarket #investing #financeeducation #wallstreet #quantcodeai"
     }
   ]
 }
