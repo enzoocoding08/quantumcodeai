@@ -1,0 +1,22 @@
+{
+  "time": "09:12 AM",
+  "country": "US",
+  "company": "Adobe",
+  "ticker": "ADBE",
+  "sector": "Technology",
+  "score": 7,
+  "score_trend": "6 -> 7",
+  "headline": "Cheap growth, but the market is skeptical",
+  "tag1": "PEG 0.70", "tag2": "12 Buy / 5 Sell", "tag3": "Risk: Medium",
+  "chart_range_label": "52-WEEK RANGE",
+  "closes": [190.12, 254.39],
+  "chart_note": "52-week range: $190.12 - $370.86. Currently $254.39, about 31% below its high after a rough year.",
+  "market_cap": "$98.85B", "pe_ratio": "14.6x",
+  "high_52w": "$370.86", "low_52w": "$190.12",
+  "avg_volume": "n/a", "div_yield": "0.0%", "next_earnings": "Dec 2026 (est.)",
+  "why_today": "Q3 FY26 revenue hit $6.76B, up 13% YoY, with non-GAAP EPS of $6.13 up 15% YoY - beating estimates and raising full-year guidance. Yet shares fell 4.45% on the report, extending a year-long slide as the market questions whether AI tools threaten Adobe's core creative-software moat.",
+  "pro_1": "PEG ratio of just 0.70 - cheap relative to its own growth rate, and one of the lowest among large-cap software names",
+  "pro_2": "Guidance raised despite the stock selloff, showing the business itself is still executing",
+  "con_1": "Analyst consensus has cooled to Neutral (12 Buy vs 5 Sell) - real disagreement about the AI-disruption risk",
+  "con_2": "Stock keeps falling even on good numbers - the market isn't rewarding fundamentals right now"
+}

@@ -1,0 +1,22 @@
+{
+  "time": "09:12 AM",
+  "country": "US",
+  "company": "Salesforce",
+  "ticker": "CRM",
+  "sector": "Technology",
+  "score": 7,
+  "score_trend": "7 -> 7",
+  "headline": "Steady Buy consensus, climbing off its low",
+  "tag1": "PE 22.6x", "tag2": "56 Buy", "tag3": "Risk: Medium",
+  "chart_range_label": "52-WEEK RANGE",
+  "closes": [146.32, 247.55],
+  "chart_note": "52-week range: $146.32 - $269.11. Currently $247.55, up sharply from its low and closing in on its high.",
+  "market_cap": "$203.82B", "pe_ratio": "22.6x",
+  "high_52w": "$269.11", "low_52w": "$146.32",
+  "avg_volume": "n/a", "div_yield": "n/a", "next_earnings": "Dec 2026 (est.)",
+  "why_today": "Salesforce shares have climbed roughly 69% off their 52-week low, recovering as enterprise software spending stabilizes and its AI-agent push (Agentforce) gains traction with customers. Consensus remains a solid Buy.",
+  "pro_1": "56 analysts rate it Buy, average price target of $273 implies further upside from here",
+  "pro_2": "Sharp recovery off the 52-week low shows renewed investor confidence in the AI-agent growth story",
+  "con_1": "PE of 22.6x prices in continued execution on Agentforce - any stumble could hit hard given the recent run-up",
+  "con_2": "Enterprise software spending is still sensitive to broader corporate budget tightening"
+}

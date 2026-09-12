@@ -1,0 +1,22 @@
+{
+  "time": "09:12 AM",
+  "country": "US",
+  "company": "Disney",
+  "ticker": "DIS",
+  "sector": "Communication Services",
+  "score": 7,
+  "score_trend": "5 -> 7",
+  "headline": "Strong Buy consensus, steady near highs",
+  "tag1": "Div 1.41%", "tag2": "Strong Buy", "tag3": "Risk: Low",
+  "chart_range_label": "52-WEEK RANGE",
+  "closes": [92.19, 106.50],
+  "chart_note": "52-week range: $92.19 - $117.09. Currently $106.50, only about 9% below its high - one of the steadier names on the list.",
+  "market_cap": "$183.95B", "pe_ratio": "22.0x",
+  "high_52w": "$117.09", "low_52w": "$92.19",
+  "avg_volume": "n/a", "div_yield": "1.41%", "next_earnings": "Nov 2026 (est.)",
+  "why_today": "Disney has quietly stabilized this year, trading in a relatively tight band near its 52-week high while streaming profitability improves and parks demand stays resilient. Analyst sentiment has turned notably more bullish than earlier in the year.",
+  "pro_1": "32 analysts rate it Strong Buy, with an average price target of $128 implying about 20% upside",
+  "pro_2": "Pays a 1.41% dividend while trading near 52-week highs - a rare combination of income and momentum",
+  "con_1": "PE of 22x isn't cheap for a media conglomerate facing ongoing linear-TV decline",
+  "con_2": "Parks and streaming both remain sensitive to a broader consumer spending slowdown"
+}

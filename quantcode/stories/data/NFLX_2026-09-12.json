@@ -1,0 +1,22 @@
+{
+  "time": "09:12 AM",
+  "country": "US",
+  "company": "Netflix",
+  "ticker": "NFLX",
+  "sector": "Communication Services",
+  "score": 6,
+  "score_trend": "8 -> 6",
+  "headline": "Down 38% from its high, still a Buy consensus",
+  "tag1": "PE 23.9x", "tag2": "36 Buy / 15 Hold", "tag3": "Risk: Medium",
+  "chart_range_label": "52-WEEK RANGE",
+  "closes": [65.08, 77.40],
+  "chart_note": "52-week range: $65.08 - $124.86 (post-split adjusted). Currently $77.40, about 38% below its high.",
+  "market_cap": "$322B", "pe_ratio": "23.9x",
+  "high_52w": "$124.86", "low_52w": "$65.08",
+  "avg_volume": "n/a", "div_yield": "0.0%", "next_earnings": "Oct 2026 (est.)",
+  "why_today": "Netflix shares have slid roughly 38% from their 52-week high, a notable pullback for a name that spent much of the last two years grinding higher on password-sharing crackdowns and ad-tier growth. Despite the drawdown, 36 of 51 covering analysts still rate it a Buy.",
+  "pro_1": "Still a majority-Buy stock (71% of analysts) even after the pullback, at a PE of just 23.9x versus its own recent history",
+  "pro_2": "Large, profitable, and diversified across originals, live sports, and an ad-supported tier",
+  "con_1": "A 38% drawdown from highs signals real investor concern - content spend, competition, or growth deceleration",
+  "con_2": "Streaming competition keeps intensifying, pressuring both subscriber growth and pricing power"
+}
