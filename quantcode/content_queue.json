@@ -287,7 +287,7 @@
       "id": "term-marketcap",
       "order": 27,
       "type": "reel",
-      "status": "pending",
+      "status": "posted",
       "files": ["docs/content/queue/quantcode-ai-reel37-marketcap.mp4"],
       "story_file": "docs/content/queue/Story-reel37.png",
       "caption": "Market Capitalization.\n\nShare price times the number of shares - the market's total bet on a company's future.\n\nA $1B company and a $1T company are playing completely different games. Small caps can double on good news, but crash just as fast. Mega caps move slower, but one can drag an entire index with it.\n\nMarket cap isn't a quality signal - a huge company can be a bad investment, and a tiny one can be a great one. It just tells you the size of the bet everyone else is already making.\n\nNot financial advice - educational content only.\n\n#marketcap #investing #stockmarket #financeeducation #wallstreet #quantcodeai"
