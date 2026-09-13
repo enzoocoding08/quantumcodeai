@@ -1,0 +1,22 @@
+{
+  "time": "09:13 AM",
+  "country": "US",
+  "company": "Johnson & Johnson",
+  "ticker": "JNJ",
+  "sector": "Healthcare",
+  "score": 6,
+  "score_trend": "6 -> 6",
+  "headline": "Steady near highs, limited upside left",
+  "tag1": "Div 1.99%", "tag2": "23 Buy", "tag3": "Risk: Low",
+  "chart_range_label": "52-WEEK RANGE",
+  "closes": [225.00, 266.20],
+  "chart_note": "52-week range up to $281.07 high. Currently $266.20, near the top of its range and above its 200-day average.",
+  "market_cap": "$640.12B", "pe_ratio": "30.8x",
+  "high_52w": "$281.07", "low_52w": "n/a",
+  "avg_volume": "n/a", "div_yield": "1.99%", "next_earnings": "Oct 2026 (est.)",
+  "why_today": "Johnson & Johnson continues trading near its 52-week high, supported by steady pharma and medtech performance. It's a low-drama, dividend-paying holding rather than a momentum story right now.",
+  "pro_1": "23 analysts rate it Buy, and the stock is trading above its 200-day moving average - a stable uptrend",
+  "pro_2": "Pays a reliable 1.99% dividend, appealing for income-focused portfolios",
+  "con_1": "Average price target of $275.64 implies only about 4% upside - most of the good news may be priced in",
+  "con_2": "PE of 30.8x is rich for a mature healthcare conglomerate with mid-single-digit growth"
+}

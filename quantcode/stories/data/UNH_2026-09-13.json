@@ -1,0 +1,22 @@
+{
+  "time": "09:13 AM",
+  "country": "US",
+  "company": "UnitedHealth",
+  "ticker": "UNH",
+  "sector": "Healthcare",
+  "score": 8,
+  "score_trend": "6 -> 8",
+  "headline": "Unanimous Buy, still below its highs",
+  "tag1": "23/23 Buy", "tag2": "PE 24.4x", "tag3": "Risk: Medium",
+  "chart_range_label": "52-WEEK RANGE",
+  "closes": [255.97, 392.61],
+  "chart_note": "52-week range: $255.97 - $461.62. Currently $392.61, about 15% below its high after a volatile year.",
+  "market_cap": "$340.06B", "pe_ratio": "24.4x",
+  "high_52w": "$461.62", "low_52w": "$255.97",
+  "avg_volume": "n/a", "div_yield": "n/a", "next_earnings": "Oct 2026 (est.)",
+  "why_today": "UnitedHealth has recovered well off its 52-week low but still trades about 15% below its high. Every analyst covering the stock rates it a Buy - a rare unanimous consensus for a name that had a rough stretch earlier in the year.",
+  "pro_1": "All 23 covering analysts rate it Buy - unusually unanimous - with an average target of $475 implying roughly 21% upside",
+  "pro_2": "Reasonable PE of 24.4x for the largest health insurer, still well off its 52-week high",
+  "con_1": "The stock's wide 52-week range ($256-$462) reflects real volatility and past investor concern this year",
+  "con_2": "Healthcare payers remain exposed to regulatory and reimbursement policy risk that can move the stock sharply"
+}

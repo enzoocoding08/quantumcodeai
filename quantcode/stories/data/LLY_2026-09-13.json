@@ -1,0 +1,22 @@
+{
+  "time": "09:13 AM",
+  "country": "US",
+  "company": "Eli Lilly",
+  "ticker": "LLY",
+  "sector": "Healthcare",
+  "score": 8,
+  "score_trend": "8 -> 8",
+  "headline": "GLP-1 growth engine, priced for it",
+  "tag1": "PEG 1.20", "tag2": "24 Buy / 2 Sell", "tag3": "Risk: Medium",
+  "chart_range_label": "52-WEEK RANGE",
+  "closes": [712.05, 1120.00],
+  "chart_note": "52-week range: $712.05 - $1,292.65. Currently around $1,120, up sharply over the past year on GLP-1 drug demand.",
+  "market_cap": "~$1T", "pe_ratio": "38.4x",
+  "high_52w": "$1,292.65", "low_52w": "$712.05",
+  "avg_volume": "n/a", "div_yield": "0.6%", "next_earnings": "Oct 2026 (est.)",
+  "why_today": "Eli Lilly remains one of the fastest-growing large pharma names, driven by continued strong demand for its GLP-1 weight-loss and diabetes drugs. Despite a 38x PE, the PEG ratio of 1.20 suggests the growth still isn't fully priced in relative to its own history.",
+  "pro_1": "24 of 26 analysts rate it Buy, with an average price target near $1,316 implying meaningful upside",
+  "pro_2": "PEG of 1.20 is 40% below its own 10-year median - unusually reasonable for this growth rate",
+  "con_1": "Trailing PE of 38x leaves little room for a GLP-1 demand slowdown or new competition",
+  "con_2": "Stock is up dramatically over the past year - a lot of good news may already be reflected in the price"
+}

@@ -1,0 +1,22 @@
+{
+  "time": "09:13 AM",
+  "country": "US",
+  "company": "JPMorgan Chase",
+  "ticker": "JPM",
+  "sector": "Financials",
+  "score": 7,
+  "score_trend": "6 -> 7",
+  "headline": "Cheap for a bank, trading near highs",
+  "tag1": "PE 15.2x", "tag2": "13 Buy / 1 Sell", "tag3": "Risk: Low",
+  "chart_range_label": "52-WEEK RANGE",
+  "closes": [279.10, 358.64],
+  "chart_note": "52-week range: $279.10 - $366.50. Currently $358.64, close to its 52-week high.",
+  "market_cap": "$948.71B", "pe_ratio": "15.2x",
+  "high_52w": "$366.50", "low_52w": "$279.10",
+  "avg_volume": "n/a", "div_yield": "n/a", "next_earnings": "Oct 2026 (est.)",
+  "why_today": "JPMorgan continues grinding toward its 52-week high, backed by resilient earnings from the largest US bank by assets. At 15.2x earnings, it remains cheap relative to the broader market despite the run-up.",
+  "pro_1": "13 of 14 analysts rate it Buy, and a PE of 15.2x is still modest for a bank this size and quality",
+  "pro_2": "Trading near its 52-week high shows sustained investor confidence through the year",
+  "con_1": "Average price target of $374.57 implies only about 4% upside - the easy gains may be behind it",
+  "con_2": "Bank earnings remain sensitive to interest rate moves and credit cycle turns"
+}
