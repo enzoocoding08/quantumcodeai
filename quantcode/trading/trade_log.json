@@ -120,11 +120,28 @@
       "exit_date": null,
       "result_pct": null,
       "outcome_notes": null
+    },
+    {
+      "id": "day7-lly-long",
+      "asset": "xyz:LLY-PERP",
+      "side": "long",
+      "entry_date": "2026-09-13",
+      "entry_price": 1114.1,
+      "take_profit": 1184.4,
+      "stop_loss": 1079.4,
+      "size_notional_usd": 800,
+      "leverage": 1,
+      "signals_at_entry": "3-signal confluence: (1) technical - deeply oversold, RSI 29.93 and stochastic 7.27, (2) catalyst - strong same-day fundamentals research supporting the name, (3) positioning - moderate divergence in whale/retail positioning. Sized under the user's explicit high-conviction sizing policy (2026-09-13) for simulated capital, though kept at standard 1x/size here since the setup itself only warranted a normal-size entry.",
+      "status": "open",
+      "exit_price": null,
+      "exit_date": null,
+      "result_pct": null,
+      "outcome_notes": null
     }
   ],
   "stats": {
     "note": "4 closed trades, all 4 losses (AAPL, BTC, NVDA, XRP), all stop-losses during the same multi-day macro risk-off wave. This is now 4 consecutive losing trades - one more triggers the user's 5-in-a-row 6h cool-off rule. Still not enough sample size for real win-rate/expectancy stats (need 20+ closed), but the correlation is the actionable lesson: the original 6 Day-1 longs were all same-direction risk-on bets, so one macro wind hit multiple positions instead of being 4 independent bad calls. Revisit position sizing/correlation limits before the next batch of same-direction entries.",
-    "total_trades": 8,
+    "total_trades": 9,
     "closed_trades": 4,
     "win_rate": null,
     "avg_r_multiple": null,
