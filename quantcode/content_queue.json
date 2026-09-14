@@ -363,6 +363,15 @@
       "files": ["docs/content/queue/quantcode-ai-reel42-assetallocation.mp4"],
       "story_file": "docs/content/queue/Story-reel42.png",
       "caption": "Asset Allocation.\n\nBefore you pick a single stock, this decision matters more. It's how you split your money across stocks, bonds, cash, and other assets based on your goals and how much risk you can actually stomach.\n\nA 25-year-old and a 65-year-old shouldn't own the same mix, even with identical amounts of money. Time horizon changes everything - more time means more room to ride out a crash.\n\nGet the allocation right, and the individual stock picks matter less than you'd think. Get it wrong, and no amount of stock-picking skill saves you.\n\nNot financial advice - educational content only.\n\n#assetallocation #investing #stockmarket #financeeducation #riskmanagement #wallstreet #quantcodeai"
+    },
+    {
+      "id": "format-test-quiz3",
+      "order": 36,
+      "type": "reel",
+      "status": "pending",
+      "files": ["docs/content/queue/quantcode-ai-reel-pequiz.mp4"],
+      "story_file": "docs/content/queue/Story-pequiz.png",
+      "caption": "Stock or Not: guess which one is the riskier growth bet.\n\nStock A: PE of 38.4x. Stock B: PE of 24.4x. Which one is riskier?\n\nStock A is Eli Lilly - its PEG ratio is just 1.2, reasonable once you adjust for its GLP-1 driven growth. Stock B is UnitedHealth - lower PE, but every single analyst covering it rates it a Buy, and it's still 15% below its 52-week high.\n\nThe bigger PE number alone never tells you who's actually risky.\n\nNot financial advice - educational content only.\n\n#stockmarket #investing #elililly #unitedhealth #financeeducation #stockquiz #wallstreet #quantcodeai"
     }
   ]
 }
