@@ -1,0 +1,22 @@
+{
+  "time": "09:14 AM",
+  "country": "US",
+  "company": "Visa",
+  "ticker": "V",
+  "sector": "Financials",
+  "score": 8,
+  "score_trend": "7 -> 8",
+  "headline": "Near-monopoly margins, near its highs",
+  "tag1": "Net Margin 51.7%", "tag2": "40/40 Buy", "tag3": "Risk: Low",
+  "chart_range_label": "52-WEEK RANGE",
+  "closes": [280.78, 344.44],
+  "chart_note": "52-week range: $280.78 - $375.51. Currently $344.44, only about 8% below its high.",
+  "market_cap": "$668.44B", "pe_ratio": "31.0x",
+  "high_52w": "$375.51", "low_52w": "$280.78",
+  "avg_volume": "n/a", "div_yield": "0.7%", "next_earnings": "Oct 2026 (est.)",
+  "why_today": "Visa continues trading near its 52-week high, backed by a net profit margin of 51.7% - nearly 5x the industry average - on its global payments network. All 40 analysts covering the stock rate it a Strong Buy.",
+  "pro_1": "Unanimous Strong Buy consensus (40 analysts), average target of $419 implies about 13% further upside",
+  "pro_2": "51.7% net margin reflects a near-monopoly payments network almost no other business model can replicate",
+  "con_1": "PE around 31x is a real premium - the market already prices in continued flawless execution",
+  "con_2": "Regulatory scrutiny of card network fees remains a persistent long-term overhang"
+}

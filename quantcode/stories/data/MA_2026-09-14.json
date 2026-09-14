@@ -1,0 +1,22 @@
+{
+  "time": "09:14 AM",
+  "country": "US",
+  "company": "Mastercard",
+  "ticker": "MA",
+  "sector": "Financials",
+  "score": 8,
+  "score_trend": "7 -> 8",
+  "headline": "Unanimous Strong Buy, real upside left",
+  "tag1": "37/37 Buy", "tag2": "PE 30.2x", "tag3": "Risk: Low",
+  "chart_range_label": "52-WEEK RANGE",
+  "closes": [464.52, 568.87],
+  "chart_note": "52-week range: $464.52 - $601.62. Currently $568.87, about 5% below its high.",
+  "market_cap": "$497.98B", "pe_ratio": "30.2x",
+  "high_52w": "$601.62", "low_52w": "$464.52",
+  "avg_volume": "n/a", "div_yield": "0.5%", "next_earnings": "Oct 2026 (est.)",
+  "why_today": "Mastercard trades just below its 52-week high, riding the same global payments tailwind as Visa. Every one of the 37 analysts covering the stock rates it a Buy - a rare unanimous call.",
+  "pro_1": "37 of 37 analysts rate it Buy, average price target of $671 implies nearly 18% further upside",
+  "pro_2": "Trading only about 5% below its 52-week high shows sustained investor confidence through the year",
+  "con_1": "PE of 30.2x leaves little room for a slowdown in global consumer spending",
+  "con_2": "Duopoly with Visa means both stocks are exposed to the same regulatory and macro risks together"
+}

@@ -1,0 +1,22 @@
+{
+  "time": "09:14 AM",
+  "country": "US",
+  "company": "Walmart",
+  "ticker": "WMT",
+  "sector": "Consumer Staples",
+  "score": 7,
+  "score_trend": "5 -> 7",
+  "headline": "Rich valuation, still strong Buy consensus",
+  "tag1": "PE 38.8x", "tag2": "37 Buy / 1 Sell", "tag3": "Risk: Medium",
+  "chart_range_label": "52-WEEK RANGE",
+  "closes": [98.88, 107.15],
+  "chart_note": "52-week range: $98.88 - $135.16. Currently $107.15, about 21% below its high.",
+  "market_cap": "$850.10B", "pe_ratio": "38.8x",
+  "high_52w": "$135.16", "low_52w": "$98.88",
+  "avg_volume": "n/a", "div_yield": "0.9%", "next_earnings": "Nov 2026 (est.)",
+  "why_today": "Walmart trades about 21% below its 52-week high despite an otherwise steady Buy consensus, as investors weigh its rich 38.8x PE against a resilient but slower-growing retail business.",
+  "pro_1": "37 of 38 analysts rate it Buy, average price target of $127 implies nearly 19% upside",
+  "pro_2": "E-commerce and advertising growth continue diversifying revenue beyond traditional retail margins",
+  "con_1": "PE of 38.8x is unusually rich for a grocery-heavy retailer - priced more like a growth stock",
+  "con_2": "21% pullback from its 52-week high suggests the market has real questions about that premium"
+}

@@ -1,0 +1,22 @@
+{
+  "time": "09:14 AM",
+  "country": "US",
+  "company": "Home Depot",
+  "ticker": "HD",
+  "sector": "Consumer Discretionary",
+  "score": 7,
+  "score_trend": "5 -> 7",
+  "headline": "Reasonably priced, biggest upside call of the day",
+  "tag1": "PE 22.1x", "tag2": "21/21 Buy", "tag3": "Risk: Medium",
+  "chart_range_label": "52-WEEK RANGE",
+  "closes": [289.10, 308.74],
+  "chart_note": "52-week range: $289.10 - $426.75. Currently $308.74, about 28% below its high.",
+  "market_cap": "$320.30B", "pe_ratio": "22.1x",
+  "high_52w": "$426.75", "low_52w": "$289.10",
+  "avg_volume": "n/a", "div_yield": "2.5%", "next_earnings": "Nov 2026 (est.)",
+  "why_today": "Home Depot trades about 28% below its 52-week high - the biggest pullback of today's four names - as higher rates weigh on home-improvement spending. Every analyst covering it still rates it a Buy.",
+  "pro_1": "21 of 21 analysts rate it Buy, average price target of $377 implies about 22% upside - the strongest call of today's batch",
+  "pro_2": "PE of 22.1x sits right at its 10-year median - not expensive relative to its own history",
+  "con_1": "28% drawdown from highs reflects real concern about housing-market-linked demand",
+  "con_2": "Home-improvement spending is directly exposed to mortgage rates and housing turnover, both currently weak"
+}
