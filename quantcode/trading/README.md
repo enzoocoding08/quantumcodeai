@@ -75,3 +75,20 @@ targets the same way (1.5x/3.0x ATR) - leverage changes margin used and
 position size, not the stop/target price logic. Note in `signals_at_entry`
 when a trade used above-default size/leverage and why, so the log stays
 honest about which trades were sized aggressively on purpose.
+
+## Cool-off triggered (2026-09-15)
+
+ETH and SOL both hit their stop-losses on 2026-09-15 (~14:51-14:52 UTC),
+completing the full set of the original 6 Day-1 same-direction longs
+(AAPL, BTC, NVDA, XRP, ETH, SOL) - every single one has now closed at a
+loss. That is 6 consecutive closed-trade losses, which triggers the
+user's own risk spec: 5 losses in a row -> 6h cool-off on new trades.
+
+Cool-off window: no new trade suggestions (`suggest_trade`/
+`suggest_trades_batch`) until **2026-09-15 ~21:00 UTC**. Checks during
+this window should still run normally (portfolio check, news, honest
+status report) - just skip the "screen for new setups" step and say the
+cool-off is active instead. The 3 differentiated positions opened since
+Day 1 (GOLD short, AMZN short, LLY long) are unaffected by this and can
+still hit their own TP/SL normally - the cool-off only pauses *new*
+entries.
