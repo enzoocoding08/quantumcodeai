@@ -1,0 +1,22 @@
+{
+  "time": "09:00 AM",
+  "country": "US",
+  "company": "McDonald's",
+  "ticker": "MCD",
+  "sector": "Consumer Discretionary",
+  "score": 6,
+  "score_trend": "5 -> 6",
+  "headline": "Reasonably priced, mixed analyst view",
+  "tag1": "PE 20.5x", "tag2": "12 Buy / 14 Hold / 2 Sell", "tag3": "Risk: Low",
+  "chart_range_label": "52-WEEK RANGE",
+  "closes": [252.15, 257.08],
+  "chart_note": "52-week range: $252.15 - $341.75. Currently $257.08, about 25% below its high.",
+  "market_cap": "$181.92B", "pe_ratio": "20.5x",
+  "high_52w": "$341.75", "low_52w": "$252.15",
+  "avg_volume": "n/a", "div_yield": "2.9%", "next_earnings": "Oct 2026 (est.)",
+  "why_today": "McDonald's trades about 25% below its 52-week high with a PE right around its historical norm - analysts call it undervalued, but the rating split (12 Buy, 14 Hold, 2 Sell) shows real disagreement on whether the pullback is a buying opportunity or a warning sign.",
+  "pro_1": "PE of 20.5x is reasonable for a blue-chip franchise business, and Wall Street consensus flags the stock as undervalued at current levels",
+  "pro_2": "Steady 2.9% dividend yield from a company with a long history of consistent payouts",
+  "con_1": "More Hold ratings than Buy ratings - no strong conviction from analysts either way",
+  "con_2": "25% drawdown from highs suggests real concern about consumer spending and traffic trends"
+}

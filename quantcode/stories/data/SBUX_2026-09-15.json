@@ -1,0 +1,22 @@
+{
+  "time": "09:00 AM",
+  "country": "US",
+  "company": "Starbucks",
+  "ticker": "SBUX",
+  "sector": "Consumer Discretionary",
+  "score": 6,
+  "score_trend": "6 -> 6",
+  "headline": "Strong Buy consensus, but a rich valuation",
+  "tag1": "PE ~61.7x", "tag2": "16 Buy / 3 Sell", "tag3": "Risk: Medium",
+  "chart_range_label": "52-WEEK RANGE",
+  "closes": [77.99, 99.27],
+  "chart_note": "52-week range: $77.99 - $110.51. Currently $99.27, about 10% below its high.",
+  "market_cap": "$119.07B", "pe_ratio": "~61.7x",
+  "high_52w": "$110.51", "low_52w": "$77.99",
+  "avg_volume": "n/a", "div_yield": "n/a", "next_earnings": "Oct 2026 (est.)",
+  "why_today": "Starbucks trades just 10% below its 52-week high with a strong Buy-leaning analyst consensus (16 Buy vs 3 Sell) and a price target implying further upside - but a PE north of 60x, roughly double its 10-year median, is priced for a lot of turnaround success to go right.",
+  "pro_1": "16 of 19 analysts covering the stock rate it a Buy, with an average price target of $112.23 implying further upside",
+  "pro_2": "Only about 10% below its 52-week high shows real investor confidence in the ongoing turnaround",
+  "con_1": "PE of roughly 61.7x is about double its 10-year median - a lot of good news is already priced in",
+  "con_2": "Any stumble in the turnaround story could hit the stock hard given how much premium is baked into the valuation"
+}

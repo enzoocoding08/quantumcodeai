@@ -1,0 +1,22 @@
+{
+  "time": "09:00 AM",
+  "country": "US",
+  "company": "Nike",
+  "ticker": "NKE",
+  "sector": "Consumer Discretionary",
+  "score": 4,
+  "score_trend": "5 -> 4",
+  "headline": "Near a 52-week low, index removal adds pressure",
+  "tag1": "PE 17.5x", "tag2": "Analyst: Hold", "tag3": "Risk: High",
+  "chart_range_label": "52-WEEK RANGE",
+  "closes": [36.55, 37.05],
+  "chart_note": "52-week range: $36.55 - $76.97. Currently $37.05, essentially at its 52-week low.",
+  "market_cap": "$55B", "pe_ratio": "17.5x",
+  "high_52w": "$76.97", "low_52w": "$36.55",
+  "avg_volume": "n/a", "div_yield": "n/a", "next_earnings": "Dec 2026 (est.)",
+  "why_today": "Nike is trading right at its 52-week low, down nearly 52% from its high, and is being removed from the S&P 100 on Sep 21 - ending an 18-year run in the blue-chip index. The average analyst rating is Hold, though the consensus price target of $49.87 implies over 35% upside if the business stabilizes.",
+  "pro_1": "PE of 17.5x is now cheap for Nike historically, and the average price target implies meaningful upside from here",
+  "pro_2": "Still the dominant global sportswear brand with the scale to fund a turnaround",
+  "con_1": "S&P 100 removal (effective Sep 21) is a real signal of weakened institutional standing, not just sentiment",
+  "con_2": "Softer consumer demand and ongoing business reset mean the stock could stay under pressure a while longer - some analysts (e.g. Morgan Stanley) have gone Underweight"
+}

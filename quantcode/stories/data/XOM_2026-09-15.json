@@ -1,0 +1,22 @@
+{
+  "time": "09:00 AM",
+  "country": "US",
+  "company": "ExxonMobil",
+  "ticker": "XOM",
+  "sector": "Energy",
+  "score": 7,
+  "score_trend": "6 -> 7",
+  "headline": "Near highs, strong Buy consensus, limited near-term upside",
+  "tag1": "PE 21.4x", "tag2": "25 Buy (avg)", "tag3": "Risk: Low",
+  "chart_range_label": "52-WEEK RANGE",
+  "closes": [110.39, 166.72],
+  "chart_note": "52-week range: $110.39 - $176.41. Currently $166.72, about 5.5% below its high, up roughly 55% over the past year.",
+  "market_cap": "$685.54B", "pe_ratio": "21.4x",
+  "high_52w": "$176.41", "low_52w": "$110.39",
+  "avg_volume": "n/a", "div_yield": "2.5%", "next_earnings": "Oct 2026 (est.)",
+  "why_today": "ExxonMobil is trading close to its 52-week high after a roughly 55% run over the past year, with a strong Buy-leaning consensus across 25 analysts. The average price target implies only about 4% further upside from here - most of the recent good news already looks priced in.",
+  "pro_1": "43 consecutive years of dividend increases plus a solid 2.5% yield - a genuine quality signal for an energy major",
+  "pro_2": "Analyst consensus is firmly Buy, and PE of 21.4x is reasonable given the stock's strong recent performance",
+  "con_1": "Average price target implies only about 4% upside - limited near-term reward at current levels",
+  "con_2": "Trading near 52-week highs after a big 12-month run means less margin of safety if oil prices roll over"
+}
