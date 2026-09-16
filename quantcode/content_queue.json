@@ -231,7 +231,8 @@
       "id": "trading-bot-day1",
       "order": 21,
       "type": "reel",
-      "status": "pending",
+      "status": "skipped",
+      "skip_reason": "Content is dated to 2026-09-07 (original Day 1 positions), 9+ days stale by 2026-09-16 and no longer reflects actual portfolio state (4 of the 6 referenced positions have since closed at a loss). Posting it now would misrepresent current reality. Skipped on user's explicit flag rather than posted or silently reordered.",
       "files": [
         "docs/content/queue/quantcode-ai-reel24-tradingbot-day1.mp4"
       ],
