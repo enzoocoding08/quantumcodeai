@@ -1,0 +1,8 @@
+{
+  "ticker": "CVX", "company": "Chevron", "sector": "Energy", "score": 7,
+  "price": 214.06, "pe_ratio": "20.6x", "market_cap": "$422.93B",
+  "high_52w": "$217.40", "low_52w": "$146.49", "analyst_avg": "25 Buy (avg)",
+  "headline": "Near its 52-week high, Buy consensus but limited upside left",
+  "why_today": "Chevron trades just 1.5% below its 52-week high after a 35% run over the past year, with a firm Buy consensus across 25 analysts. Strong for a quality energy major, but the average price target implies only about 1.6% further upside from here.",
+  "sources": ["stockanalysis.com", "wallstreetzen.com", "fullratio.com"]
+}

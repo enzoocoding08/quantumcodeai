@@ -1,0 +1,8 @@
+{
+  "ticker": "CAT", "company": "Caterpillar", "sector": "Industrials", "score": 7,
+  "price": 783.56, "pe_ratio": "33.7x", "market_cap": "$359.69B",
+  "high_52w": "$1073.46", "low_52w": "$434.28", "analyst_avg": "28 Buy (avg)",
+  "headline": "Down 27% from its high, Buy consensus sees real recovery room",
+  "why_today": "Caterpillar trades about 27% below its 52-week high, but the Buy-leaning consensus across 28 analysts puts the average price target near $976 - roughly 24.5% above today's price. A real pullback in a cyclical industrial name with analysts betting on recovery.",
+  "sources": ["stockanalysis.com", "macrotrends.net", "CNN markets"]
+}

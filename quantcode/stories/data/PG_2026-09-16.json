@@ -1,0 +1,8 @@
+{
+  "ticker": "PG", "company": "Procter & Gamble", "sector": "Consumer Staples", "score": 7,
+  "price": 146.71, "pe_ratio": "22.1x", "market_cap": "$340.62B",
+  "high_52w": "$167.25", "low_52w": "$137.62", "analyst_avg": "25 Buy (avg)",
+  "headline": "Defensive name trading at a real discount to its highs",
+  "why_today": "P&G trades about 12% below its 52-week high with a reasonable PE of 22.1x and a solid 2.94% dividend yield. 25 analysts rate it a Buy with roughly 9.9% upside to target - a defensive staples name at a genuine discount, not just a quiet compounder.",
+  "sources": ["stockanalysis.com", "wallstreetzen.com", "fullratio.com"]
+}

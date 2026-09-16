@@ -1,0 +1,8 @@
+{
+  "ticker": "BA", "company": "Boeing", "sector": "Industrials", "score": 6,
+  "price": 208.35, "pe_ratio": "84.0x", "market_cap": "$163.59B",
+  "high_52w": "$254.35", "low_52w": "$128.88", "analyst_avg": "28 Buy (avg)",
+  "headline": "Rich valuation, but analysts see 31% upside on the turnaround",
+  "why_today": "Boeing's PE of 84x reflects still-thin earnings during its ongoing recovery, but 28 analysts rate it a Buy with an average price target of $274.85 - about 31% above today's price. High reward if the turnaround holds, high risk if it doesn't.",
+  "sources": ["stockanalysis.com", "yahoo finance", "marketbeat.com"]
+}
