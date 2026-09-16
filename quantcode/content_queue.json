@@ -2,6 +2,33 @@
   "note": "Warteschlange fuer zusaetzlichen Bonus-Content (ausserhalb des normalen taeglichen Trigger-Postings). Der 'extra content'-Trigger postet pro Lauf GENAU EIN pending item (das mit der niedrigsten order-Zahl), setzt status auf 'posted' und committet+pusht das Update. Dateien liegen unter docs/content/queue/.",
   "items": [
     {
+      "id": "user-voiced-stoploss",
+      "order": 10,
+      "type": "reel",
+      "status": "pending",
+      "files": ["docs/content/queue/quantcode-ai-stoploss-final.mp4"],
+      "story_file": "docs/content/queue/quantcode-ai-story-stoploss.png",
+      "caption": "The one order that can save your entire account.\n\nIt's called a stop-loss - a standing order that automatically sells your position the moment it drops to a price you set in advance. Most beginners skip it anyway, convinced they'll just watch the chart and sell in time. They almost never do.\n\nA stop-loss removes emotion from the worst moment in trading. Set it when you're calm. Let it work when you're not.\n\nNot financial advice - educational content only.\n\n#stoploss #riskmanagement #investing #stockmarket #trading #financeeducation #wallstreet #quantcodeai"
+    },
+    {
+      "id": "user-voiced-compound",
+      "order": 11,
+      "type": "reel",
+      "status": "pending",
+      "files": ["docs/content/queue/quantcode-ai-compound-final.mp4"],
+      "story_file": "docs/content/queue/quantcode-ai-story-compound.png",
+      "caption": "Why waiting ten years beats timing the market.\n\nInvest ten thousand dollars at eight percent a year: after ten years it's roughly twenty two thousand. After twenty years, nearly fifty thousand. You didn't do anything different in year two versus year twenty - the money just kept compounding.\n\nMost people quit right before the curve gets steep, chasing some clever trade instead. Time in the market is the real edge, and almost nobody has the patience to use it.\n\nNot financial advice - educational content only.\n\n#compoundinterest #investing #stockmarket #financeeducation #longterminvesting #wallstreet #quantcodeai"
+    },
+    {
+      "id": "user-voiced-leverage",
+      "order": 12,
+      "type": "reel",
+      "status": "pending",
+      "files": ["docs/content/queue/quantcode-ai-leverage-final.mp4"],
+      "story_file": "docs/content/queue/quantcode-ai-story-leverage.png",
+      "caption": "How ten times leverage can wipe you out in minutes.\n\nLeverage lets you control a much bigger position with a small amount of your own money. Trade with 10x leverage, and a 10% move against you doesn't cost 10%. It costs everything - automatic liquidation, no second chances.\n\nLeverage isn't dangerous because it's complicated. It's dangerous because it feels exactly the same as regular trading, right up until it doesn't.\n\nNot financial advice - educational content only.\n\n#leverage #riskmanagement #investing #stockmarket #trading #financeeducation #wallstreet #quantcodeai"
+    },
+    {
       "id": "legendary-buffett",
       "order": 1,
       "type": "carousel",
