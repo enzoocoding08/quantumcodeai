@@ -1,0 +1,49 @@
+{
+  "note": "Baseline fuer den AI-Trading-Battle-Vergleich (Nutzerin fragt zusaetzlich andere KIs nach 3 Aktien). Vergleich am Freitag mit Boersenschluss. Alle Werte $ = simuliertes Paper-Trading-Geld, kein echtes Geld.",
+  "locked_in_at": "2026-09-18",
+  "compare_at": "Freitag, Boersenschluss (naechster Handelstag nach 2026-09-18)",
+  "account_equity_at_lock_in": 9837.64,
+  "positions": [
+    {
+      "asset": "MU",
+      "name": "Micron Technology",
+      "side": "long",
+      "status": "filled",
+      "entry_price": 991.19,
+      "leverage": 2,
+      "size_notional_usd": 2400,
+      "stop_loss": 925.90,
+      "take_profit": 1109.70,
+      "reasoning": "Smart Money 68% long vs. Crowd 29% long, News-Katalysator +4.5%, Aufwaertstrend mit gutem Einstiegstiming"
+    },
+    {
+      "asset": "NVDA",
+      "name": "Nvidia",
+      "side": "long",
+      "status": "filled",
+      "entry_price": 219.69,
+      "leverage": 2,
+      "size_notional_usd": 2000,
+      "stop_loss": 212.10,
+      "take_profit": 234.98,
+      "reasoning": "Smart Money 56% long vs. Crowd 35% long, Pullback in intaktem Aufwaertstrend"
+    },
+    {
+      "asset": "AAPL",
+      "name": "Apple",
+      "side": "long",
+      "status": "pending_limit_order",
+      "limit_price": 328,
+      "market_price_at_lock_in": 335.93,
+      "leverage": 3,
+      "size_notional_usd": 2500,
+      "stop_loss": 319,
+      "take_profit": 346,
+      "reasoning": "Staerkste Divergenz heute (Smart Money 85% long vs. Crowd 27% long), aber Technik ueberkauft (Stochastic 89) - daher Limit-Order auf Pullback statt Market-Chase. Falls Limit bis Freitag nicht gefuellt wird, zaehlt fuer den Vergleich das, was die Order bis dahin real gemacht hat (gefuellt oder nicht)."
+    }
+  ],
+  "competing_ai_picks_per_nutzerin": {
+    "note": "Von der Nutzerin berichtet, nicht selbst verifiziert - zum Kontext.",
+    "gemini": ["MSTR long 3x Hebel", "NVDA long 3x Hebel", "S&P Oil & Gas (Sektor/Index)"]
+  }
+}
