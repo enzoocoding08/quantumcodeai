@@ -2,7 +2,7 @@
   "note": "Baseline fuer den AI-Trading-Battle-Vergleich (Nutzerin fragt zusaetzlich andere KIs nach 3 Aktien). Vergleich am Freitag mit Boersenschluss. Alle Werte $ = simuliertes Paper-Trading-Geld, kein echtes Geld.",
   "locked_in_at": "2026-09-18",
   "compare_at": "Freitag, Boersenschluss (naechster Handelstag nach 2026-09-18)",
-  "account_equity_at_lock_in": 9833.05,
+  "account_equity_at_lock_in": 9831.53,
   "positions": [
     {
       "asset": "MU",
@@ -17,6 +17,18 @@
       "reasoning": "Smart Money 68% long vs. Crowd 29% long, News-Katalysator +4.5%, Aufwaertstrend mit gutem Einstiegstiming"
     },
     {
+      "asset": "NVDA",
+      "name": "Nvidia",
+      "side": "long",
+      "status": "filled",
+      "entry_price": 219.85,
+      "leverage": 3,
+      "size_notional_usd": 2000,
+      "stop_loss": 212.10,
+      "take_profit": 234.98,
+      "reasoning": "Smart Money 56% long vs. Crowd 35% long, Pullback in intaktem Aufwaertstrend. Auf 3x Hebel gesetzt fuer Konsistenz mit AAPL und den anderen KIs im Battle (urspruenglich 2x, nach versehentlicher Doppelfuellung komplett geschlossen und sauber neu aufgesetzt)."
+    },
+    {
       "asset": "AAPL",
       "name": "Apple",
       "side": "long",
@@ -28,13 +40,6 @@
       "stop_loss": 319,
       "take_profit": 346,
       "reasoning": "Staerkste Divergenz heute (Smart Money 85% long vs. Crowd 27% long), aber Technik ueberkauft (Stochastic 89) - daher Limit-Order auf Pullback statt Market-Chase. Falls Limit bis Freitag nicht gefuellt wird, zaehlt fuer den Vergleich das, was die Order bis dahin real gemacht hat (gefuellt oder nicht)."
-    }
-  ],
-  "removed_positions": [
-    {
-      "asset": "NVDA",
-      "name": "Nvidia",
-      "note": "Wurde versehentlich doppelt gefuellt (2x $2.000 statt 1x, durch doppelte Bestaetigung), danach von der Nutzerin komplett geschlossen (2026-09-18 17:50 UTC, Preis $219.84, closedPnl +$2.76, im Prinzip Break-even). Zaehlt NICHT mehr fuer den Battle-Vergleich."
     }
   ],
   "competing_ai_picks_per_nutzerin": {
