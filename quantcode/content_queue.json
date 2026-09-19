@@ -23,7 +23,8 @@
       "id": "user-voiced-leverage",
       "order": 12,
       "type": "reel",
-      "status": "pending",
+      "status": "skipped",
+      "skip_reason": "Nutzerin moechte dieses Video (KI-Voiceover) fuer einen spaeteren, besser passenden Moment aufheben (z.B. TikTok-Comeback), nicht jetzt automatisch ueber die Bonus-Queue posten. Explizite Ansage 2026-09-19: 'heben wir uns das fuer spaeter auf'.",
       "files": ["docs/content/queue/quantcode-ai-leverage-final.mp4"],
       "story_file": "docs/content/queue/quantcode-ai-story-leverage.png",
       "caption": "How ten times leverage can wipe you out in minutes.\n\nLeverage lets you control a much bigger position with a small amount of your own money. Trade with 10x leverage, and a 10% move against you doesn't cost 10%. It costs everything - automatic liquidation, no second chances.\n\nLeverage isn't dangerous because it's complicated. It's dangerous because it feels exactly the same as regular trading, right up until it doesn't.\n\nNot financial advice - educational content only.\n\n#leverage #riskmanagement #investing #stockmarket #trading #financeeducation #wallstreet #quantcodeai"
@@ -288,7 +289,7 @@
       "id": "setup-atr-stops",
       "order": 24,
       "type": "reel",
-      "status": "pending",
+      "status": "posted",
       "files": ["docs/content/queue/quantcode-ai-reel-setupB-atrstops.mp4"],
       "story_file": "docs/content/queue/quantcode-ai-story-setupB.png",
       "caption": "How we manage risk: ATR-Based Stops\n\nATR (Average True Range) measures how much an asset typically moves per day. Calmer assets get tighter stops, volatile ones get more room - no guessing.\n\nOur formula: stop-loss at 1.5x ATR from entry, take-profit at 3x ATR - built for roughly a 2:1 reward-to-risk ratio on every single trade, set before we ever enter.\n\nNot financial advice - educational content only.\n\n#tradingbot #tradingsetups #riskmanagement #investing #stockmarket #financeeducation #wallstreet #quantcodeai"
