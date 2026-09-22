@@ -6,7 +6,9 @@
       "order": 10,
       "type": "reel",
       "status": "posted",
-      "files": ["docs/content/queue/quantcode-ai-stoploss-final.mp4"],
+      "files": [
+        "docs/content/queue/quantcode-ai-stoploss-final.mp4"
+      ],
       "story_file": "docs/content/queue/quantcode-ai-story-stoploss.png",
       "caption": "The one order that can save your entire account.\n\nIt's called a stop-loss - a standing order that automatically sells your position the moment it drops to a price you set in advance. Most beginners skip it anyway, convinced they'll just watch the chart and sell in time. They almost never do.\n\nA stop-loss removes emotion from the worst moment in trading. Set it when you're calm. Let it work when you're not.\n\nNot financial advice - educational content only.\n\n#stoploss #riskmanagement #investing #stockmarket #trading #financeeducation #wallstreet #quantcodeai"
     },
@@ -15,7 +17,9 @@
       "order": 11,
       "type": "reel",
       "status": "posted",
-      "files": ["docs/content/queue/quantcode-ai-compound-final.mp4"],
+      "files": [
+        "docs/content/queue/quantcode-ai-compound-final.mp4"
+      ],
       "story_file": "docs/content/queue/quantcode-ai-story-compound.png",
       "caption": "Why waiting ten years beats timing the market.\n\nInvest ten thousand dollars at eight percent a year: after ten years it's roughly twenty two thousand. After twenty years, nearly fifty thousand. You didn't do anything different in year two versus year twenty - the money just kept compounding.\n\nMost people quit right before the curve gets steep, chasing some clever trade instead. Time in the market is the real edge, and almost nobody has the patience to use it.\n\nNot financial advice - educational content only.\n\n#compoundinterest #investing #stockmarket #financeeducation #longterminvesting #wallstreet #quantcodeai"
     },
@@ -25,7 +29,9 @@
       "type": "reel",
       "status": "skipped",
       "skip_reason": "Nutzerin moechte dieses Video (KI-Voiceover) fuer einen spaeteren, besser passenden Moment aufheben (z.B. TikTok-Comeback), nicht jetzt automatisch ueber die Bonus-Queue posten. Explizite Ansage 2026-09-19: 'heben wir uns das fuer spaeter auf'.",
-      "files": ["docs/content/queue/quantcode-ai-leverage-final.mp4"],
+      "files": [
+        "docs/content/queue/quantcode-ai-leverage-final.mp4"
+      ],
       "story_file": "docs/content/queue/quantcode-ai-story-leverage.png",
       "caption": "How ten times leverage can wipe you out in minutes.\n\nLeverage lets you control a much bigger position with a small amount of your own money. Trade with 10x leverage, and a 10% move against you doesn't cost 10%. It costs everything - automatic liquidation, no second chances.\n\nLeverage isn't dangerous because it's complicated. It's dangerous because it feels exactly the same as regular trading, right up until it doesn't.\n\nNot financial advice - educational content only.\n\n#leverage #riskmanagement #investing #stockmarket #trading #financeeducation #wallstreet #quantcodeai"
     },
@@ -272,7 +278,9 @@
       "order": 22,
       "type": "reel",
       "status": "posted",
-      "files": ["docs/content/queue/quantcode-ai-reel25-tradingbot-day1-evening.mp4"],
+      "files": [
+        "docs/content/queue/quantcode-ai-reel25-tradingbot-day1-evening.mp4"
+      ],
       "story_file": "docs/content/queue/quantcode-ai-story-reel25.png",
       "caption": "Day 1 - Evening Update: Trading Bot Journal\n\nThis is PAPER TRADING - $10,000 simulated, no real money at risk.\n\nAll 7 positions are still open: longs in Bitcoin, Ethereum, Solana, XRP, Nvidia, and Apple, plus a short on Gold. Portfolio is down about 0.34% today - a broad, mild pullback as oil prices rose on Middle East tension. Nothing has hit a stop loss or take profit yet, and Gold is actually working against our short today.\n\nNo panic. We track every win and loss, transparently, every single day.\n\nNot financial advice - educational content only.\n\n#tradingbot #papertrading #investing #stockmarket #crypto #financeeducation #wallstreet #quantcodeai"
     },
@@ -281,7 +289,9 @@
       "order": 23,
       "type": "reel",
       "status": "posted",
-      "files": ["docs/content/queue/quantcode-ai-reel-setupA-whalevretail.mp4"],
+      "files": [
+        "docs/content/queue/quantcode-ai-reel-setupA-whalevretail.mp4"
+      ],
       "story_file": "docs/content/queue/quantcode-ai-story-setupA.png",
       "caption": "How we read a setup: Whale vs Retail Positioning\n\nOne of the signals behind every trade we make. We track how large, institutional-size positions are leaning versus small retail-size positions on the same asset.\n\nA sharp divergence - whales heavily short while retail is heavily long, or vice versa - is information worth watching. But positioning alone is never enough. We wait for the chart to actually confirm it before acting.\n\nNot financial advice - educational content only.\n\n#tradingbot #tradingsetups #investing #stockmarket #crypto #financeeducation #wallstreet #quantcodeai"
     },
@@ -290,7 +300,9 @@
       "order": 24,
       "type": "reel",
       "status": "posted",
-      "files": ["docs/content/queue/quantcode-ai-reel-setupB-atrstops.mp4"],
+      "files": [
+        "docs/content/queue/quantcode-ai-reel-setupB-atrstops.mp4"
+      ],
       "story_file": "docs/content/queue/quantcode-ai-story-setupB.png",
       "caption": "How we manage risk: ATR-Based Stops\n\nATR (Average True Range) measures how much an asset typically moves per day. Calmer assets get tighter stops, volatile ones get more room - no guessing.\n\nOur formula: stop-loss at 1.5x ATR from entry, take-profit at 3x ATR - built for roughly a 2:1 reward-to-risk ratio on every single trade, set before we ever enter.\n\nNot financial advice - educational content only.\n\n#tradingbot #tradingsetups #riskmanagement #investing #stockmarket #financeeducation #wallstreet #quantcodeai"
     },
@@ -299,7 +311,9 @@
       "order": 25,
       "type": "reel",
       "status": "posted",
-      "files": ["docs/content/queue/quantcode-ai-reel-setupC-3signals.mp4"],
+      "files": [
+        "docs/content/queue/quantcode-ai-reel-setupC-3signals.mp4"
+      ],
       "story_file": "docs/content/queue/quantcode-ai-story-setupC.png",
       "caption": "Our entry rule: Three Signals, Same Direction\n\nWe only take a trade when three things line up at once: a real catalyst (news that actually moves the asset), technical confirmation (price and volume agreeing), and positioning (whale vs retail pointing the same way).\n\nTwo out of three is not enough for us. Most days end in no trade at all - and that's a good result when nothing truly lines up.\n\nNot financial advice - educational content only.\n\n#tradingbot #tradingsetups #investing #stockmarket #financeeducation #wallstreet #quantcodeai"
     },
@@ -308,7 +322,9 @@
       "order": 26,
       "type": "reel",
       "status": "posted",
-      "files": ["docs/content/queue/quantcode-ai-reel35-tradingbot-day4.mp4"],
+      "files": [
+        "docs/content/queue/quantcode-ai-reel35-tradingbot-day4.mp4"
+      ],
       "story_file": "docs/content/queue/quantcode-ai-story-reel35.png",
       "caption": "Day 4 of our Trading Bot Journal.\n\nThis is PAPER TRADING - $10,000 simulated, no real money at risk.\n\nToday: two more stop-losses hit - Bitcoin and Nvidia, both closed exactly as designed, down $67.29 combined. Our Gold and Amazon shorts kept gaining, up almost $32 combined.\n\nThe story today: hot producer prices pushed bond yields higher and raised the odds of a Fed rate hike next week, with oil still above $100 a barrel.\n\nWe screened stocks, the index, and crypto for a new trade - nothing cleared our 3-signal bar. So today: no new trade. Discipline over activity.\n\nNot financial advice - educational content only.\n\n#tradingbot #papertrading #investing #stockmarket #crypto #financeeducation #wallstreet #quantcodeai"
     },
@@ -317,7 +333,9 @@
       "order": 27,
       "type": "reel",
       "status": "posted",
-      "files": ["docs/content/queue/quantcode-ai-reel37-marketcap.mp4"],
+      "files": [
+        "docs/content/queue/quantcode-ai-reel37-marketcap.mp4"
+      ],
       "story_file": "docs/content/queue/Story-reel37.png",
       "caption": "Market Capitalization.\n\nShare price times the number of shares - the market's total bet on a company's future.\n\nA $1B company and a $1T company are playing completely different games. Small caps can double on good news, but crash just as fast. Mega caps move slower, but one can drag an entire index with it.\n\nMarket cap isn't a quality signal - a huge company can be a bad investment, and a tiny one can be a great one. It just tells you the size of the bet everyone else is already making.\n\nNot financial advice - educational content only.\n\n#marketcap #investing #stockmarket #financeeducation #wallstreet #quantcodeai"
     },
@@ -325,8 +343,10 @@
       "id": "term-peratio",
       "order": 28,
       "type": "reel",
-      "status": "pending",
-      "files": ["docs/content/queue/quantcode-ai-reel38-peratio.mp4"],
+      "status": "posted",
+      "files": [
+        "docs/content/queue/quantcode-ai-reel38-peratio.mp4"
+      ],
       "story_file": "docs/content/queue/Story-reel38.png",
       "caption": "Price to Earnings Ratio.\n\nHow many years of current profit it would take to earn back what you paid for the stock. A PE of 15 means 15 years of today's earnings.\n\nSounds simple - but a high PE isn't automatically expensive, and a low one isn't automatically cheap. A fast grower can justify a higher multiple, a company in decline deserves a lower one.\n\nThe real question is never just the number - it's whether the growth behind it justifies the price.\n\nNot financial advice - educational content only.\n\n#peratio #investing #stockmarket #financeeducation #wallstreet #quantcodeai"
     },
@@ -335,7 +355,9 @@
       "order": 29,
       "type": "reel",
       "status": "pending",
-      "files": ["docs/content/queue/quantcode-ai-reel39-bullbear.mp4"],
+      "files": [
+        "docs/content/queue/quantcode-ai-reel39-bullbear.mp4"
+      ],
       "story_file": "docs/content/queue/Story-reel39.png",
       "caption": "Bull Market vs Bear Market.\n\nWall Street's favorite animals - and they're not just vibes, there's an actual definition. A bear market is a drop of 20% or more from a recent high. A bull market is everything after that.\n\nBear markets feel endless while you're in one - but historically they've been shorter than bull markets, which have made up the losses and then some.\n\nThe mistake isn't being in a bear market. It's panic-selling at the bottom of one.\n\nNot financial advice - educational content only.\n\n#bullmarket #bearmarket #investing #stockmarket #financeeducation #wallstreet #quantcodeai"
     },
@@ -344,7 +366,9 @@
       "order": 30,
       "type": "reel",
       "status": "pending",
-      "files": ["docs/content/queue/quantcode-ai-reel40-indexfunds.mp4"],
+      "files": [
+        "docs/content/queue/quantcode-ai-reel40-indexfunds.mp4"
+      ],
       "story_file": "docs/content/queue/Story-reel40.png",
       "caption": "Index Funds.\n\nInstead of picking individual stocks, you buy a tiny slice of hundreds or thousands of companies at once. No stock-picking, no guessing which company wins - you just own the market.\n\nThe tradeoff: you'll never beat the market, because you literally are the market, minus a tiny fee. But most professional fund managers don't beat it either, especially after fees.\n\nFor most people, owning everything, cheaply, for decades, quietly wins.\n\nNot financial advice - educational content only.\n\n#indexfunds #investing #stockmarket #financeeducation #wallstreet #quantcodeai"
     },
@@ -353,7 +377,9 @@
       "order": 31,
       "type": "reel",
       "status": "pending",
-      "files": ["docs/content/queue/quantcode-ai-reel41-inflationrates.mp4"],
+      "files": [
+        "docs/content/queue/quantcode-ai-reel41-inflationrates.mp4"
+      ],
       "story_file": "docs/content/queue/Story-reel41.png",
       "caption": "Inflation & Interest Rates.\n\nLocked in a constant tug of war. When inflation runs hot, central banks raise interest rates to cool the economy down - borrowing gets more expensive, spending slows.\n\nBut higher rates also make stocks less attractive versus safer bonds, which is why markets often wobble on inflation reports.\n\nIt's not one villain and one hero - it's a lever central banks pull, and stocks, bonds, and your mortgage all react.\n\nNot financial advice - educational content only.\n\n#inflation #interestrates #investing #stockmarket #financeeducation #wallstreet #quantcodeai"
     },
@@ -362,7 +388,9 @@
       "order": 32,
       "type": "reel",
       "status": "pending",
-      "files": ["docs/content/queue/quantcode-ai-reel-guess2.mp4"],
+      "files": [
+        "docs/content/queue/quantcode-ai-reel-guess2.mp4"
+      ],
       "story_file": "docs/content/queue/Story-guess2.png",
       "caption": "Guess the company from 3 facts:\n\n1) Net profit margin of 51.7% - nearly 5x the industry average.\n2) PE ratio around 31x - a clear premium to the market.\n3) Revenue growing 16-17% a year.\n\nIt's Visa. A near-monopoly on global payment processing - investors pay a premium for margins almost no other business model can touch.\n\nNot financial advice - educational content only.\n\n#visa #stockmarket #investing #financeeducation #guessthecompany #wallstreet #quantcodeai"
     },
@@ -371,7 +399,9 @@
       "order": 33,
       "type": "reel",
       "status": "pending",
-      "files": ["docs/content/queue/quantcode-ai-reel-portfolio2.mp4"],
+      "files": [
+        "docs/content/queue/quantcode-ai-reel-portfolio2.mp4"
+      ],
       "story_file": "docs/content/queue/Story-portfolio2.png",
       "caption": "Rate My Portfolio: another common beginner mistake we made up to illustrate the point (not a real submission).\n\n70% in 3 regional bank stocks. 20% in a single high-yield junk bond fund. 10% cash. That's it.\n\nRed flag #1: fake diversification - 3 stocks in the same sector move together, so a rate scare or credit event hits all 3 at once.\nRed flag #2: those junk bonds aren't actually safe - they behave more like stocks than real fixed income.\n\nThis isn't diversified. It's the same bet, worn three different disguises.\n\nNot financial advice - educational content only.\n\n#ratemyportfolio #investing #stockmarket #financeeducation #personalfinance #wallstreet #quantcodeai"
     },
@@ -380,7 +410,9 @@
       "order": 34,
       "type": "reel",
       "status": "pending",
-      "files": ["docs/content/queue/quantcode-ai-reel-onefact2.mp4"],
+      "files": [
+        "docs/content/queue/quantcode-ai-reel-onefact2.mp4"
+      ],
       "story_file": "docs/content/queue/Story-onefact2.png",
       "caption": "1 Chart, 1 Fact: Alphabet's cloud revenue surged 82% year over year last quarter. But the stock trades at just 16.7x earnings - one of the cheapest large-cap tech names in the entire market right now.\n\nNot financial advice - educational content only.\n\n#alphabet #google #stockmarket #investing #financeeducation #wallstreet #quantcodeai"
     },
@@ -389,7 +421,9 @@
       "order": 35,
       "type": "reel",
       "status": "pending",
-      "files": ["docs/content/queue/quantcode-ai-reel42-assetallocation.mp4"],
+      "files": [
+        "docs/content/queue/quantcode-ai-reel42-assetallocation.mp4"
+      ],
       "story_file": "docs/content/queue/Story-reel42.png",
       "caption": "Asset Allocation.\n\nBefore you pick a single stock, this decision matters more. It's how you split your money across stocks, bonds, cash, and other assets based on your goals and how much risk you can actually stomach.\n\nA 25-year-old and a 65-year-old shouldn't own the same mix, even with identical amounts of money. Time horizon changes everything - more time means more room to ride out a crash.\n\nGet the allocation right, and the individual stock picks matter less than you'd think. Get it wrong, and no amount of stock-picking skill saves you.\n\nNot financial advice - educational content only.\n\n#assetallocation #investing #stockmarket #financeeducation #riskmanagement #wallstreet #quantcodeai"
     },
@@ -398,7 +432,9 @@
       "order": 13,
       "type": "reel",
       "status": "posted",
-      "files": ["docs/content/queue/quantcode-ai-reel-pequiz.mp4"],
+      "files": [
+        "docs/content/queue/quantcode-ai-reel-pequiz.mp4"
+      ],
       "story_file": "docs/content/queue/Story-pequiz.png",
       "caption": "Stock or Not: guess which one is the riskier growth bet.\n\nStock A: PE of 38.4x. Stock B: PE of 24.4x. Which one is riskier?\n\nStock A is Eli Lilly - its PEG ratio is just 1.2, reasonable once you adjust for its GLP-1 driven growth. Stock B is UnitedHealth - lower PE, but every single analyst covering it rates it a Buy, and it's still 15% below its 52-week high.\n\nThe bigger PE number alone never tells you who's actually risky.\n\nNot financial advice - educational content only.\n\n#stockmarket #investing #elililly #unitedhealth #financeeducation #stockquiz #wallstreet #quantcodeai"
     }
