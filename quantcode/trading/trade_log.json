@@ -166,17 +166,17 @@
       "size_notional_usd": 800,
       "leverage": 1,
       "signals_at_entry": "3-signal confluence: (1) technical - deeply oversold, RSI 29.93 and stochastic 7.27, (2) catalyst - strong same-day fundamentals research supporting the name, (3) positioning - moderate divergence in whale/retail positioning. Sized under the user's explicit high-conviction sizing policy (2026-09-13) for simulated capital, though kept at standard 1x/size here since the setup itself only warranted a normal-size entry.",
-      "status": "open",
-      "exit_price": null,
-      "exit_date": null,
-      "result_pct": null,
-      "outcome_notes": null
+      "status": "closed",
+      "exit_price": 1184.4,
+      "exit_date": "2026-09-23",
+      "result_pct": 6.31,
+      "outcome_notes": "Take-profit hit at $1,184.40 (confirmed via transaction history, 2026-09-23T13:35 UTC). Realized PnL +$50.42 on $800 notional, 1x leverage."
     }
   ],
   "stats": {
-    "note": "6 closed trades, all 6 losses (AAPL, BTC, NVDA, XRP, ETH, SOL) - this is the COMPLETE set of the original 6 same-direction Day-1 longs, every single one stopped out. 6 consecutive losing trades triggers the user's own 5-in-a-row 6h cool-off rule (active until ~2026-09-15 21:00 UTC - no new trade suggestions until then). Still not enough sample size for real win-rate/expectancy stats (need 20+ closed), but the honest, actionable lesson is clean: the Day-1 batch was one correlated risk-on bet wearing 6 different tickers, not 6 independent calls, and it was wrong. By contrast, the 3 positions opened since with genuine differentiated reasoning (GOLD short, AMZN short, LLY long) are all currently open and profitable - real evidence the 3-signal-confluence process works better than broad same-direction batching.",
+    "note": "7 closed trades: 6 losses (AAPL, BTC, NVDA, XRP, ETH, SOL - the original Day-1 same-direction batch, every single one stopped out, triggering the 5-in-a-row 6h cool-off rule, expired ~2026-09-15 21:00 UTC) plus 1 win (LLY long, take-profit hit 2026-09-23 at $1,184.40, +6.31%/+$50.42). Still not enough sample size for real win-rate/expectancy stats (need 20+ closed), but the trend holds: the Day-1 batch was one correlated risk-on bet wearing 6 different tickers, not 6 independent calls, and it was wrong. The positions opened since with genuine differentiated 3-signal-confluence reasoning (GOLD short, AMZN short, LLY long -> WIN, MU long, NVDA long) are either still open and profitable or already closed profitably - real evidence the process works better than broad same-direction batching.",
     "total_trades": 11,
-    "closed_trades": 6,
+    "closed_trades": 7,
     "win_rate": null,
     "avg_r_multiple": null,
     "expectancy": null
