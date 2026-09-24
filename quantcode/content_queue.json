@@ -376,7 +376,7 @@
       "id": "term-inflationrates",
       "order": 31,
       "type": "reel",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/quantcode-ai-reel41-inflationrates.mp4"
       ],
