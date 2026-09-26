@@ -76,6 +76,44 @@ position size, not the stop/target price logic. Note in `signals_at_entry`
 when a trade used above-default size/leverage and why, so the log stays
 honest about which trades were sized aggressively on purpose.
 
+## Confluence bar loosened to 2-of-3 (2026-09-26, on user's explicit request)
+
+After 8 days with no new entry (last new position: 2026-09-18), the user
+asked to loosen the confluence requirement from strict 3-of-3 to 2-of-3,
+explicitly asking that trade *quality* not suffer as a result
+("überprüf anders die Qualität, will nicht dass die Qualität leidet, aber
+lockere die 3"). To keep quality intact while accepting 2 signals instead
+of 3, the following now apply together:
+
+1. **2 of {catalyst, technical, positioning} required, not 3** - but the
+   signal that's missing must be genuinely *neutral/unavailable*, never
+   *contradicting*. A setup where the third signal actively points the
+   other way (e.g. bullish technical vs. clearly bearish smart-money
+   positioning) is still not tradeable under this rule - that's a
+   contradiction to flag honestly, not a 2-of-3 setup.
+2. Both signals that *are* present must be non-marginal, not just barely
+   present:
+   - Positioning: skew must be a real divergence (roughly >=15 percentage
+     points away from 50/50 in the largest/">$2.5M" cohort), not a
+     borderline read.
+   - Technical: must be a clear directional confirmation (trend + momentum
+     agreeing), not overbought/oversold against the trade direction (e.g.
+     stochastic >80 on a long entry disqualifies the technical leg even if
+     the trend is up).
+3. Minimum risk/reward stays >=1.8-2:1, ATR-based stops/targets (1.5x/3.0x
+   ATR) and risk-percent position sizing are unchanged.
+4. `get_news` is still checked before every trade even when the catalyst
+   leg isn't one of the 2 counted signals - it must not conflict with the
+   trade direction.
+5. Per the existing rule above, tag every trade taken under this loosened
+   bar distinctly in `signals_at_entry` (e.g. prefix "2-of-3 confluence,
+   loosened 2026-09-26: ...") so these don't get silently mixed into full
+   3-of-3 confluence stats later.
+
+This does not guarantee more trades happen - if nothing clears even the
+loosened bar (2 non-marginal, non-contradicting signals), the honest
+answer is still no trade that day.
+
 ## Cool-off triggered (2026-09-15)
 
 ETH and SOL both hit their stop-losses on 2026-09-15 (~14:51-14:52 UTC),
