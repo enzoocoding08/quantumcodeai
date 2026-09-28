@@ -100,11 +100,11 @@
       "take_profit": 4156,
       "stop_loss": 4510,
       "signals_at_entry": "whale positioning: largest position-size bucket skewed short against a crowd of smaller long retail positions; technicals agreed at entry",
-      "status": "open",
-      "exit_price": null,
-      "exit_date": null,
-      "result_pct": null,
-      "outcome_notes": null
+      "status": "closed",
+      "exit_price": 4155.2,
+      "exit_date": "2026-09-28",
+      "result_pct": 5.4,
+      "outcome_notes": "Take-profit hit at $4,155.20 (confirmed via get_position_history, closedAt 2026-09-28T07:38:04Z, essentially exact fill on the $4,156 TP). Gross realized PnL +$99.91, fees $3.42, net +$96.49. Longest-held position in the log (opened 2026-09-07, closed 2026-09-28)."
     },
     {
       "id": "day2-amzn-short",
@@ -174,9 +174,9 @@
     }
   ],
   "stats": {
-    "note": "7 closed trades: 6 losses (AAPL, BTC, NVDA, XRP, ETH, SOL - the original Day-1 same-direction batch, every single one stopped out, triggering the 5-in-a-row 6h cool-off rule, expired ~2026-09-15 21:00 UTC) plus 1 win (LLY long, take-profit hit 2026-09-23 at $1,184.40, +6.31%/+$50.42). Still not enough sample size for real win-rate/expectancy stats (need 20+ closed), but the trend holds: the Day-1 batch was one correlated risk-on bet wearing 6 different tickers, not 6 independent calls, and it was wrong. The positions opened since with genuine differentiated 3-signal-confluence reasoning (GOLD short, AMZN short, LLY long -> WIN, MU long, NVDA long) are either still open and profitable or already closed profitably - real evidence the process works better than broad same-direction batching.",
+    "note": "8 closed trades: 6 losses (AAPL, BTC, NVDA, XRP, ETH, SOL - the original Day-1 same-direction batch, every single one stopped out, triggering the 5-in-a-row 6h cool-off rule, expired ~2026-09-15 21:00 UTC) plus 2 wins (LLY long, take-profit hit 2026-09-23 at $1,184.40, +6.31%/+$50.42; GOLD short, take-profit hit 2026-09-28 at $4,155.20, +5.4%/+$96.49 net - held since 2026-09-07, the longest-running position in the log). Still not enough sample size for real win-rate/expectancy stats (need 20+ closed), but the trend holds: the Day-1 batch was one correlated risk-on bet wearing 6 different tickers, not 6 independent calls, and it was wrong. The positions opened since with genuine differentiated 3-signal-confluence reasoning (GOLD short -> WIN, AMZN short, LLY long -> WIN, MU long, NVDA long) are either still open and profitable or already closed profitably - real evidence the process works better than broad same-direction batching.",
     "total_trades": 11,
-    "closed_trades": 7,
+    "closed_trades": 8,
     "win_rate": null,
     "avg_r_multiple": null,
     "expectancy": null
