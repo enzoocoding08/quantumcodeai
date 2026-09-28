@@ -420,7 +420,7 @@
       "id": "term-assetallocation",
       "order": 35,
       "type": "reel",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/quantcode-ai-reel42-assetallocation.mp4"
       ],
