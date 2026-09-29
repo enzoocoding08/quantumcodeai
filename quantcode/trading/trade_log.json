@@ -2,6 +2,23 @@
   "note": "Persistent trade log for the paper trading bot ($10,000 simulated, Liquid Co-Invest). One entry per trade, updated on entry and on close. Purpose: build real win-rate/expectancy statistics over enough trades (50-100+) before drawing any performance conclusion - see conversation 2026-09-08 for the honest self-assessment behind this file. Do not fabricate fields for trades whose original reasoning wasn't recorded live; mark them 'not recorded at entry time' instead.",
   "trades": [
     {
+      "id": "day-2026-09-29-silver-short",
+      "asset": "xyz:SILVER-PERP",
+      "side": "short",
+      "entry_date": "2026-09-29",
+      "entry_price": 61.001,
+      "take_profit": 55.52,
+      "stop_loss": 63.77,
+      "leverage": 2,
+      "size_notional_usd": 2500,
+      "signals_at_entry": "2-of-3 confluence, loosened 2026-09-26 rule (not full 3-signal - no specific catalyst headline found for SILVER, treated as neutral/unavailable, not contradicting): (1) positioning - 80.1% short in the >$2.5M cohort (up from 76% the prior day), smart money 41% long vs losing crowd 64% long, a contrarian short signal; (2) technical - price below SMA20/50/200, bearish MACD momentum, OBV trend flipped from rising to falling between the two screens (confirms distribution), stochastic 23 not yet exhausted. Macro context (rising Treasury yields, real-rate pressure on precious metals) supports the direction but wasn't counted as the formal third signal. ATR-based stop/target (1.5x/3.0x ATR14=1.833) for ~2:1 R:R. User explicitly confirmed execution in chat ('schick mir silberhsott') after the setup was first flagged and previewed the prior day.",
+      "status": "open",
+      "exit_price": null,
+      "exit_date": null,
+      "result_pct": null,
+      "outcome_notes": null
+    },
+    {
       "id": "day1-btc-long",
       "asset": "BTC-PERP",
       "side": "long",
@@ -58,7 +75,7 @@
       "status": "closed",
       "exit_price": 1.3297,
       "exit_date": "2026-09-11",
-      "result_pct": -4.90,
+      "result_pct": -4.9,
       "outcome_notes": "Stop-loss triggered as designed (SL was 1.33, filled at 1.3297). Realized PnL -$24.52. Fourth closed trade in this log, all four losses (AAPL, BTC, NVDA, XRP) - all part of the same multi-day macro risk-off wave from the original 6 same-direction Day-1 longs. Approaching the 5-consecutive-loss cool-off threshold from the user's risk spec."
     },
     {
@@ -127,8 +144,8 @@
       "side": "long",
       "entry_date": "2026-09-18",
       "entry_price": 991.19,
-      "take_profit": 1109.70,
-      "stop_loss": 925.90,
+      "take_profit": 1109.7,
+      "stop_loss": 925.9,
       "leverage": 2,
       "size_notional_usd": 2400,
       "signals_at_entry": "3-signal confluence: (1) positioning - smart money 68% long vs crowd 29% long, (2) catalyst - same-day news +4.5%, (3) technical - healthy uptrend with good entry timing. Part of the AI-battle baseline lock-in (see quantcode/trading/ai_battle_baseline.json).",
@@ -145,7 +162,7 @@
       "entry_date": "2026-09-18",
       "entry_price": 219.85,
       "take_profit": 234.98,
-      "stop_loss": 212.10,
+      "stop_loss": 212.1,
       "leverage": 3,
       "size_notional_usd": 2000,
       "signals_at_entry": "3-signal confluence: (1) positioning - smart money 56% long vs crowd 35% long, (2) technical - pullback in intact uptrend, (3) catalyst context per AI-battle setup. Originally opened at 2x, accidentally double-filled during a mobile-widget troubleshooting session, closed at breakeven, then re-screened and re-opened cleanly at 3x per user's request for consistency across the AI-battle picks. Part of the AI-battle baseline lock-in (see quantcode/trading/ai_battle_baseline.json).",
@@ -175,7 +192,7 @@
   ],
   "stats": {
     "note": "8 closed trades: 6 losses (AAPL, BTC, NVDA, XRP, ETH, SOL - the original Day-1 same-direction batch, every single one stopped out, triggering the 5-in-a-row 6h cool-off rule, expired ~2026-09-15 21:00 UTC) plus 2 wins (LLY long, take-profit hit 2026-09-23 at $1,184.40, +6.31%/+$50.42; GOLD short, take-profit hit 2026-09-28 at $4,155.20, +5.4%/+$96.49 net - held since 2026-09-07, the longest-running position in the log). Still not enough sample size for real win-rate/expectancy stats (need 20+ closed), but the trend holds: the Day-1 batch was one correlated risk-on bet wearing 6 different tickers, not 6 independent calls, and it was wrong. The positions opened since with genuine differentiated 3-signal-confluence reasoning (GOLD short -> WIN, AMZN short, LLY long -> WIN, MU long, NVDA long) are either still open and profitable or already closed profitably - real evidence the process works better than broad same-direction batching.",
-    "total_trades": 11,
+    "total_trades": 12,
     "closed_trades": 8,
     "win_rate": null,
     "avg_r_multiple": null,
