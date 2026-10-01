@@ -2,6 +2,23 @@
   "note": "Persistent trade log for the paper trading bot ($10,000 simulated, Liquid Co-Invest). One entry per trade, updated on entry and on close. Purpose: build real win-rate/expectancy statistics over enough trades (50-100+) before drawing any performance conclusion - see conversation 2026-09-08 for the honest self-assessment behind this file. Do not fabricate fields for trades whose original reasoning wasn't recorded live; mark them 'not recorded at entry time' instead.",
   "trades": [
     {
+      "id": "day-2026-10-01-aapl-long-v2",
+      "asset": "xyz:AAPL-PERP",
+      "side": "long",
+      "entry_date": "2026-10-01",
+      "entry_price": 327.99,
+      "take_profit": 346.0,
+      "stop_loss": 319.0,
+      "leverage": 3,
+      "size_notional_usd": null,
+      "signals_at_entry": "Not recorded at entry time by this session - position appeared in mcp__invest__get_portfolio between the 2026-10-01 midday check (not present) and the 2026-10-01 evening check (present), without being opened via this chat's own screening/confirmation flow. Most likely opened directly on the Liquid platform, possibly prompted by the same-day AAPL story analysis (score 7, foldable-iPhone catalyst, near-record-high context) published earlier today. TP ($346) sits almost exactly at AAPL's 52-week high ($345.34). Not fabricating a signal rationale for a trade this session didn't make.",
+      "status": "open",
+      "exit_price": null,
+      "exit_date": null,
+      "result_pct": null,
+      "outcome_notes": null
+    },
+    {
       "id": "day-2026-09-29-silver-short",
       "asset": "xyz:SILVER-PERP",
       "side": "short",
@@ -192,7 +209,7 @@
   ],
   "stats": {
     "note": "8 closed trades: 6 losses (AAPL, BTC, NVDA, XRP, ETH, SOL - the original Day-1 same-direction batch, every single one stopped out, triggering the 5-in-a-row 6h cool-off rule, expired ~2026-09-15 21:00 UTC) plus 2 wins (LLY long, take-profit hit 2026-09-23 at $1,184.40, +6.31%/+$50.42; GOLD short, take-profit hit 2026-09-28 at $4,155.20, +5.4%/+$96.49 net - held since 2026-09-07, the longest-running position in the log). Still not enough sample size for real win-rate/expectancy stats (need 20+ closed), but the trend holds: the Day-1 batch was one correlated risk-on bet wearing 6 different tickers, not 6 independent calls, and it was wrong. The positions opened since with genuine differentiated 3-signal-confluence reasoning (GOLD short -> WIN, AMZN short, LLY long -> WIN, MU long, NVDA long) are either still open and profitable or already closed profitably - real evidence the process works better than broad same-direction batching.",
-    "total_trades": 12,
+    "total_trades": 13,
     "closed_trades": 8,
     "win_rate": null,
     "avg_r_multiple": null,
