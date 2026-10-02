@@ -166,11 +166,11 @@
       "leverage": 2,
       "size_notional_usd": 2400,
       "signals_at_entry": "3-signal confluence: (1) positioning - smart money 68% long vs crowd 29% long, (2) catalyst - same-day news +4.5%, (3) technical - healthy uptrend with good entry timing. Part of the AI-battle baseline lock-in (see quantcode/trading/ai_battle_baseline.json).",
-      "status": "open",
-      "exit_price": null,
-      "exit_date": null,
-      "result_pct": null,
-      "outcome_notes": null
+      "status": "closed",
+      "exit_price": 1109.9,
+      "exit_date": "2026-10-02",
+      "result_pct": 11.98,
+      "outcome_notes": "Take-profit hit at $1,109.90 (confirmed via get_transaction_history, closed 2026-10-02T08:26:30Z). Realized PnL +$287.40 gross on $2,400 notional, 2x leverage, fee $2.55."
     },
     {
       "id": "day12-nvda-long",
@@ -183,11 +183,11 @@
       "leverage": 3,
       "size_notional_usd": 2000,
       "signals_at_entry": "3-signal confluence: (1) positioning - smart money 56% long vs crowd 35% long, (2) technical - pullback in intact uptrend, (3) catalyst context per AI-battle setup. Originally opened at 2x, accidentally double-filled during a mobile-widget troubleshooting session, closed at breakeven, then re-screened and re-opened cleanly at 3x per user's request for consistency across the AI-battle picks. Part of the AI-battle baseline lock-in (see quantcode/trading/ai_battle_baseline.json).",
-      "status": "open",
-      "exit_price": null,
-      "exit_date": null,
-      "result_pct": null,
-      "outcome_notes": null
+      "status": "closed",
+      "exit_price": 235.08,
+      "exit_date": "2026-10-02",
+      "result_pct": 6.93,
+      "outcome_notes": "Take-profit hit at $235.08 (confirmed via get_transaction_history, closed 2026-10-02T11:20:12Z). Realized PnL +$138.54 gross on $2,000 notional, 3x leverage, fee $2.03."
     },
     {
       "id": "day7-lly-long",
@@ -210,7 +210,7 @@
   "stats": {
     "note": "8 closed trades: 6 losses (AAPL, BTC, NVDA, XRP, ETH, SOL - the original Day-1 same-direction batch, every single one stopped out, triggering the 5-in-a-row 6h cool-off rule, expired ~2026-09-15 21:00 UTC) plus 2 wins (LLY long, take-profit hit 2026-09-23 at $1,184.40, +6.31%/+$50.42; GOLD short, take-profit hit 2026-09-28 at $4,155.20, +5.4%/+$96.49 net - held since 2026-09-07, the longest-running position in the log). Still not enough sample size for real win-rate/expectancy stats (need 20+ closed), but the trend holds: the Day-1 batch was one correlated risk-on bet wearing 6 different tickers, not 6 independent calls, and it was wrong. The positions opened since with genuine differentiated 3-signal-confluence reasoning (GOLD short -> WIN, AMZN short, LLY long -> WIN, MU long, NVDA long) are either still open and profitable or already closed profitably - real evidence the process works better than broad same-direction batching.",
     "total_trades": 13,
-    "closed_trades": 8,
+    "closed_trades": 10,
     "win_rate": null,
     "avg_r_multiple": null,
     "expectancy": null
