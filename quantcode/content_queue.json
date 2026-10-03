@@ -2,6 +2,17 @@
   "note": "Warteschlange fuer zusaetzlichen Bonus-Content (ausserhalb des normalen taeglichen Trigger-Postings). Der 'extra content'-Trigger postet pro Lauf GENAU EIN pending item (das mit der niedrigsten order-Zahl), setzt status auf 'posted' und committet+pusht das Update. Dateien liegen unter docs/content/queue/.",
   "items": [
     {
+      "id": "goldencross-reel",
+      "order": 36,
+      "type": "reel",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/quantcode-ai-goldencross-de.mp4"
+      ],
+      "story_file": "docs/content/queue/quantcode-ai-story-goldencross.png",
+      "caption": "Golden Cross - das Signal, auf das viele Trader warten.\n\nEs passiert, wenn der 50-Tage-Durchschnitt von unten nach oben durch den 200-Tage-Durchschnitt kreuzt. Das Gegenteil vom Death Cross - und gilt als klassisches Signal fuer einen moeglichen neuen Aufwaertstrend.\n\nWichtig: es ist ein nachlaufendes Signal. Der Kurs ist meist schon gestiegen, bevor das Kreuz sichtbar wird - kein Garant fuer Gewinne, sondern nur ein Baustein von vielen.\n\nNot financial advice - educational content only.\n\n#goldencross #technicalanalysis #investieren #boerse #trading #finanzen #financeeducation #quantcodeai"
+    },
+    {
       "id": "user-voiced-stoploss",
       "order": 10,
       "type": "reel",
