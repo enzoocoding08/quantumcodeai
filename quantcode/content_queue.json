@@ -2,6 +2,17 @@
   "note": "Warteschlange fuer zusaetzlichen Bonus-Content (ausserhalb des normalen taeglichen Trigger-Postings). Der 'extra content'-Trigger postet pro Lauf GENAU EIN pending item (das mit der niedrigsten order-Zahl), setzt status auf 'posted' und committet+pusht das Update. Dateien liegen unter docs/content/queue/.",
   "items": [
     {
+      "id": "klumpenrisiko-reel",
+      "order": 37,
+      "type": "reel",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/quantcode-ai-klumpenrisiko-de.mp4"
+      ],
+      "story_file": "docs/content/queue/quantcode-ai-story-klumpenrisiko.png",
+      "caption": "Klumpenrisiko - warum 3 \"verschiedene\" Aktien manchmal nur eine einzige Wette sind.\n\nDu besitzt Apple, Microsoft und Nvidia - fuehlt sich diversifiziert an, oder? In Wahrheit sind das drei grosse Tech-Wetten, die fast perfekt gleichzeitig steigen und fallen. Wenn der Tech-Sektor crasht, crasht dein ganzes Depot - egal wie viele verschiedene Ticker du hast.\n\nEchte Diversifikation heisst nicht viele Ticker - sondern Positionen, die sich in einer Krise tatsaechlich unterschiedlich verhalten.\n\nNot financial advice - educational content only.\n\n#klumpenrisiko #diversifikation #investieren #boerse #finanzen #aktien #financeeducation #quantcodeai"
+    },
+    {
       "id": "goldencross-reel",
       "order": 36,
       "type": "reel",
