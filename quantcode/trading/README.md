@@ -130,3 +130,22 @@ cool-off is active instead. The 3 differentiated positions opened since
 Day 1 (GOLD short, AMZN short, LLY long) are unaffected by this and can
 still hit their own TP/SL normally - the cool-off only pauses *new*
 entries.
+
+## Specialist focus: crypto + gold, both directions (2026-10-07, on user's explicit request)
+
+After weeks with almost no new entries (the 2-of-3 bar across ~40 assets fires
+rarely in a one-directional market) the user asked for a focused strategy that
+trades regularly and also produces weekend content. Direction:
+
+- Primary focus BTC/ETH/SOL (trades 24/7, weekend content), secondary GOLD.
+  Both long and short are allowed; shorts in a falling or rejected market are
+  explicitly wanted.
+- Max 2 simultaneous crypto positions (they move together - the Day-1 batch
+  lost 6 of 6 for exactly that reason). ATR stops/targets (1.5x/3.0x) and
+  risk-percent sizing stay unchanged; sizing $1,000-2,000 notional at 2-3x.
+- Trades under this focus or taken on user request below the strict bar must
+  be tagged in `signals_at_entry` (e.g. "specialist-mode" or "relaxed-bar,
+  user-requested") so they are not mixed into full-confluence stats.
+- Orders still need the user's explicit chat confirmation (enforced by the
+  platform, no saved automation policy exists). Scheduled checks therefore
+  prepare a ready proposal with exact terms; they never execute.
