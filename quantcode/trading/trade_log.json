@@ -46,11 +46,11 @@
       "leverage": 2,
       "size_notional_usd": 1000,
       "signals_at_entry": "EXPERIMENT E1 (rule-based 4h trend-follow, no exhaustion filter, user-requested data-gathering): 4h price below EMA20/50/200, MACD negative, OBV falling. Stop 1x ATR14(4h)=24.46, target 2x ATR. Entry 4h stochastic 27.2, daily stochastic 13.9 (oversold - logged). Correlated with the open SILVER short. Position appeared in get_portfolio on 2026-10-07 evening; this session prepared the proposal via suggest_trade(s) but did not execute it - confirmation happened on the platform side, not in this chat.",
-      "status": "open",
-      "exit_price": null,
-      "exit_date": null,
-      "result_pct": null,
-      "outcome_notes": null
+      "status": "closed",
+      "exit_price": 4137.0,
+      "exit_date": "2026-10-08",
+      "result_pct": -0.59,
+      "outcome_notes": "Stop-loss triggered at 2026-10-08T01:49Z (SL 4136.6, filled 4137.0). Gross realized PnL -$5.93, fees $1.91, net about -$7.84. First closed E1 trade: a loss of roughly 1R. Entry 4h stochastic was 27 (daily 13.9, oversold) - the oversold-bounce risk flagged at entry materialized here; one sample, not evidence."
     },
     {
       "id": "relaxed-2026-10-07-googl-long",
@@ -278,7 +278,7 @@
   "stats": {
     "note": "8 closed trades: 6 losses (AAPL, BTC, NVDA, XRP, ETH, SOL - the original Day-1 same-direction batch, every single one stopped out, triggering the 5-in-a-row 6h cool-off rule, expired ~2026-09-15 21:00 UTC) plus 2 wins (LLY long, take-profit hit 2026-09-23 at $1,184.40, +6.31%/+$50.42; GOLD short, take-profit hit 2026-09-28 at $4,155.20, +5.4%/+$96.49 net - held since 2026-09-07, the longest-running position in the log). Still not enough sample size for real win-rate/expectancy stats (need 20+ closed), but the trend holds: the Day-1 batch was one correlated risk-on bet wearing 6 different tickers, not 6 independent calls, and it was wrong. The positions opened since with genuine differentiated 3-signal-confluence reasoning (GOLD short -> WIN, AMZN short, LLY long -> WIN, MU long, NVDA long) are either still open and profitable or already closed profitably - real evidence the process works better than broad same-direction batching.",
     "total_trades": 17,
-    "closed_trades": 10,
+    "closed_trades": 11,
     "win_rate": null,
     "avg_r_multiple": null,
     "expectancy": null
