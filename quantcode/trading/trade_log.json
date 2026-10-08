@@ -29,11 +29,11 @@
       "leverage": 2,
       "size_notional_usd": 1000,
       "signals_at_entry": "EXPERIMENT E1 (rule-based 4h trend-follow, no exhaustion filter, user-requested data-gathering): 4h EMA20<EMA50, MACD histogram negative, OBV falling. Stop 1x ATR14(4h)=1.66, target 2x ATR. Entry 4h stochastic 10.6 / RSI 31.8 (oversold - logged). Position appeared in get_portfolio on 2026-10-07 evening; this session prepared the proposal via suggest_trade(s) but did not execute it - confirmation happened on the platform side, not in this chat.",
-      "status": "open",
-      "exit_price": null,
-      "exit_date": null,
-      "result_pct": null,
-      "outcome_notes": null
+      "status": "closed",
+      "exit_price": 112.15,
+      "exit_date": "2026-10-08",
+      "result_pct": 3.07,
+      "outcome_notes": "Take-profit hit 2026-10-08T12:50Z (TP 112.36, filled 112.15). Gross realized PnL +$30.67, fees $1.87, net about +$28.80 (roughly +2R on a ~$14 risk). First E1 winner; entry 4h stochastic was 10.6 (oversold) - the oversold short worked here, one sample."
     },
     {
       "id": "e1-2026-10-07-gold-short",
@@ -278,7 +278,7 @@
   "stats": {
     "note": "8 closed trades: 6 losses (AAPL, BTC, NVDA, XRP, ETH, SOL - the original Day-1 same-direction batch, every single one stopped out, triggering the 5-in-a-row 6h cool-off rule, expired ~2026-09-15 21:00 UTC) plus 2 wins (LLY long, take-profit hit 2026-09-23 at $1,184.40, +6.31%/+$50.42; GOLD short, take-profit hit 2026-09-28 at $4,155.20, +5.4%/+$96.49 net - held since 2026-09-07, the longest-running position in the log). Still not enough sample size for real win-rate/expectancy stats (need 20+ closed), but the trend holds: the Day-1 batch was one correlated risk-on bet wearing 6 different tickers, not 6 independent calls, and it was wrong. The positions opened since with genuine differentiated 3-signal-confluence reasoning (GOLD short -> WIN, AMZN short, LLY long -> WIN, MU long, NVDA long) are either still open and profitable or already closed profitably - real evidence the process works better than broad same-direction batching.",
     "total_trades": 17,
-    "closed_trades": 11,
+    "closed_trades": 12,
     "win_rate": null,
     "avg_r_multiple": null,
     "expectancy": null
