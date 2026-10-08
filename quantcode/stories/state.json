@@ -1,7 +1,6 @@
 {
-  "last_ticker_index": 27,
-  "last_run_date": "2026-10-07",
+  "last_ticker_index": 2,
+  "last_run_date": "2026-10-08",
   "tickers_per_day": 4,
-  "skipped_tickers": ["CVX"],
-  "note": "last_ticker_index = Index des ZULETZT abgeschlossenen Tickers (nicht der naechste!). Naechster Lauf: (last_ticker_index+1) bis (last_ticker_index+4), mit Wrap-Around ueber die Listenlaenge. Ab 2026-09-05 laufen Story-Analysen primaer per Web-Recherche (4 Ticker/Tag statt 2, siehe daily trigger), Alpha Vantage nur noch optional falls Quota gerade frei ist. INDEXIERUNGSFEHLER 2026-10-07: der Lauf sollte eigentlich Index 23-26 (CVX, BA, CAT, PG) abdecken, wurde faelschlich als 24-27 (BA, CAT, PG, INTC) ausgefuehrt - CVX (Index 23) wurde dadurch uebersprungen. last_ticker_index korrekt auf 27 gesetzt (INTC war der tatsaechlich letzte abgeschlossene), aber CVX fehlt in der Rotation und sollte beim naechsten oder einem baldigen Lauf als Zusatz-Ticker nachgeholt werden (siehe skipped_tickers)."
+  "note": "last_ticker_index = Index des ZULETZT abgeschlossenen Tickers (nicht der naechste!). Naechster Lauf: (last_ticker_index+1) bis (last_ticker_index+4), mit Wrap-Around ueber die Listenlaenge. Ab 2026-09-05 laufen Story-Analysen primaer per Web-Recherche (4 Ticker/Tag statt 2, siehe daily trigger), Alpha Vantage nur noch optional falls Quota gerade frei ist. 2026-10-08: CVX (am 07.10. versehentlich uebersprungen) nachgeholt, zusammen mit AAPL/MSFT/NVDA (Index 0-2); Rotation laeuft ab Index 3 (GOOGL) weiter."
 }
