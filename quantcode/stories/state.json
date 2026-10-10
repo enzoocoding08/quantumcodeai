@@ -1,6 +1,6 @@
 {
-  "last_ticker_index": 6,
-  "last_run_date": "2026-10-09",
+  "last_ticker_index": 10,
+  "last_run_date": "2026-10-10",
   "tickers_per_day": 4,
-  "note": "last_ticker_index = Index des ZULETZT abgeschlossenen Tickers (nicht der naechste!). Naechster Lauf: (last_ticker_index+1) bis (last_ticker_index+4), mit Wrap-Around ueber die Listenlaenge. Ab 2026-09-05 laufen Story-Analysen primaer per Web-Recherche (4 Ticker/Tag statt 2, siehe daily trigger), Alpha Vantage nur noch optional falls Quota gerade frei ist. 2026-10-08: CVX (am 07.10. versehentlich uebersprungen) nachgeholt, zusammen mit AAPL/MSFT/NVDA (Index 0-2); Rotation laeuft ab Index 3 (GOOGL) weiter. 2026-10-09: GOOGL, AMZN, META, TSLA (Index 3-6); naechster Lauf ab Index 7 (ADBE)."
+  "note": "last_ticker_index = Index des ZULETZT abgeschlossenen Tickers (nicht der naechste!). Naechster Lauf: (last_ticker_index+1) bis (last_ticker_index+4), mit Wrap-Around ueber die Listenlaenge. Ab 2026-09-05 laufen Story-Analysen primaer per Web-Recherche (4 Ticker/Tag statt 2, siehe daily trigger), Alpha Vantage nur noch optional falls Quota gerade frei ist. 2026-10-08: CVX (am 07.10. versehentlich uebersprungen) nachgeholt, zusammen mit AAPL/MSFT/NVDA (Index 0-2); Rotation laeuft ab Index 3 (GOOGL) weiter. 2026-10-09: GOOGL, AMZN, META, TSLA (Index 3-6); naechster Lauf ab Index 7 (ADBE). 2026-10-10: ADBE, NFLX, DIS, CRM (Index 7-10); naechster Lauf ab Index 11 (LLY)."
 }
