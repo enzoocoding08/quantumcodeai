@@ -80,11 +80,15 @@
       "leverage": 3,
       "size_notional_usd": null,
       "signals_at_entry": "Not recorded at entry time by this session - position appeared in mcp__invest__get_portfolio between the 2026-10-01 midday check (not present) and the 2026-10-01 evening check (present), without being opened via this chat's own screening/confirmation flow. Most likely opened directly on the Liquid platform, possibly prompted by the same-day AAPL story analysis (score 7, foldable-iPhone catalyst, near-record-high context) published earlier today. TP ($346) sits almost exactly at AAPL's 52-week high ($345.34). Not fabricating a signal rationale for a trade this session didn't make.",
-      "status": "open",
-      "exit_price": null,
-      "exit_date": null,
+      "status": "closed",
+      "exit_price": 346.24,
+      "exit_date": "2026-10-13",
       "result_pct": null,
-      "outcome_notes": null
+      "outcome_notes": null,
+      "exit_reason": "take-profit hit",
+      "gross_pnl_usd": 139.1,
+      "fees_usd": 4.13,
+      "net_pnl_usd": 134.97
     },
     {
       "id": "day-2026-09-29-silver-short",
@@ -285,11 +289,15 @@
       "size_notional_usd": 1000,
       "leverage": 2,
       "entry_date": "2026-10-12",
-      "status": "open",
-      "exit_price": null,
-      "exit_date": null,
+      "status": "closed",
+      "exit_price": 1.32875,
+      "exit_date": "2026-10-13",
       "result_pct": null,
-      "outcome_notes": null
+      "outcome_notes": null,
+      "exit_reason": "take-profit hit",
+      "gross_pnl_usd": 58.12,
+      "fees_usd": 3.75,
+      "net_pnl_usd": 54.37
     },
     {
       "id": "e1-2026-10-12-msft-long",
@@ -302,11 +310,15 @@
       "size_notional_usd": 1000,
       "leverage": 2,
       "entry_date": "2026-10-12",
-      "status": "open",
-      "exit_price": null,
-      "exit_date": null,
+      "status": "closed",
+      "exit_price": 545.62,
+      "exit_date": "2026-10-13",
       "result_pct": null,
-      "outcome_notes": null
+      "outcome_notes": null,
+      "exit_reason": "take-profit hit",
+      "gross_pnl_usd": 19.55,
+      "fees_usd": 3.82,
+      "net_pnl_usd": 15.73
     },
     {
       "id": "e1-2026-10-12-ada-short",
@@ -319,11 +331,15 @@
       "size_notional_usd": 1000,
       "leverage": 2,
       "entry_date": "2026-10-12",
-      "status": "open",
-      "exit_price": null,
-      "exit_date": null,
+      "status": "closed",
+      "exit_price": 0.231575,
+      "exit_date": "2026-10-13",
       "result_pct": null,
-      "outcome_notes": null
+      "outcome_notes": null,
+      "exit_reason": "take-profit hit",
+      "gross_pnl_usd": 83.93,
+      "fees_usd": 3.72,
+      "net_pnl_usd": 80.21
     },
     {
       "id": "e1-2026-10-12-amd-short",
@@ -336,19 +352,24 @@
       "size_notional_usd": 1000,
       "leverage": 2,
       "entry_date": "2026-10-12",
-      "status": "open",
-      "exit_price": null,
-      "exit_date": null,
+      "status": "closed",
+      "exit_price": 582.62,
+      "exit_date": "2026-10-13",
       "result_pct": null,
-      "outcome_notes": null
+      "outcome_notes": null,
+      "exit_reason": "take-profit hit",
+      "gross_pnl_usd": 40.13,
+      "fees_usd": 3.76,
+      "net_pnl_usd": 36.37
     }
   ],
   "stats": {
     "note": "8 closed trades: 6 losses (AAPL, BTC, NVDA, XRP, ETH, SOL - the original Day-1 same-direction batch, every single one stopped out, triggering the 5-in-a-row 6h cool-off rule, expired ~2026-09-15 21:00 UTC) plus 2 wins (LLY long, take-profit hit 2026-09-23 at $1,184.40, +6.31%/+$50.42; GOLD short, take-profit hit 2026-09-28 at $4,155.20, +5.4%/+$96.49 net - held since 2026-09-07, the longest-running position in the log). Still not enough sample size for real win-rate/expectancy stats (need 20+ closed), but the trend holds: the Day-1 batch was one correlated risk-on bet wearing 6 different tickers, not 6 independent calls, and it was wrong. The positions opened since with genuine differentiated 3-signal-confluence reasoning (GOLD short -> WIN, AMZN short, LLY long -> WIN, MU long, NVDA long) are either still open and profitable or already closed profitably - real evidence the process works better than broad same-direction batching.",
     "total_trades": 21,
-    "closed_trades": 13,
+    "closed_trades": 18,
     "win_rate": null,
     "avg_r_multiple": null,
-    "expectancy": null
+    "expectancy": null,
+    "update_2026-10-13": "AAPL long + XRP/ADA/AMD shorts + MSFT long all hit take-profit 10-13 (net approx +$134.97 / +$54.37 / +$80.21 / +$36.37 / +$15.73 = +$321.65). Sample is still small; GOOGL, AMZN, SILVER remain open."
   }
 }
