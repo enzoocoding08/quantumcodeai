@@ -101,11 +101,15 @@
       "leverage": 2,
       "size_notional_usd": 2500,
       "signals_at_entry": "2-of-3 confluence, loosened 2026-09-26 rule (not full 3-signal - no specific catalyst headline found for SILVER, treated as neutral/unavailable, not contradicting): (1) positioning - 80.1% short in the >$2.5M cohort (up from 76% the prior day), smart money 41% long vs losing crowd 64% long, a contrarian short signal; (2) technical - price below SMA20/50/200, bearish MACD momentum, OBV trend flipped from rising to falling between the two screens (confirms distribution), stochastic 23 not yet exhausted. Macro context (rising Treasury yields, real-rate pressure on precious metals) supports the direction but wasn't counted as the formal third signal. ATR-based stop/target (1.5x/3.0x ATR14=1.833) for ~2:1 R:R. User explicitly confirmed execution in chat ('schick mir silberhsott') after the setup was first flagged and previewed the prior day.",
-      "status": "open",
-      "exit_price": null,
-      "exit_date": null,
+      "status": "closed",
+      "exit_price": 55.52,
+      "exit_date": "2026-10-14",
       "result_pct": null,
-      "outcome_notes": null
+      "outcome_notes": null,
+      "exit_reason": "take-profit hit",
+      "gross_pnl_usd": 224.78,
+      "fees_usd": 4.54,
+      "net_pnl_usd": 220.24
     },
     {
       "id": "day1-btc-long",
@@ -366,10 +370,11 @@
   "stats": {
     "note": "8 closed trades: 6 losses (AAPL, BTC, NVDA, XRP, ETH, SOL - the original Day-1 same-direction batch, every single one stopped out, triggering the 5-in-a-row 6h cool-off rule, expired ~2026-09-15 21:00 UTC) plus 2 wins (LLY long, take-profit hit 2026-09-23 at $1,184.40, +6.31%/+$50.42; GOLD short, take-profit hit 2026-09-28 at $4,155.20, +5.4%/+$96.49 net - held since 2026-09-07, the longest-running position in the log). Still not enough sample size for real win-rate/expectancy stats (need 20+ closed), but the trend holds: the Day-1 batch was one correlated risk-on bet wearing 6 different tickers, not 6 independent calls, and it was wrong. The positions opened since with genuine differentiated 3-signal-confluence reasoning (GOLD short -> WIN, AMZN short, LLY long -> WIN, MU long, NVDA long) are either still open and profitable or already closed profitably - real evidence the process works better than broad same-direction batching.",
     "total_trades": 21,
-    "closed_trades": 18,
+    "closed_trades": 19,
     "win_rate": null,
     "avg_r_multiple": null,
     "expectancy": null,
-    "update_2026-10-13": "AAPL long + XRP/ADA/AMD shorts + MSFT long all hit take-profit 10-13 (net approx +$134.97 / +$54.37 / +$80.21 / +$36.37 / +$15.73 = +$321.65). Sample is still small; GOOGL, AMZN, SILVER remain open."
+    "update_2026-10-13": "AAPL long + XRP/ADA/AMD shorts + MSFT long all hit take-profit 10-13 (net approx +$134.97 / +$54.37 / +$80.21 / +$36.37 / +$15.73 = +$321.65). Sample is still small; GOOGL, AMZN, SILVER remain open.",
+    "update_2026-10-14": "SILVER short (2x, held 15 days) hit take-profit 55.52 on 10-14 evening: net approx +$220.24. Open: GOOGL long, AMZN short. HYPE/MU E1 short proposals of 10-14 were not confirmed and expired."
   }
 }
