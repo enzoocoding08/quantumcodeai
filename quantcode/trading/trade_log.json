@@ -63,11 +63,15 @@
       "leverage": 2,
       "size_notional_usd": 6000,
       "signals_at_entry": "RELAXED BAR, user-requested stock trade (not a strict 2-of-3 setup): daily technicals bullish (above SMA20/50/200, MACD turning up, OBV rising, stochastic 41); tool smart-money metric 70% long vs losing crowd 27% long, BUT the largest accounts by size are 69% short (mixed positioning) and rising yields are a macro headwind. Proposed at $2,000 notional; the position on the platform is $6,000 notional (margin $3,000 at 2x) - size differs from this session's proposal and risk to stop is about $181 instead of about $60. Position appeared in get_portfolio on 2026-10-07 evening; this session prepared the proposal via suggest_trade(s) but did not execute it - confirmation happened on the platform side, not in this chat.",
-      "status": "open",
-      "exit_price": null,
-      "exit_date": null,
+      "status": "closed",
+      "exit_price": 339.755,
+      "exit_date": "2026-10-16",
       "result_pct": null,
-      "outcome_notes": null
+      "outcome_notes": null,
+      "exit_reason": "stop-loss hit (18:20 UTC)",
+      "gross_pnl_usd": -182.34,
+      "fees_usd": 11.23,
+      "net_pnl_usd": -193.57
     },
     {
       "id": "day-2026-10-01-aapl-long-v2",
@@ -370,11 +374,12 @@
   "stats": {
     "note": "8 closed trades: 6 losses (AAPL, BTC, NVDA, XRP, ETH, SOL - the original Day-1 same-direction batch, every single one stopped out, triggering the 5-in-a-row 6h cool-off rule, expired ~2026-09-15 21:00 UTC) plus 2 wins (LLY long, take-profit hit 2026-09-23 at $1,184.40, +6.31%/+$50.42; GOLD short, take-profit hit 2026-09-28 at $4,155.20, +5.4%/+$96.49 net - held since 2026-09-07, the longest-running position in the log). Still not enough sample size for real win-rate/expectancy stats (need 20+ closed), but the trend holds: the Day-1 batch was one correlated risk-on bet wearing 6 different tickers, not 6 independent calls, and it was wrong. The positions opened since with genuine differentiated 3-signal-confluence reasoning (GOLD short -> WIN, AMZN short, LLY long -> WIN, MU long, NVDA long) are either still open and profitable or already closed profitably - real evidence the process works better than broad same-direction batching.",
     "total_trades": 21,
-    "closed_trades": 19,
+    "closed_trades": 20,
     "win_rate": null,
     "avg_r_multiple": null,
     "expectancy": null,
     "update_2026-10-13": "AAPL long + XRP/ADA/AMD shorts + MSFT long all hit take-profit 10-13 (net approx +$134.97 / +$54.37 / +$80.21 / +$36.37 / +$15.73 = +$321.65). Sample is still small; GOOGL, AMZN, SILVER remain open.",
-    "update_2026-10-14": "SILVER short (2x, held 15 days) hit take-profit 55.52 on 10-14 evening: net approx +$220.24. Open: GOOGL long, AMZN short. HYPE/MU E1 short proposals of 10-14 were not confirmed and expired."
+    "update_2026-10-14": "SILVER short (2x, held 15 days) hit take-profit 55.52 on 10-14 evening: net approx +$220.24. Open: GOOGL long, AMZN short. HYPE/MU E1 short proposals of 10-14 were not confirmed and expired.",
+    "update_2026-10-17": "GOOGL long (2x, entry 350.40, since 10-07) hit stop-loss 339.80 on Fri 10-16 18:20 UTC (exit ~339.755): net approx -$193.57 (gross -182.34, fees 11.23). First stop-loss since the Day-1 batch/GOLD short. Only AMZN short remains open."
   }
 }
