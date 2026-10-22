@@ -1,5 +1,5 @@
 {
-  "note": "Warteschlange fuer zusaetzlichen Bonus-Content (ausserhalb des normalen taeglichen Trigger-Postings). Der 'extra content'-Trigger postet pro Lauf GENAU EIN pending item (das mit der niedrigsten order-Zahl), setzt status auf 'posted' und committet+pusht das Update. Dateien liegen unter docs/content/queue/.",
+  "note": "Warteschlange fuer zusaetzlichen Bonus-Content (ausserhalb des normalen taeglichen Trigger-Postings). Der 'extra content'-Trigger postet pro Lauf GENAU EIN pending item (das mit der niedrigsten order-Zahl), setzt status auf 'posted' und committet+pusht das Update. Dateien liegen unter docs/content/queue/. | 2026-10-22: Schema erweitert um type 'image'/'story', not_before/valid_until (UTC). Gepostet wird jetzt automatisch per GitHub Action (.github/workflows/post-queue.yml, quantcode/social/queue_runner.py); Sessions bestuecken die Queue nur noch (siehe quantcode/social/STAGING.md).",
   "items": [
     {
       "id": "klumpenrisiko-reel",
@@ -459,6 +459,237 @@
       ],
       "story_file": "docs/content/queue/Story-pequiz.png",
       "caption": "Stock or Not: guess which one is the riskier growth bet.\n\nStock A: PE of 38.4x. Stock B: PE of 24.4x. Which one is riskier?\n\nStock A is Eli Lilly - its PEG ratio is just 1.2, reasonable once you adjust for its GLP-1 driven growth. Stock B is UnitedHealth - lower PE, but every single analyst covering it rates it a Buy, and it's still 15% below its 52-week high.\n\nThe bigger PE number alone never tells you who's actually risky.\n\nNot financial advice - educational content only.\n\n#stockmarket #investing #elililly #unitedhealth #financeeducation #stockquiz #wallstreet #quantcodeai"
+    },
+    {
+      "id": "post-budget-503020",
+      "order": 38,
+      "type": "image",
+      "status": "pending",
+      "not_before": "2026-10-22T09:45:00Z",
+      "files": [
+        "docs/content/daily/2026-10-19/post_budget_2026-10-19.png"
+      ],
+      "caption": "Die 50/30/20-Regel 💡 So teilst du dein Geld einfach auf:\n\n50 % Fixkosten & Notwendiges\n30 % Wünsche & Freizeit\n20 % Sparen & Investieren\n\nBeispiel bei 2.000 € netto (fiktive Zahl): 1.000 € / 600 € / 400 €. Eine Faustformel – dein Alltag kann abweichen, etwa bei hoher Miete.\n\n💾 Speichern für deine nächste Monatsplanung\n📩 Schick es jemandem, der gerade mit dem Sparen startet\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#finanzbildung #sparen #budget #503020 #geldtipps #investieren #finanzen #quantcodeai"
+    },
+    {
+      "id": "story-lexikon-bullbaer",
+      "order": 39,
+      "type": "story",
+      "status": "pending",
+      "not_before": "2026-10-22T12:05:00Z",
+      "files": [
+        "docs/content/queue/staged-2026-10-22/lexikon_bullbaer.png"
+      ]
+    },
+    {
+      "id": "story-quiz-verlust-frage",
+      "order": 40,
+      "type": "story",
+      "status": "pending",
+      "not_before": "2026-10-22T15:15:00Z",
+      "files": [
+        "docs/content/queue/staged-2026-10-22/quiz_verlust_frage.png"
+      ]
+    },
+    {
+      "id": "story-quiz-verlust-loesung",
+      "order": 41,
+      "type": "story",
+      "status": "pending",
+      "not_before": "2026-10-22T18:20:00Z",
+      "files": [
+        "docs/content/queue/staged-2026-10-22/quiz_verlust_loesung.png"
+      ]
+    },
+    {
+      "id": "reel-wachstumszahlen",
+      "order": 42,
+      "type": "reel",
+      "status": "pending",
+      "not_before": "2026-10-23T09:45:00Z",
+      "files": [
+        "docs/content/daily/2026-10-19/reel_wachstum_2026-10-19.mp4"
+      ],
+      "caption": "Diese Wachstumszahlen sind kaum zu glauben 🤯 Echte Quartalszahlen, jeweils gegen das Vorjahresquartal:\n\n📈 Micron: Umsatz 11,3 → 54,2 Mrd. $, Gewinn 3,2 → 37,7 Mrd. $\n📈 Nvidia: Umsatz 46,7 → 96,2 Mrd. $, Gewinn +126 %\n📈 Palantir: Umsatz 1,0 → 1,9 Mrd. $, Gewinn mehr als verdreifacht\n\nAber: Wachstum allein sagt nichts darüber, ob eine Aktie noch günstig ist. Entscheidend ist, was schon im Kurs steckt.\n\n💾 Speichern für deine nächste Analyse\n📩 Schick es jemandem, der Aktien nach Schlagzeilen kauft\n\nQuelle: Alpha Vantage, zuletzt gemeldete Quartale (Micron Aug 2026, Nvidia Jul 2026, Palantir Jun 2026).\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#aktien #wachstumsaktien #nvidia #micron #palantir #quartalszahlen #finanzbildung #investieren #boerse #quantcodeai"
+    },
+    {
+      "id": "story-concept-spread",
+      "order": 43,
+      "type": "story",
+      "status": "pending",
+      "not_before": "2026-10-23T12:05:00Z",
+      "files": [
+        "docs/content/daily/2026-10-19/concept_spread_2026-10-19.png"
+      ]
+    },
+    {
+      "id": "story-quiz-exday-frage",
+      "order": 44,
+      "type": "story",
+      "status": "pending",
+      "not_before": "2026-10-23T15:15:00Z",
+      "files": [
+        "docs/content/queue/staged-2026-10-22/quiz_exday_frage.png"
+      ]
+    },
+    {
+      "id": "story-quiz-exday-loesung",
+      "order": 45,
+      "type": "story",
+      "status": "pending",
+      "not_before": "2026-10-23T18:20:00Z",
+      "files": [
+        "docs/content/queue/staged-2026-10-22/quiz_exday_loesung.png"
+      ]
+    },
+    {
+      "id": "carousel-boersenmythen",
+      "order": 46,
+      "type": "carousel",
+      "status": "pending",
+      "not_before": "2026-10-24T09:45:00Z",
+      "files": [
+        "docs/content/queue/staged-2026-10-22/mythen_slide1.png",
+        "docs/content/queue/staged-2026-10-22/mythen_slide2.png",
+        "docs/content/queue/staged-2026-10-22/mythen_slide3.png",
+        "docs/content/queue/staged-2026-10-22/mythen_slide4.png",
+        "docs/content/queue/staged-2026-10-22/mythen_slide5.png",
+        "docs/content/queue/staged-2026-10-22/mythen_slide6.png",
+        "docs/content/queue/staged-2026-10-22/mythen_slide7.png"
+      ],
+      "caption": "5 Börsen-Mythen, die dich Geld kosten 💸\n\n1️⃣ „Niedriger Kurs = günstige Aktie\"\n2️⃣ „Hohe Dividende = tolles Investment\"\n3️⃣ „ETFs sind risikofrei\"\n4️⃣ „Mehr Trades = mehr Rendite\"\n5️⃣ „Du musst den perfekten Einstieg erwischen\"\n\nWisch durch – bei jedem Mythos steht die Wahrheit dahinter.\n\n💾 Speichern, damit du es beim nächsten Kauf wieder siehst\n📩 Schick es jemandem, der noch an einen dieser Mythen glaubt\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#boersenmythen #finanzbildung #investieren #aktien #etf #sparen #boerse #anfaenger #quantcodeai"
+    },
+    {
+      "id": "story-lexikon-volatilitaet",
+      "order": 47,
+      "type": "story",
+      "status": "pending",
+      "not_before": "2026-10-24T12:05:00Z",
+      "files": [
+        "docs/content/queue/staged-2026-10-22/lexikon_volatilitaet.png"
+      ]
+    },
+    {
+      "id": "story-concept-ter",
+      "order": 48,
+      "type": "story",
+      "status": "pending",
+      "not_before": "2026-10-24T15:15:00Z",
+      "files": [
+        "docs/content/daily/2026-10-20/concept_ter_2026-10-20.png"
+      ]
+    },
+    {
+      "id": "post-exdividend",
+      "order": 49,
+      "type": "image",
+      "status": "pending",
+      "not_before": "2026-10-25T09:45:00Z",
+      "files": [
+        "docs/content/daily/2026-10-21/post_exdividend_2026-10-21.png"
+      ],
+      "caption": "Dividende kassieren – warum der Ex-Tag kein Geschenk ist 💡\n\n1️⃣ Vor dem Ex-Tag kaufen → du bekommst die Dividende\n2️⃣ Am Ex-Tag fällt der Kurs meist ungefähr um die Dividende\n3️⃣ Ein paar Tage später kommt das Geld auf dein Konto\n\nBeispiel (fiktiv): Aktie 100 $, Dividende 2 $. Nach dem Ex-Tag steht sie bei ca. 98 $. Du hast 2 $ Dividende, aber 2 $ weniger Kurs – kein Gratisgeld, nur eine Umbuchung. Steuern kommen obendrauf.\n\n💾 Speichern, bevor du Dividenden-Aktien jagst\n📩 Schick es jemandem, der \"nur kurz vor der Dividende\" kaufen will\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#dividende #dividenden #exdividende #aktien #finanzbildung #investieren #boerse #passiveseinkommen #quantcodeai"
+    },
+    {
+      "id": "story-lexikon-liquiditaet",
+      "order": 50,
+      "type": "story",
+      "status": "pending",
+      "not_before": "2026-10-25T12:05:00Z",
+      "files": [
+        "docs/content/queue/staged-2026-10-22/lexikon_liquiditaet.png"
+      ]
+    },
+    {
+      "id": "story-quiz-etf-frage",
+      "order": 51,
+      "type": "story",
+      "status": "pending",
+      "not_before": "2026-10-25T15:15:00Z",
+      "files": [
+        "docs/content/queue/staged-2026-10-22/quiz_etf_frage.png"
+      ]
+    },
+    {
+      "id": "story-quiz-etf-loesung",
+      "order": 52,
+      "type": "story",
+      "status": "pending",
+      "not_before": "2026-10-25T18:20:00Z",
+      "files": [
+        "docs/content/queue/staged-2026-10-22/quiz_etf_loesung.png"
+      ]
+    },
+    {
+      "id": "reel-kerzenchart",
+      "order": 53,
+      "type": "reel",
+      "status": "pending",
+      "not_before": "2026-10-26T09:45:00Z",
+      "files": [
+        "docs/content/daily/2026-10-20/reel_kerzenchart_2026-10-20.mp4"
+      ],
+      "caption": "So liest du einen Kerzenchart 🕯️ In 40 Sekunden erklärt:\n\n🟢 Grüne Kerze: Der Kurs schloss höher, als er startete\n🔴 Rote Kerze: Er schloss tiefer\n📏 Körper = Eröffnungs- und Schlusskurs\n〰️ Docht = Hoch und Tief des Zeitraums\n\nLange Dochte zeigen, dass der Kurs stark ausschlug, aber zurückkam. Eine einzelne Kerze ist kein Signal – erst der Zusammenhang zählt.\n\n💾 Speichern für deine nächste Chart-Analyse\n📩 Schick es jemandem, der Charts noch nicht versteht\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#kerzenchart #charts #aktien #technischeanalyse #finanzbildung #investieren #boerse #daytrading #anfaenger #quantcodeai"
+    },
+    {
+      "id": "story-lexikon-marktkapitalisierung",
+      "order": 54,
+      "type": "story",
+      "status": "pending",
+      "not_before": "2026-10-26T12:05:00Z",
+      "files": [
+        "docs/content/queue/staged-2026-10-22/lexikon_marktkapitalisierung.png"
+      ]
+    },
+    {
+      "id": "story-concept-homebias",
+      "order": 55,
+      "type": "story",
+      "status": "pending",
+      "not_before": "2026-10-26T15:15:00Z",
+      "files": [
+        "docs/content/daily/2026-10-21/concept_homebias_2026-10-21.png"
+      ]
+    },
+    {
+      "id": "story-lexikon-index",
+      "order": 56,
+      "type": "story",
+      "status": "pending",
+      "not_before": "2026-10-27T12:05:00Z",
+      "files": [
+        "docs/content/queue/staged-2026-10-22/lexikon_index.png"
+      ]
+    },
+    {
+      "id": "story-concept-kgv",
+      "order": 57,
+      "type": "story",
+      "status": "pending",
+      "not_before": "2026-10-27T15:15:00Z",
+      "files": [
+        "docs/content/daily/2026-10-18/concept_kgv_2026-10-18.png"
+      ]
+    },
+    {
+      "id": "story-lexikon-korrelation",
+      "order": 58,
+      "type": "story",
+      "status": "pending",
+      "not_before": "2026-10-28T12:05:00Z",
+      "files": [
+        "docs/content/queue/staged-2026-10-22/lexikon_korrelation.png"
+      ]
+    },
+    {
+      "id": "story-lexikon-kursziel",
+      "order": 59,
+      "type": "story",
+      "status": "pending",
+      "not_before": "2026-10-28T15:15:00Z",
+      "files": [
+        "docs/content/queue/staged-2026-10-22/lexikon_kursziel.png"
+      ]
     }
   ]
 }
