@@ -385,6 +385,7 @@
     "update_2026-10-13": "AAPL long + XRP/ADA/AMD shorts + MSFT long all hit take-profit 10-13 (net approx +$134.97 / +$54.37 / +$80.21 / +$36.37 / +$15.73 = +$321.65). Sample is still small; GOOGL, AMZN, SILVER remain open.",
     "update_2026-10-14": "SILVER short (2x, held 15 days) hit take-profit 55.52 on 10-14 evening: net approx +$220.24. Open: GOOGL long, AMZN short. HYPE/MU E1 short proposals of 10-14 were not confirmed and expired.",
     "update_2026-10-17": "GOOGL long (2x, entry 350.40, since 10-07) hit stop-loss 339.80 on Fri 10-16 18:20 UTC (exit ~339.755): net approx -$193.57 (gross -182.34, fees 11.23). First stop-loss since the Day-1 batch/GOLD short. Only AMZN short remains open.",
-    "update_2026-10-20": "AMZN short (1x, entry 257.14 on 2026-09-08, held 42 days) hit stop-loss 2026-10-20 02:16 UTC at 265.44: net approx -$27.36 (gross -25.82, fees 1.54). Portfolio is flat now (no open positions), equity $10,711.30. All 21 trades closed. Open question: E1 signal breadth has been very low since 10-14."
+    "update_2026-10-20": "AMZN short (1x, entry 257.14 on 2026-09-08, held 42 days) hit stop-loss 2026-10-20 02:16 UTC at 265.44: net approx -$27.36 (gross -25.82, fees 1.54). Portfolio is flat now (no open positions), equity $10,711.30. All 21 trades closed. Open question: E1 signal breadth has been very low since 10-14.",
+    "update_2026-10-22": "Flat den ganzen Tag, equity $10,711.30, keine neuen Trades. Der Basket von 10-21 (GOOGL/NFLX short, TSLA/BTC long) wurde nicht bestaetigt und ist veraltet; TSLA 4h neutral (RSI 51), BTC 4h schwach (RSI 43, unter SMA200)."
   }
 }
