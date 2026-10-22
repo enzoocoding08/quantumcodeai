@@ -750,6 +750,18 @@
       "caption": "",
       "not_before": "2026-10-22T18:15:00Z",
       "valid_until": "2026-10-22T23:00:00Z"
+    },
+    {
+      "id": "story-trade-alert-basket-2026-10-22",
+      "order": 65,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-10-22/trade_alert_basket_2026-10-22.png"
+      ],
+      "caption": "",
+      "not_before": "2026-10-22T20:20:00Z",
+      "valid_until": "2026-10-23T12:00:00Z"
     }
   ]
 }
