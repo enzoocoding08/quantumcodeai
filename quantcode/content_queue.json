@@ -690,6 +690,54 @@
       "files": [
         "docs/content/queue/staged-2026-10-22/lexikon_kursziel.png"
       ]
+    },
+    {
+      "id": "story-ticker-intc-2026-10-22",
+      "order": 60,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-10-22/intc_2026-10-22.png"
+      ],
+      "caption": "",
+      "not_before": "2026-10-22T07:30:00:00Z",
+      "valid_until": "2026-10-22T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-aapl-2026-10-22",
+      "order": 61,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-10-22/aapl_2026-10-22.png"
+      ],
+      "caption": "",
+      "not_before": "2026-10-22T07:50:00:00Z",
+      "valid_until": "2026-10-22T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-msft-2026-10-22",
+      "order": 62,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-10-22/msft_2026-10-22.png"
+      ],
+      "caption": "",
+      "not_before": "2026-10-22T08:10:00:00Z",
+      "valid_until": "2026-10-22T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-nvda-2026-10-22",
+      "order": 63,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-10-22/nvda_2026-10-22.png"
+      ],
+      "caption": "",
+      "not_before": "2026-10-22T08:30:00:00Z",
+      "valid_until": "2026-10-22T21:00:00Z"
     }
   ]
 }
