@@ -382,14 +382,18 @@
       "take_profit": 352.94,
       "stop_loss": 345.68,
       "signals_at_entry": "EXPERIMENT E1 (rule-based 4h trend-follow, no exhaustion filter). Stop 1x ATR14(4h), target 2x ATR. Proposed by this session, confirmed by the user in chat ('ja Korb, mach alle drei'), executed via execute_orders_batch (orderIds 138106/138100/138103). 4h EMA20>EMA50, MACD hist +0.75, OBV rising. Entry RSI 67 / stochastic 88 (overbought - logged).",
-      "status": "open",
-      "exit_price": null,
-      "exit_date": null,
+      "status": "closed",
+      "exit_price": 345.66,
+      "exit_date": "2026-10-23",
       "result_pct": null,
       "outcome_notes": null,
       "size_notional_usd": 1000,
       "leverage": 2,
-      "entry_date": "2026-10-22"
+      "entry_date": "2026-10-22",
+      "exit_reason": "stop-loss hit (06:38 UTC)",
+      "gross_pnl_usd": -6.34,
+      "fees_usd": 1.89,
+      "net_pnl_usd": -8.23
     },
     {
       "id": "e1-2026-10-22-eth-short",
@@ -429,7 +433,7 @@
   "stats": {
     "note": "8 closed trades: 6 losses (AAPL, BTC, NVDA, XRP, ETH, SOL - the original Day-1 same-direction batch, every single one stopped out, triggering the 5-in-a-row 6h cool-off rule, expired ~2026-09-15 21:00 UTC) plus 2 wins (LLY long, take-profit hit 2026-09-23 at $1,184.40, +6.31%/+$50.42; GOLD short, take-profit hit 2026-09-28 at $4,155.20, +5.4%/+$96.49 net - held since 2026-09-07, the longest-running position in the log). Still not enough sample size for real win-rate/expectancy stats (need 20+ closed), but the trend holds: the Day-1 batch was one correlated risk-on bet wearing 6 different tickers, not 6 independent calls, and it was wrong. The positions opened since with genuine differentiated 3-signal-confluence reasoning (GOLD short -> WIN, AMZN short, LLY long -> WIN, MU long, NVDA long) are either still open and profitable or already closed profitably - real evidence the process works better than broad same-direction batching.",
     "total_trades": 24,
-    "closed_trades": 21,
+    "closed_trades": 22,
     "win_rate": null,
     "avg_r_multiple": null,
     "expectancy": null,
@@ -438,6 +442,7 @@
     "update_2026-10-17": "GOOGL long (2x, entry 350.40, since 10-07) hit stop-loss 339.80 on Fri 10-16 18:20 UTC (exit ~339.755): net approx -$193.57 (gross -182.34, fees 11.23). First stop-loss since the Day-1 batch/GOLD short. Only AMZN short remains open.",
     "update_2026-10-20": "AMZN short (1x, entry 257.14 on 2026-09-08, held 42 days) hit stop-loss 2026-10-20 02:16 UTC at 265.44: net approx -$27.36 (gross -25.82, fees 1.54). Portfolio is flat now (no open positions), equity $10,711.30. All 21 trades closed. Open question: E1 signal breadth has been very low since 10-14.",
     "update_2026-10-22": "Flat den ganzen Tag, equity $10,711.30, keine neuen Trades. Der Basket von 10-21 (GOOGL/NFLX short, TSLA/BTC long) wurde nicht bestaetigt und ist veraltet; TSLA 4h neutral (RSI 51), BTC 4h schwach (RSI 43, unter SMA200).",
-    "update_2026-10-22b": "Basket AAPL long / ETH short / MSFT short opened 2026-10-22 ~20:20 UTC (paper, $1000 each, 2x). All three filled with TP/SL set. Equity 10708.28 (fees)."
+    "update_2026-10-22b": "Basket AAPL long / ETH short / MSFT short opened 2026-10-22 ~20:20 UTC (paper, $1000 each, 2x). All three filled with TP/SL set. Equity 10708.28 (fees).",
+    "update_2026-10-23": "AAPL long (entry 347.87, 2026-10-22 20:14 UTC) hit stop-loss 345.66 on 2026-10-23 06:38 UTC: net approx -$8.23 (gross -6.34, fees 1.89). ETH short and MSFT short still open (MSFT +$9, ETH -$7.5 unrealized at 07:15 UTC). Equity $10,702.84."
   }
 }
