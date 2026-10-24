@@ -846,6 +846,18 @@
       "caption": "",
       "not_before": "2026-10-24T08:30:00:00Z",
       "valid_until": "2026-10-24T21:00:00Z"
+    },
+    {
+      "id": "story-trading-update-2026-10-24",
+      "order": 73,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-10-24/quantcode-ai-trading-update-2026-10-24.png"
+      ],
+      "caption": "",
+      "not_before": "2026-10-24T18:15:00Z",
+      "valid_until": "2026-10-24T23:00:00Z"
     }
   ]
 }
