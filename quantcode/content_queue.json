@@ -798,6 +798,54 @@
       "caption": "",
       "not_before": "2026-10-23T18:15:00Z",
       "valid_until": "2026-10-23T23:00:00Z"
+    },
+    {
+      "id": "story-ticker-meta-2026-10-24",
+      "order": 69,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-10-24/meta_2026-10-24.png"
+      ],
+      "caption": "",
+      "not_before": "2026-10-24T07:30:00:00Z",
+      "valid_until": "2026-10-24T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-tsla-2026-10-24",
+      "order": 70,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-10-24/tsla_2026-10-24.png"
+      ],
+      "caption": "",
+      "not_before": "2026-10-24T07:50:00:00Z",
+      "valid_until": "2026-10-24T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-adbe-2026-10-24",
+      "order": 71,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-10-24/adbe_2026-10-24.png"
+      ],
+      "caption": "",
+      "not_before": "2026-10-24T08:10:00:00Z",
+      "valid_until": "2026-10-24T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-nflx-2026-10-24",
+      "order": 72,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-10-24/nflx_2026-10-24.png"
+      ],
+      "caption": "",
+      "not_before": "2026-10-24T08:30:00:00Z",
+      "valid_until": "2026-10-24T21:00:00Z"
     }
   ]
 }
