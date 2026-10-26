@@ -918,6 +918,54 @@
       "caption": "",
       "not_before": "2026-10-25T18:15:00Z",
       "valid_until": "2026-10-25T23:00:00Z"
+    },
+    {
+      "id": "story-ticker-unh-2026-10-26",
+      "order": 79,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-10-26/unh_2026-10-26.png"
+      ],
+      "caption": "",
+      "not_before": "2026-10-26T07:30:00:00Z",
+      "valid_until": "2026-10-26T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-jpm-2026-10-26",
+      "order": 80,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-10-26/jpm_2026-10-26.png"
+      ],
+      "caption": "",
+      "not_before": "2026-10-26T07:50:00:00Z",
+      "valid_until": "2026-10-26T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-v-2026-10-26",
+      "order": 81,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-10-26/v_2026-10-26.png"
+      ],
+      "caption": "",
+      "not_before": "2026-10-26T08:10:00:00Z",
+      "valid_until": "2026-10-26T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-ma-2026-10-26",
+      "order": 82,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-10-26/ma_2026-10-26.png"
+      ],
+      "caption": "",
+      "not_before": "2026-10-26T08:30:00:00Z",
+      "valid_until": "2026-10-26T21:00:00Z"
     }
   ]
 }
