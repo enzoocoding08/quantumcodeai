@@ -966,6 +966,17 @@
       "caption": "",
       "not_before": "2026-10-26T08:30:00:00Z",
       "valid_until": "2026-10-26T21:00:00Z"
+    },
+    {
+      "id": "post-sparplan-costaverage",
+      "order": 83,
+      "type": "image",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-10-26/post_sparplan.png"
+      ],
+      "caption": "Warum ein Kurssturz bei einem Sparplan mehr Anteile bringt 📉➡️📈\n\nBeispiel (fiktiv): jeden Monat 100 €, Kurse 10 / 8 / 5 / 8 / 10 €. Du kaufst 65 Anteile für 500 € - im Schnitt 7,69 € pro Anteil, obwohl der Durchschnittskurs 8,20 € war. Das ist der Cost-Average-Effekt. Er schützt nicht vor Verlusten, er glättet nur den Einstieg.\n\n💾 Speichern für später\n📩 Schick es jemandem, der Angst vor Kursstürzen hat\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#sparplan #costaverage #etf #investieren #finanzbildung #börse #vermögensaufbau #quantcodeai",
+      "not_before": "2026-10-27T09:45:00Z"
     }
   ]
 }
