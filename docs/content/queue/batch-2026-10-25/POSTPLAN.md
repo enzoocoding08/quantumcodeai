@@ -40,3 +40,15 @@ A stock falls 34 percent. How much must it rise to get back to even? 🤔 Not 34
 - 72er-Regel: Näherung (genau: 6 Prozent = 11,9 Jahre, 9 Prozent = 8,0 Jahre, 3 Prozent = 23,4 Jahre).
 - Verlust-Mathe: 1/(1-0,34) - 1 = 51,5 Prozent. Intel Schlusskurse: 22.06. 140,94 Dollar, 21.10. 92,96 Dollar (Alpha Vantage).
 - Position sizing: 10.000 x 1 Prozent = 100 Dollar; 100 / 5 = 20 Aktien (reines Rechenbeispiel).
+
+## Zusatz 27.10. - Co-Post (DE) fuer @quantcode_ai und Partnerkonto
+Datei: 7-copost-de-drei-hebel-depot.mp4 (61 s, Stimme Katja). Beim Hochladen in Instagram: "Personen markieren" -> "Collab einladen" und das Partnerkonto auswaehlen.
+
+Caption:
+Drei Dinge machen dein Depot ruhiger – und keines davon ist ein Börsentipp. 🧘
+1️⃣ Streuen: Beispiel (fiktiv): 10.000 € in einer Aktie, die 40 Prozent fällt = -4.000 €. Auf zehn Aktien verteilt und nur eine fällt um 40 Prozent = -400 €.
+2️⃣ Kosten im Blick: 7 statt 6 Prozent Rendite macht nach 30 Jahren bei 10.000 € rund 18.700 € Unterschied (Beispielrechnung).
+3️⃣ Regelmäßig sparen: Bei den Kursen 10 / 8 / 5 / 8 / 10 € zahlst du im Schnitt 7,69 € statt 8,20 €.
+💾 Speichern · 📩 Schick es jemandem, der gerade sein Depot aufbaut.
+Beispielrechnungen, kein Anlagetipp. Bildung, kein echtes Geld im Spiel.
+#depot #investieren #finanzbildung #etf #sparplan #diversifikation #börse #quantcodeai
