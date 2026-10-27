@@ -1037,6 +1037,17 @@
       "caption": "",
       "not_before": "2026-10-27T08:30:00:00Z",
       "valid_until": "2026-10-27T21:00:00Z"
+    },
+    {
+      "id": "post-inflation-kaufkraft",
+      "order": 89,
+      "type": "image",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-10-27/post_inflation.png"
+      ],
+      "caption": "Dein Geld auf dem Konto verliert leise an Wert 📉\n\nBeispiel (fiktiv): 10.000 € ohne Zinsen, Inflation konstant 3 Prozent pro Jahr. Nach 5 Jahren hat das Geld nur noch die Kaufkraft von 8.626 €, nach 10 Jahren 7.441 €, nach 20 Jahren 5.537 €. Die Zahl auf dem Konto bleibt gleich, was du dafür kaufen kannst, schrumpft. Keine Prognose.\n\n💾 Speichern für später\n📩 Schick es jemandem, dessen Geld nur auf dem Konto liegt\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#inflation #kaufkraft #sparen #finanzbildung #investieren #etf #börse #quantcodeai",
+      "not_before": "2026-10-28T09:45:00Z"
     }
   ]
 }
