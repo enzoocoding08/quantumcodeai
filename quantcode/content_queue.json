@@ -1119,6 +1119,18 @@
       ],
       "caption": "Wie viele Aktien kaufen? Nicht nach Gefühl, sondern in 3 Schritten 🧮\n\n1️⃣ Risiko pro Trade festlegen – viele Trader nehmen etwa 1 Prozent des Kontos. Bei 10.000 € sind das 100 €.\n2️⃣ Abstand zum Stop: Kauf bei 50 €, Stop bei 45 € = 5 € Risiko pro Aktie.\n3️⃣ 100 € geteilt durch 5 € = 20 Aktien (Positionswert 1.000 €).\n\nRechenbeispiel (fiktiv). Bei schnellen Kurssprüngen kann ein Stop Lücken haben, das Risiko ist dann größer.\n\n💾 Speichern für später\n📩 Schick es jemandem, der gerade mit Trading anfängt\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#positionsgröße #risikomanagement #stoploss #trading #börse #finanzbildung #aktien #quantcodeai",
       "not_before": "2026-10-29T09:45:00Z"
+    },
+    {
+      "id": "story-trading-update-2026-10-28",
+      "order": 96,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-10-28/quantcode-ai-trading-update-2026-10-28.png"
+      ],
+      "caption": "",
+      "not_before": "2026-10-28T18:15:00Z",
+      "valid_until": "2026-10-28T23:00:00Z"
     }
   ]
 }
