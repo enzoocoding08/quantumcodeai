@@ -1060,6 +1060,54 @@
       "caption": "",
       "not_before": "2026-10-27T18:15:00Z",
       "valid_until": "2026-10-27T23:00:00Z"
+    },
+    {
+      "id": "story-ticker-sbux-2026-10-28",
+      "order": 91,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-10-28/sbux_2026-10-28.png"
+      ],
+      "caption": "",
+      "not_before": "2026-10-28T07:30:00:00Z",
+      "valid_until": "2026-10-28T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-xom-2026-10-28",
+      "order": 92,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-10-28/xom_2026-10-28.png"
+      ],
+      "caption": "",
+      "not_before": "2026-10-28T07:50:00:00Z",
+      "valid_until": "2026-10-28T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-cvx-2026-10-28",
+      "order": 93,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-10-28/cvx_2026-10-28.png"
+      ],
+      "caption": "",
+      "not_before": "2026-10-28T08:10:00:00Z",
+      "valid_until": "2026-10-28T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-ba-2026-10-28",
+      "order": 94,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-10-28/ba_2026-10-28.png"
+      ],
+      "caption": "",
+      "not_before": "2026-10-28T08:30:00:00Z",
+      "valid_until": "2026-10-28T21:00:00Z"
     }
   ]
 }
