@@ -52,3 +52,16 @@ Drei Dinge machen dein Depot ruhiger – und keines davon ist ein Börsentipp. �
 💾 Speichern · 📩 Schick es jemandem, der gerade sein Depot aufbaut.
 Beispielrechnungen, kein Anlagetipp. Bildung, kein echtes Geld im Spiel.
 #depot #investieren #finanzbildung #etf #sparplan #diversifikation #börse #quantcodeai
+
+## Zusatz 29.10. - Kooperationsvideo (DE) fuer @quantcode_ai und Partnerkonto
+Datei: 8-collab-de-warten-kostet.mp4 (52 s, Stimme Conrad). Hochladen als Reel -> "Personen markieren" -> "Collab einladen".
+
+Caption:
+Was kostet es, 10 Jahre zu warten? ⏳
+Beispiel (fiktiv): 10.000 €, 7 Prozent Rendite pro Jahr.
+✅ Jetzt anlegen: nach 30 Jahren rund 76.100 €.
+⏳ 10 Jahre warten: nach 20 Jahren rund 38.700 €.
+Unterschied: rund 37.400 € - fast die Hälfte.
+Der beste Zeitpunkt anzufangen ist jetzt – nicht mit einem Tipp, sondern mit einem Plan. 💾 Speichern · 📩 Schick es jemandem, der noch wartet. Folg uns beiden für mehr Depot-Wissen.
+Beispielrechnung, kein Anlagetipp. Bildung, kein echtes Geld im Spiel.
+#depot #zinseszins #investieren #finanzbildung #etf #sparen #börse #quantcodeai
