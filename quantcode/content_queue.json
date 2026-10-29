@@ -1131,6 +1131,54 @@
       "caption": "",
       "not_before": "2026-10-28T18:15:00Z",
       "valid_until": "2026-10-28T23:00:00Z"
+    },
+    {
+      "id": "story-ticker-cat-2026-10-29",
+      "order": 101,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-10-29/cat_2026-10-29.png"
+      ],
+      "caption": "",
+      "not_before": "2026-10-29T07:30:00Z",
+      "valid_until": "2026-10-29T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-pg-2026-10-29",
+      "order": 102,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-10-29/pg_2026-10-29.png"
+      ],
+      "caption": "",
+      "not_before": "2026-10-29T07:50:00Z",
+      "valid_until": "2026-10-29T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-intc-2026-10-29",
+      "order": 103,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-10-29/intc_2026-10-29.png"
+      ],
+      "caption": "",
+      "not_before": "2026-10-29T08:10:00Z",
+      "valid_until": "2026-10-29T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-aapl-2026-10-29",
+      "order": 104,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-10-29/aapl_2026-10-29.png"
+      ],
+      "caption": "",
+      "not_before": "2026-10-29T08:30:00Z",
+      "valid_until": "2026-10-29T21:00:00Z"
     }
   ]
 }
