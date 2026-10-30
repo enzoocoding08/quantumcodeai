@@ -1250,6 +1250,17 @@
       "caption": "",
       "not_before": "2026-10-30T08:30:00Z",
       "valid_until": "2026-10-30T21:00:00Z"
+    },
+    {
+      "id": "post-gewichtung-kurssturz",
+      "order": 111,
+      "type": "image",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-10-30/post_gewichtung.png"
+      ],
+      "caption": "Eine Aktie fällt 12,6 Prozent an einem Tag. Was macht das mit deinem Depot? 📉\n\nEchter Datenpunkt: Alphabet schloss am 29.10.2026 rund 12,6 Prozent unter dem Vortag.\n\nRechenbeispiel (fiktiv), 10.000 € Depot:\n▪️ Aktie = 5 % vom Depot → ca. 63 € Verlust\n▪️ Aktie = 20 % vom Depot → ca. 252 € Verlust\n▪️ Aktie = 50 % vom Depot → ca. 630 € Verlust\n\nGleicher Kurssturz, ganz andere Wirkung. Depot-Verlust = Gewicht × Kursverlust. Keine Prognose.\n\n💾 Speichern für später\n📩 Schick es jemandem, der gern auf eine einzelne Aktie setzt\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#depot #gewichtung #risikomanagement #diversifikation #aktien #finanzbildung #börse #quantcodeai",
+      "not_before": "2026-10-31T09:45:00Z"
     }
   ]
 }
