@@ -1202,6 +1202,54 @@
       "caption": "",
       "not_before": "2026-10-29T18:20:00Z",
       "valid_until": "2026-10-29T23:00:00Z"
+    },
+    {
+      "id": "story-ticker-msft-2026-10-30",
+      "order": 107,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-10-30/msft_2026-10-30.png"
+      ],
+      "caption": "",
+      "not_before": "2026-10-30T07:30:00Z",
+      "valid_until": "2026-10-30T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-nvda-2026-10-30",
+      "order": 108,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-10-30/nvda_2026-10-30.png"
+      ],
+      "caption": "",
+      "not_before": "2026-10-30T07:50:00Z",
+      "valid_until": "2026-10-30T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-googl-2026-10-30",
+      "order": 109,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-10-30/googl_2026-10-30.png"
+      ],
+      "caption": "",
+      "not_before": "2026-10-30T08:10:00Z",
+      "valid_until": "2026-10-30T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-amzn-2026-10-30",
+      "order": 110,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-10-30/amzn_2026-10-30.png"
+      ],
+      "caption": "",
+      "not_before": "2026-10-30T08:30:00Z",
+      "valid_until": "2026-10-30T21:00:00Z"
     }
   ]
 }
