@@ -501,11 +501,14 @@
       "id": "story-quiz-verlust-loesung",
       "order": 41,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "not_before": "2026-10-31T18:20:00Z",
       "files": [
         "docs/content/queue/staged-2026-10-22/quiz_verlust_loesung.png"
-      ]
+      ],
+      "posted_at": "2026-10-31T18:14:37+00:00",
+      "media_id": "17962477020230980",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4020244153364086118"
     },
     {
       "id": "reel-wachstumszahlen",
@@ -1350,13 +1353,16 @@
       "id": "story-trading-update-2026-10-31",
       "order": 117,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-10-31/quantcode-ai-trading-update-2026-10-31.png"
       ],
       "caption": "",
       "not_before": "2026-10-31T18:15:00Z",
-      "valid_until": "2026-10-31T23:00:00Z"
+      "valid_until": "2026-10-31T23:00:00Z",
+      "posted_at": "2026-10-31T18:17:21+00:00",
+      "media_id": "17958894012258392",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4020245539833247622"
     }
   ]
 }
