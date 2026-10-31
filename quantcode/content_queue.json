@@ -475,28 +475,34 @@
       "id": "story-lexikon-bullbaer",
       "order": 39,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "not_before": "2026-10-22T12:05:00Z",
       "files": [
         "docs/content/queue/staged-2026-10-22/lexikon_bullbaer.png"
-      ]
+      ],
+      "posted_at": "2026-10-31T15:04:28+00:00",
+      "media_id": "17867419827675614",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4020148456945620730"
     },
     {
       "id": "story-quiz-verlust-frage",
       "order": 40,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "not_before": "2026-10-22T15:15:00Z",
       "files": [
         "docs/content/queue/staged-2026-10-22/quiz_verlust_frage.png"
-      ]
+      ],
+      "posted_at": "2026-10-31T15:04:38+00:00",
+      "media_id": "18116174069114102",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4020148538047471561"
     },
     {
       "id": "story-quiz-verlust-loesung",
       "order": 41,
       "type": "story",
       "status": "pending",
-      "not_before": "2026-10-22T18:20:00Z",
+      "not_before": "2026-10-31T18:20:00Z",
       "files": [
         "docs/content/queue/staged-2026-10-22/quiz_verlust_loesung.png"
       ]
@@ -516,11 +522,14 @@
       "id": "story-concept-spread",
       "order": 43,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "not_before": "2026-10-23T12:05:00Z",
       "files": [
         "docs/content/daily/2026-10-19/concept_spread_2026-10-19.png"
-      ]
+      ],
+      "posted_at": "2026-10-31T15:04:49+00:00",
+      "media_id": "18348120952284149",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4020148629508257842"
     },
     {
       "id": "story-quiz-exday-frage",
