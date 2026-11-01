@@ -612,11 +612,14 @@
       "id": "story-lexikon-liquiditaet",
       "order": 50,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "not_before": "2026-10-25T12:05:00Z",
       "files": [
         "docs/content/queue/staged-2026-10-22/lexikon_liquiditaet.png"
-      ]
+      ],
+      "posted_at": "2026-11-01T23:56:02+00:00",
+      "media_id": "17909352240594592",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4021140772213268956"
     },
     {
       "id": "story-quiz-etf-frage",
@@ -659,31 +662,40 @@
       "id": "story-lexikon-marktkapitalisierung",
       "order": 54,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "not_before": "2026-10-26T12:05:00Z",
       "files": [
         "docs/content/queue/staged-2026-10-22/lexikon_marktkapitalisierung.png"
-      ]
+      ],
+      "posted_at": "2026-11-01T23:56:14+00:00",
+      "media_id": "18481724605112948",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4021140867927233007"
     },
     {
       "id": "story-concept-homebias",
       "order": 55,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "not_before": "2026-10-26T15:15:00Z",
       "files": [
         "docs/content/daily/2026-10-21/concept_homebias_2026-10-21.png"
-      ]
+      ],
+      "posted_at": "2026-11-01T23:56:25+00:00",
+      "media_id": "18140300572722312",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4021140964027109982"
     },
     {
       "id": "story-lexikon-index",
       "order": 56,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "not_before": "2026-10-27T12:05:00Z",
       "files": [
         "docs/content/queue/staged-2026-10-22/lexikon_index.png"
-      ]
+      ],
+      "posted_at": "2026-11-01T23:56:35+00:00",
+      "media_id": "17904045255373413",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4021141055211583489"
     },
     {
       "id": "story-concept-kgv",
