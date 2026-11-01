@@ -1435,6 +1435,18 @@
       "posted_at": "2026-11-01T07:17:52+00:00",
       "media_id": "17935459605149704",
       "permalink": "https://www.instagram.com/stories/quantcode_ai/4020638380727580563"
+    },
+    {
+      "id": "story-trading-update-2026-11-01",
+      "order": 122,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-01/quantcode-ai-trading-update-2026-11-01.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-01T18:15:00Z",
+      "valid_until": "2026-11-01T23:00:00Z"
     }
   ]
 }
