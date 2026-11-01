@@ -465,7 +465,7 @@
       "order": 38,
       "type": "image",
       "status": "pending",
-      "not_before": "2026-11-06T09:45:00Z",
+      "not_before": "2026-11-05T09:45:00Z",
       "files": [
         "docs/content/daily/2026-10-19/post_budget_2026-10-19.png"
       ],
@@ -515,7 +515,7 @@
       "order": 42,
       "type": "reel",
       "status": "pending",
-      "not_before": "2026-11-08T09:45:00Z",
+      "not_before": "2026-11-07T09:45:00Z",
       "files": [
         "docs/content/daily/2026-10-19/reel_wachstum_2026-10-19.mp4"
       ],
@@ -559,7 +559,7 @@
       "order": 46,
       "type": "carousel",
       "status": "pending",
-      "not_before": "2026-11-09T09:45:00Z",
+      "not_before": "2026-11-08T09:45:00Z",
       "files": [
         "docs/content/queue/staged-2026-10-22/mythen_slide1.png",
         "docs/content/queue/staged-2026-10-22/mythen_slide2.png",
@@ -602,7 +602,7 @@
       "order": 49,
       "type": "image",
       "status": "pending",
-      "not_before": "2026-11-05T09:45:00Z",
+      "not_before": "2026-11-04T09:45:00Z",
       "files": [
         "docs/content/daily/2026-10-21/post_exdividend_2026-10-21.png"
       ],
@@ -649,7 +649,7 @@
       "order": 53,
       "type": "reel",
       "status": "pending",
-      "not_before": "2026-11-07T09:45:00Z",
+      "not_before": "2026-11-06T09:45:00Z",
       "files": [
         "docs/content/daily/2026-10-20/reel_kerzenchart_2026-10-20.mp4"
       ],
@@ -1000,7 +1000,7 @@
         "docs/content/queue/staged-2026-10-26/post_sparplan.png"
       ],
       "caption": "Warum ein Kurssturz bei einem Sparplan mehr Anteile bringt 📉➡️📈\n\nBeispiel (fiktiv): jeden Monat 100 €, Kurse 10 / 8 / 5 / 8 / 10 €. Du kaufst 65 Anteile für 500 € - im Schnitt 7,69 € pro Anteil, obwohl der Durchschnittskurs 8,20 € war. Das ist der Cost-Average-Effekt. Er schützt nicht vor Verlusten, er glättet nur den Einstieg.\n\n💾 Speichern für später\n📩 Schick es jemandem, der Angst vor Kursstürzen hat\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#sparplan #costaverage #etf #investieren #finanzbildung #börse #vermögensaufbau #quantcodeai",
-      "not_before": "2026-11-04T09:45:00Z"
+      "not_before": "2026-11-03T09:45:00Z"
     },
     {
       "id": "story-trading-update-2026-10-26",
@@ -1071,7 +1071,7 @@
         "docs/content/queue/staged-2026-10-27/post_inflation.png"
       ],
       "caption": "Dein Geld auf dem Konto verliert leise an Wert 📉\n\nBeispiel (fiktiv): 10.000 € ohne Zinsen, Inflation konstant 3 Prozent pro Jahr. Nach 5 Jahren hat das Geld nur noch die Kaufkraft von 8.626 €, nach 10 Jahren 7.441 €, nach 20 Jahren 5.537 €. Die Zahl auf dem Konto bleibt gleich, was du dafür kaufen kannst, schrumpft. Keine Prognose.\n\n💾 Speichern für später\n📩 Schick es jemandem, dessen Geld nur auf dem Konto liegt\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#inflation #kaufkraft #sparen #finanzbildung #investieren #etf #börse #quantcodeai",
-      "not_before": "2026-11-03T09:45:00Z"
+      "not_before": "2026-11-02T09:45:00Z"
     },
     {
       "id": "story-trading-update-2026-10-27",
@@ -1137,12 +1137,15 @@
       "id": "post-positionsgroesse-1prozent",
       "order": 95,
       "type": "image",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-10-28/post_positionsgroesse.png"
       ],
       "caption": "Wie viele Aktien kaufen? Nicht nach Gefühl, sondern in 3 Schritten 🧮\n\n1️⃣ Risiko pro Trade festlegen – viele Trader nehmen etwa 1 Prozent des Kontos. Bei 10.000 € sind das 100 €.\n2️⃣ Abstand zum Stop: Kauf bei 50 €, Stop bei 45 € = 5 € Risiko pro Aktie.\n3️⃣ 100 € geteilt durch 5 € = 20 Aktien (Positionswert 1.000 €).\n\nRechenbeispiel (fiktiv). Bei schnellen Kurssprüngen kann ein Stop Lücken haben, das Risiko ist dann größer.\n\n💾 Speichern für später\n📩 Schick es jemandem, der gerade mit Trading anfängt\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#positionsgröße #risikomanagement #stoploss #trading #börse #finanzbildung #aktien #quantcodeai",
-      "not_before": "2026-11-02T09:45:00Z"
+      "not_before": "2026-11-02T09:45:00Z",
+      "posted_at": "2026-11-01T23:54:25+00:00",
+      "media_id": "17939656206390790",
+      "permalink": "https://www.instagram.com/p/DfN9XecFomh/"
     },
     {
       "id": "story-trading-update-2026-10-28",
