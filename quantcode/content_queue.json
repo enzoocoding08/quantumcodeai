@@ -575,21 +575,27 @@
       "id": "story-lexikon-volatilitaet",
       "order": 47,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "not_before": "2026-10-24T12:05:00Z",
       "files": [
         "docs/content/queue/staged-2026-10-22/lexikon_volatilitaet.png"
-      ]
+      ],
+      "posted_at": "2026-11-01T15:04:55+00:00",
+      "media_id": "18117805625586110",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4020873461157420568"
     },
     {
       "id": "story-concept-ter",
       "order": 48,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "not_before": "2026-10-24T15:15:00Z",
       "files": [
         "docs/content/daily/2026-10-20/concept_ter_2026-10-20.png"
-      ]
+      ],
+      "posted_at": "2026-11-01T15:05:05+00:00",
+      "media_id": "17972296644192374",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4020873544036828502"
     },
     {
       "id": "post-exdividend",
@@ -616,18 +622,21 @@
       "id": "story-quiz-etf-frage",
       "order": 51,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "not_before": "2026-10-25T15:15:00Z",
       "files": [
         "docs/content/queue/staged-2026-10-22/quiz_etf_frage.png"
-      ]
+      ],
+      "posted_at": "2026-11-01T15:05:16+00:00",
+      "media_id": "17891429214686882",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4020873628544405353"
     },
     {
       "id": "story-quiz-etf-loesung",
       "order": 52,
       "type": "story",
       "status": "pending",
-      "not_before": "2026-10-25T18:20:00Z",
+      "not_before": "2026-11-01T18:20:00Z",
       "files": [
         "docs/content/queue/staged-2026-10-22/quiz_etf_loesung.png"
       ]
