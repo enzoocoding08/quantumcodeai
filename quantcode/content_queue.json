@@ -635,11 +635,14 @@
       "id": "story-quiz-etf-loesung",
       "order": 52,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "not_before": "2026-11-01T18:20:00Z",
       "files": [
         "docs/content/queue/staged-2026-10-22/quiz_etf_loesung.png"
-      ]
+      ],
+      "posted_at": "2026-11-01T18:14:22+00:00",
+      "media_id": "18116826818331261",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4020968798039603870"
     },
     {
       "id": "reel-kerzenchart",
@@ -1440,13 +1443,16 @@
       "id": "story-trading-update-2026-11-01",
       "order": 122,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-01/quantcode-ai-trading-update-2026-11-01.png"
       ],
       "caption": "",
       "not_before": "2026-11-01T18:15:00Z",
-      "valid_until": "2026-11-01T23:00:00Z"
+      "valid_until": "2026-11-01T23:00:00Z",
+      "posted_at": "2026-11-01T18:16:37+00:00",
+      "media_id": "18028869530871493",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4020969935098947689"
     }
   ]
 }
