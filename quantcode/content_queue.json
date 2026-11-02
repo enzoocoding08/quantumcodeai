@@ -1468,6 +1468,54 @@
       "posted_at": "2026-11-01T18:16:37+00:00",
       "media_id": "18028869530871493",
       "permalink": "https://www.instagram.com/stories/quantcode_ai/4020969935098947689"
+    },
+    {
+      "id": "story-ticker-unh-2026-11-02",
+      "order": 123,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-02/unh_2026-11-02.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-02T07:20:00Z",
+      "valid_until": "2026-11-02T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-jpm-2026-11-02",
+      "order": 124,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-02/jpm_2026-11-02.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-02T07:20:00Z",
+      "valid_until": "2026-11-02T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-v-2026-11-02",
+      "order": 125,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-02/v_2026-11-02.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-02T07:20:00Z",
+      "valid_until": "2026-11-02T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-ma-2026-11-02",
+      "order": 126,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-02/ma_2026-11-02.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-02T07:20:00Z",
+      "valid_until": "2026-11-02T21:00:00Z"
     }
   ]
 }
