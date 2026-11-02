@@ -1473,37 +1473,46 @@
       "id": "story-ticker-unh-2026-11-02",
       "order": 123,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-02/unh_2026-11-02.png"
       ],
       "caption": "",
       "not_before": "2026-11-02T07:20:00Z",
-      "valid_until": "2026-11-02T21:00:00Z"
+      "valid_until": "2026-11-02T21:00:00Z",
+      "posted_at": "2026-11-02T07:18:51+00:00",
+      "media_id": "17912003766561814",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4021363647058134878"
     },
     {
       "id": "story-ticker-jpm-2026-11-02",
       "order": 124,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-02/jpm_2026-11-02.png"
       ],
       "caption": "",
       "not_before": "2026-11-02T07:20:00Z",
-      "valid_until": "2026-11-02T21:00:00Z"
+      "valid_until": "2026-11-02T21:00:00Z",
+      "posted_at": "2026-11-02T07:19:06+00:00",
+      "media_id": "18016928654991898",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4021363734912297935"
     },
     {
       "id": "story-ticker-v-2026-11-02",
       "order": 125,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-02/v_2026-11-02.png"
       ],
       "caption": "",
       "not_before": "2026-11-02T07:20:00Z",
-      "valid_until": "2026-11-02T21:00:00Z"
+      "valid_until": "2026-11-02T21:00:00Z",
+      "posted_at": "2026-11-02T07:19:16+00:00",
+      "media_id": "18647145688054252",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4021363870120338556"
     },
     {
       "id": "story-ticker-ma-2026-11-02",
@@ -1515,7 +1524,9 @@
       ],
       "caption": "",
       "not_before": "2026-11-02T07:20:00Z",
-      "valid_until": "2026-11-02T21:00:00Z"
+      "valid_until": "2026-11-02T21:00:00Z",
+      "attempts": 1,
+      "last_error": "Graph API Fehler bei 17841433858667446/media_publish: {'message': 'The requested resource does not exist', 'type': 'OAuthException', 'code': 24, 'error_subcode': 2207006, 'is_transient': False, 'error_user_title': 'Media Not Found', 'error_user_msg': 'The media with 18,111,754,901,128,623 cannot be "
     }
   ]
 }
