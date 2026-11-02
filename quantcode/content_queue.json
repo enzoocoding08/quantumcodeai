@@ -1548,6 +1548,18 @@
       "posted_at": "2026-11-02T22:52:49+00:00",
       "media_id": "18342273094272739",
       "permalink": "https://www.instagram.com/stories/quantcode_ai/4021833716599429871"
+    },
+    {
+      "id": "reel-alphabet-absturz",
+      "order": 128,
+      "type": "reel",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-02/reel-alphabet-absturz.mp4"
+      ],
+      "caption": "Alphabet: minus 12,6 Prozent an EINEM Tag 📉\n\nMittwoch 324,89 $ → Donnerstag 283,82 $. Rund 140 Mio. Aktien gehandelt, mehr als das Fünffache eines normalen Tages. Auch Amazon fiel am selben Tag um 4,2 Prozent. (Schlusskurse laut Alpha Vantage; den Grund prüfen wir hier nicht.)\n\nDie unbequeme Rechnung: Um minus 12,6 Prozent auszugleichen, braucht eine Aktie plus 14,5 Prozent.\n\n💾 Speichern für später\n📩 Schick es jemandem, der gern eine einzelne Aktie hält\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#alphabet #google #börse #aktien #wallstreet #nasdaq #finanzbildung #investieren #quantcodeai",
+      "not_before": "2026-11-03T12:05:00Z",
+      "valid_until": "2026-11-05T21:00:00Z"
     }
   ]
 }
