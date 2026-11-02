@@ -1518,7 +1518,7 @@
       "id": "story-ticker-ma-2026-11-02",
       "order": 126,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-02/ma_2026-11-02.png"
       ],
@@ -1526,7 +1526,10 @@
       "not_before": "2026-11-02T07:20:00Z",
       "valid_until": "2026-11-02T21:00:00Z",
       "attempts": 1,
-      "last_error": "Graph API Fehler bei 17841433858667446/media_publish: {'message': 'The requested resource does not exist', 'type': 'OAuthException', 'code': 24, 'error_subcode': 2207006, 'is_transient': False, 'error_user_title': 'Media Not Found', 'error_user_msg': 'The media with 18,111,754,901,128,623 cannot be "
+      "last_error": "Graph API Fehler bei 17841433858667446/media_publish: {'message': 'The requested resource does not exist', 'type': 'OAuthException', 'code': 24, 'error_subcode': 2207006, 'is_transient': False, 'error_user_title': 'Media Not Found', 'error_user_msg': 'The media with 18,111,754,901,128,623 cannot be ",
+      "posted_at": "2026-11-02T07:20:13+00:00",
+      "media_id": "18033870083913135",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4021364343748769469"
     }
   ]
 }
