@@ -701,21 +701,27 @@
       "id": "story-concept-kgv",
       "order": 57,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "not_before": "2026-10-27T15:15:00Z",
       "files": [
         "docs/content/daily/2026-10-18/concept_kgv_2026-10-18.png"
-      ]
+      ],
+      "posted_at": "2026-11-03T15:05:36+00:00",
+      "media_id": "18020014013949614",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4022323359270601893"
     },
     {
       "id": "story-lexikon-korrelation",
       "order": 58,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "not_before": "2026-10-28T12:05:00Z",
       "files": [
         "docs/content/queue/staged-2026-10-22/lexikon_korrelation.png"
-      ]
+      ],
+      "posted_at": "2026-11-03T15:05:46+00:00",
+      "media_id": "18079186376754092",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4022323442233911213"
     },
     {
       "id": "story-lexikon-kursziel",
@@ -1556,13 +1562,16 @@
       "id": "reel-alphabet-absturz",
       "order": 128,
       "type": "reel",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-02/reel-alphabet-absturz.mp4"
       ],
       "caption": "Alphabet: minus 12,6 Prozent an EINEM Tag 📉\n\nMittwoch 324,89 $ → Donnerstag 283,82 $. Rund 140 Mio. Aktien gehandelt, mehr als das Fünffache eines normalen Tages. Auch Amazon fiel am selben Tag um 4,2 Prozent. (Schlusskurse laut Alpha Vantage; den Grund prüfen wir hier nicht.)\n\nDie unbequeme Rechnung: Um minus 12,6 Prozent auszugleichen, braucht eine Aktie plus 14,5 Prozent.\n\n💾 Speichern für später\n📩 Schick es jemandem, der gern eine einzelne Aktie hält\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#alphabet #google #börse #aktien #wallstreet #nasdaq #finanzbildung #investieren #quantcodeai",
       "not_before": "2026-11-03T12:05:00Z",
-      "valid_until": "2026-11-05T21:00:00Z"
+      "valid_until": "2026-11-05T21:00:00Z",
+      "posted_at": "2026-11-03T15:06:57+00:00",
+      "media_id": "18287073550289509",
+      "permalink": "https://www.instagram.com/reel/DfSKg5Dj1ec/"
     },
     {
       "id": "story-ticker-wmt-2026-11-03",
