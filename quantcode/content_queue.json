@@ -1560,6 +1560,54 @@
       "caption": "Alphabet: minus 12,6 Prozent an EINEM Tag 📉\n\nMittwoch 324,89 $ → Donnerstag 283,82 $. Rund 140 Mio. Aktien gehandelt, mehr als das Fünffache eines normalen Tages. Auch Amazon fiel am selben Tag um 4,2 Prozent. (Schlusskurse laut Alpha Vantage; den Grund prüfen wir hier nicht.)\n\nDie unbequeme Rechnung: Um minus 12,6 Prozent auszugleichen, braucht eine Aktie plus 14,5 Prozent.\n\n💾 Speichern für später\n📩 Schick es jemandem, der gern eine einzelne Aktie hält\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#alphabet #google #börse #aktien #wallstreet #nasdaq #finanzbildung #investieren #quantcodeai",
       "not_before": "2026-11-03T12:05:00Z",
       "valid_until": "2026-11-05T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-wmt-2026-11-03",
+      "order": 129,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-03/wmt_2026-11-03.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-03T07:20:00Z",
+      "valid_until": "2026-11-03T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-hd-2026-11-03",
+      "order": 130,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-03/hd_2026-11-03.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-03T07:20:00Z",
+      "valid_until": "2026-11-03T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-mcd-2026-11-03",
+      "order": 131,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-03/mcd_2026-11-03.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-03T07:20:00Z",
+      "valid_until": "2026-11-03T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-nke-2026-11-03",
+      "order": 132,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-03/nke_2026-11-03.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-03T07:20:00Z",
+      "valid_until": "2026-11-03T21:00:00Z"
     }
   ]
 }
