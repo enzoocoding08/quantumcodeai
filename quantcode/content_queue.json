@@ -538,11 +538,14 @@
       "id": "story-quiz-exday-frage",
       "order": 44,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "not_before": "2026-10-23T15:15:00Z",
       "files": [
         "docs/content/queue/staged-2026-10-22/quiz_exday_frage.png"
-      ]
+      ],
+      "posted_at": "2026-11-04T15:07:21+00:00",
+      "media_id": "18075644162602091",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4023049010504178142"
     },
     {
       "id": "story-quiz-exday-loesung",
@@ -734,7 +737,9 @@
       "not_before": "2026-10-28T15:15:00Z",
       "files": [
         "docs/content/queue/staged-2026-10-22/lexikon_kursziel.png"
-      ]
+      ],
+      "attempts": 1,
+      "last_error": "Graph API Fehler bei 17841433858667446/media_publish: {'message': 'The requested resource does not exist', 'type': 'OAuthException', 'code': 24, 'error_subcode': 2207006, 'is_transient': False, 'error_user_title': 'Media Not Found', 'error_user_msg': 'The media with 18,112,244,846,128,623 cannot be "
     },
     {
       "id": "story-ticker-intc-2026-10-22",
