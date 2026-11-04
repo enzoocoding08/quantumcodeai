@@ -1858,6 +1858,18 @@
       ],
       "caption": "",
       "not_before": "2026-11-09T18:20:00Z"
+    },
+    {
+      "id": "story-trading-update-2026-11-04",
+      "order": 146,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-04/quantcode-ai-trading-update-2026-11-04.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-04T18:15:00Z",
+      "valid_until": "2026-11-04T23:30:00Z"
     }
   ]
 }
