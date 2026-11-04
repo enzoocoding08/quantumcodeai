@@ -551,11 +551,14 @@
       "id": "story-quiz-exday-loesung",
       "order": 45,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "not_before": "2026-11-04T18:20:00Z",
       "files": [
         "docs/content/queue/staged-2026-10-22/quiz_exday_loesung.png"
-      ]
+      ],
+      "posted_at": "2026-11-04T18:14:41+00:00",
+      "media_id": "18219443815353145",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4023143301369285412"
     },
     {
       "id": "carousel-boersenmythen",
@@ -1863,13 +1866,16 @@
       "id": "story-trading-update-2026-11-04",
       "order": 146,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-04/quantcode-ai-trading-update-2026-11-04.png"
       ],
       "caption": "",
       "not_before": "2026-11-04T18:15:00Z",
-      "valid_until": "2026-11-04T23:30:00Z"
+      "valid_until": "2026-11-04T23:30:00Z",
+      "posted_at": "2026-11-04T18:18:18+00:00",
+      "media_id": "18485179738118699",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4023145111069138040"
     }
   ]
 }
