@@ -748,277 +748,300 @@
       "id": "story-ticker-intc-2026-10-22",
       "order": 60,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-22/intc_2026-10-22.png"
       ],
       "caption": "",
       "not_before": "2026-10-22T07:30:00:00Z",
-      "valid_until": "2026-10-22T21:00:00Z"
+      "valid_until": "2026-10-22T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-ticker-aapl-2026-10-22",
       "order": 61,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-22/aapl_2026-10-22.png"
       ],
       "caption": "",
       "not_before": "2026-10-22T07:50:00:00Z",
-      "valid_until": "2026-10-22T21:00:00Z"
+      "valid_until": "2026-10-22T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-ticker-msft-2026-10-22",
       "order": 62,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-22/msft_2026-10-22.png"
       ],
       "caption": "",
       "not_before": "2026-10-22T08:10:00:00Z",
-      "valid_until": "2026-10-22T21:00:00Z"
+      "valid_until": "2026-10-22T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-ticker-nvda-2026-10-22",
       "order": 63,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-22/nvda_2026-10-22.png"
       ],
       "caption": "",
       "not_before": "2026-10-22T08:30:00:00Z",
-      "valid_until": "2026-10-22T21:00:00Z"
+      "valid_until": "2026-10-22T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-trading-update-2026-10-22",
       "order": 64,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-22/quantcode-ai-trading-update-2026-10-22.png"
       ],
       "caption": "",
       "not_before": "2026-10-22T18:15:00Z",
-      "valid_until": "2026-10-22T23:00:00Z"
+      "valid_until": "2026-10-22T23:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-trade-alert-basket-2026-10-22",
       "order": 65,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-22/trade_alert_basket_2026-10-22.png"
       ],
       "caption": "",
       "not_before": "2026-10-22T20:20:00Z",
-      "valid_until": "2026-10-23T12:00:00Z"
+      "valid_until": "2026-10-23T12:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-ticker-googl-2026-10-23",
       "order": 66,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-23/googl_2026-10-23.png"
       ],
       "caption": "",
       "not_before": "2026-10-23T07:50:00:00Z",
-      "valid_until": "2026-10-23T21:00:00Z"
+      "valid_until": "2026-10-23T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-ticker-amzn-2026-10-23",
       "order": 67,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-23/amzn_2026-10-23.png"
       ],
       "caption": "",
       "not_before": "2026-10-23T08:10:00:00Z",
-      "valid_until": "2026-10-23T21:00:00Z"
+      "valid_until": "2026-10-23T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-trading-update-2026-10-23",
       "order": 68,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-23/quantcode-ai-trading-update-2026-10-23.png"
       ],
       "caption": "",
       "not_before": "2026-10-23T18:15:00Z",
-      "valid_until": "2026-10-23T23:00:00Z"
+      "valid_until": "2026-10-23T23:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-ticker-meta-2026-10-24",
       "order": 69,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-24/meta_2026-10-24.png"
       ],
       "caption": "",
       "not_before": "2026-10-24T07:30:00:00Z",
-      "valid_until": "2026-10-24T21:00:00Z"
+      "valid_until": "2026-10-24T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-ticker-tsla-2026-10-24",
       "order": 70,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-24/tsla_2026-10-24.png"
       ],
       "caption": "",
       "not_before": "2026-10-24T07:50:00:00Z",
-      "valid_until": "2026-10-24T21:00:00Z"
+      "valid_until": "2026-10-24T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-ticker-adbe-2026-10-24",
       "order": 71,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-24/adbe_2026-10-24.png"
       ],
       "caption": "",
       "not_before": "2026-10-24T08:10:00:00Z",
-      "valid_until": "2026-10-24T21:00:00Z"
+      "valid_until": "2026-10-24T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-ticker-nflx-2026-10-24",
       "order": 72,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-24/nflx_2026-10-24.png"
       ],
       "caption": "",
       "not_before": "2026-10-24T08:30:00:00Z",
-      "valid_until": "2026-10-24T21:00:00Z"
+      "valid_until": "2026-10-24T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-trading-update-2026-10-24",
       "order": 73,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-24/quantcode-ai-trading-update-2026-10-24.png"
       ],
       "caption": "",
       "not_before": "2026-10-24T18:15:00Z",
-      "valid_until": "2026-10-24T23:00:00Z"
+      "valid_until": "2026-10-24T23:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-ticker-dis-2026-10-25",
       "order": 74,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-25/dis_2026-10-25.png"
       ],
       "caption": "",
       "not_before": "2026-10-25T07:30:00:00Z",
-      "valid_until": "2026-10-25T21:00:00Z"
+      "valid_until": "2026-10-25T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-ticker-crm-2026-10-25",
       "order": 75,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-25/crm_2026-10-25.png"
       ],
       "caption": "",
       "not_before": "2026-10-25T07:50:00:00Z",
-      "valid_until": "2026-10-25T21:00:00Z"
+      "valid_until": "2026-10-25T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-ticker-lly-2026-10-25",
       "order": 76,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-25/lly_2026-10-25.png"
       ],
       "caption": "",
       "not_before": "2026-10-25T08:10:00:00Z",
-      "valid_until": "2026-10-25T21:00:00Z"
+      "valid_until": "2026-10-25T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-ticker-jnj-2026-10-25",
       "order": 77,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-25/jnj_2026-10-25.png"
       ],
       "caption": "",
       "not_before": "2026-10-25T08:30:00:00Z",
-      "valid_until": "2026-10-25T21:00:00Z"
+      "valid_until": "2026-10-25T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-trading-update-2026-10-25",
       "order": 78,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-25/quantcode-ai-trading-update-2026-10-25.png"
       ],
       "caption": "",
       "not_before": "2026-10-25T18:15:00Z",
-      "valid_until": "2026-10-25T23:00:00Z"
+      "valid_until": "2026-10-25T23:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-ticker-unh-2026-10-26",
       "order": 79,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-26/unh_2026-10-26.png"
       ],
       "caption": "",
       "not_before": "2026-10-26T07:30:00:00Z",
-      "valid_until": "2026-10-26T21:00:00Z"
+      "valid_until": "2026-10-26T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-ticker-jpm-2026-10-26",
       "order": 80,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-26/jpm_2026-10-26.png"
       ],
       "caption": "",
       "not_before": "2026-10-26T07:50:00:00Z",
-      "valid_until": "2026-10-26T21:00:00Z"
+      "valid_until": "2026-10-26T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-ticker-v-2026-10-26",
       "order": 81,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-26/v_2026-10-26.png"
       ],
       "caption": "",
       "not_before": "2026-10-26T08:10:00:00Z",
-      "valid_until": "2026-10-26T21:00:00Z"
+      "valid_until": "2026-10-26T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-ticker-ma-2026-10-26",
       "order": 82,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-26/ma_2026-10-26.png"
       ],
       "caption": "",
       "not_before": "2026-10-26T08:30:00:00Z",
-      "valid_until": "2026-10-26T21:00:00Z"
+      "valid_until": "2026-10-26T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "post-sparplan-costaverage",
@@ -1038,61 +1061,66 @@
       "id": "story-trading-update-2026-10-26",
       "order": 84,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-26/quantcode-ai-trading-update-2026-10-26.png"
       ],
       "caption": "",
       "not_before": "2026-10-26T18:15:00Z",
-      "valid_until": "2026-10-26T23:00:00Z"
+      "valid_until": "2026-10-26T23:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-ticker-wmt-2026-10-27",
       "order": 85,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-27/wmt_2026-10-27.png"
       ],
       "caption": "",
       "not_before": "2026-10-27T07:30:00:00Z",
-      "valid_until": "2026-10-27T21:00:00Z"
+      "valid_until": "2026-10-27T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-ticker-hd-2026-10-27",
       "order": 86,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-27/hd_2026-10-27.png"
       ],
       "caption": "",
       "not_before": "2026-10-27T07:50:00:00Z",
-      "valid_until": "2026-10-27T21:00:00Z"
+      "valid_until": "2026-10-27T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-ticker-mcd-2026-10-27",
       "order": 87,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-27/mcd_2026-10-27.png"
       ],
       "caption": "",
       "not_before": "2026-10-27T08:10:00:00Z",
-      "valid_until": "2026-10-27T21:00:00Z"
+      "valid_until": "2026-10-27T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-ticker-nke-2026-10-27",
       "order": 88,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-27/nke_2026-10-27.png"
       ],
       "caption": "",
       "not_before": "2026-10-27T08:30:00:00Z",
-      "valid_until": "2026-10-27T21:00:00Z"
+      "valid_until": "2026-10-27T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "post-inflation-kaufkraft",
@@ -1112,61 +1140,66 @@
       "id": "story-trading-update-2026-10-27",
       "order": 90,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-27/quantcode-ai-trading-update-2026-10-27.png"
       ],
       "caption": "",
       "not_before": "2026-10-27T18:15:00Z",
-      "valid_until": "2026-10-27T23:00:00Z"
+      "valid_until": "2026-10-27T23:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-ticker-sbux-2026-10-28",
       "order": 91,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-28/sbux_2026-10-28.png"
       ],
       "caption": "",
       "not_before": "2026-10-28T07:30:00:00Z",
-      "valid_until": "2026-10-28T21:00:00Z"
+      "valid_until": "2026-10-28T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-ticker-xom-2026-10-28",
       "order": 92,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-28/xom_2026-10-28.png"
       ],
       "caption": "",
       "not_before": "2026-10-28T07:50:00:00Z",
-      "valid_until": "2026-10-28T21:00:00Z"
+      "valid_until": "2026-10-28T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-ticker-cvx-2026-10-28",
       "order": 93,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-28/cvx_2026-10-28.png"
       ],
       "caption": "",
       "not_before": "2026-10-28T08:10:00:00Z",
-      "valid_until": "2026-10-28T21:00:00Z"
+      "valid_until": "2026-10-28T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-ticker-ba-2026-10-28",
       "order": 94,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-28/ba_2026-10-28.png"
       ],
       "caption": "",
       "not_before": "2026-10-28T08:30:00:00Z",
-      "valid_until": "2026-10-28T21:00:00Z"
+      "valid_until": "2026-10-28T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "post-positionsgroesse-1prozent",
@@ -1186,61 +1219,66 @@
       "id": "story-trading-update-2026-10-28",
       "order": 96,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-28/quantcode-ai-trading-update-2026-10-28.png"
       ],
       "caption": "",
       "not_before": "2026-10-28T18:15:00Z",
-      "valid_until": "2026-10-28T23:00:00Z"
+      "valid_until": "2026-10-28T23:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-ticker-cat-2026-10-29",
       "order": 101,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-29/cat_2026-10-29.png"
       ],
       "caption": "",
       "not_before": "2026-10-29T07:30:00Z",
-      "valid_until": "2026-10-29T21:00:00Z"
+      "valid_until": "2026-10-29T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-ticker-pg-2026-10-29",
       "order": 102,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-29/pg_2026-10-29.png"
       ],
       "caption": "",
       "not_before": "2026-10-29T07:50:00Z",
-      "valid_until": "2026-10-29T21:00:00Z"
+      "valid_until": "2026-10-29T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-ticker-intc-2026-10-29",
       "order": 103,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-29/intc_2026-10-29.png"
       ],
       "caption": "",
       "not_before": "2026-10-29T08:10:00Z",
-      "valid_until": "2026-10-29T21:00:00Z"
+      "valid_until": "2026-10-29T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-ticker-aapl-2026-10-29",
       "order": 104,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-29/aapl_2026-10-29.png"
       ],
       "caption": "",
       "not_before": "2026-10-29T08:30:00Z",
-      "valid_until": "2026-10-29T21:00:00Z"
+      "valid_until": "2026-10-29T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "post-notgroschen",
@@ -1260,61 +1298,66 @@
       "id": "story-trading-update-2026-10-29",
       "order": 106,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-29/quantcode-ai-trading-update-2026-10-29.png"
       ],
       "caption": "",
       "not_before": "2026-10-29T18:20:00Z",
-      "valid_until": "2026-10-29T23:00:00Z"
+      "valid_until": "2026-10-29T23:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-ticker-msft-2026-10-30",
       "order": 107,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-30/msft_2026-10-30.png"
       ],
       "caption": "",
       "not_before": "2026-10-30T07:30:00Z",
-      "valid_until": "2026-10-30T21:00:00Z"
+      "valid_until": "2026-10-30T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-ticker-nvda-2026-10-30",
       "order": 108,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-30/nvda_2026-10-30.png"
       ],
       "caption": "",
       "not_before": "2026-10-30T07:50:00Z",
-      "valid_until": "2026-10-30T21:00:00Z"
+      "valid_until": "2026-10-30T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-ticker-googl-2026-10-30",
       "order": 109,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-30/googl_2026-10-30.png"
       ],
       "caption": "",
       "not_before": "2026-10-30T08:10:00Z",
-      "valid_until": "2026-10-30T21:00:00Z"
+      "valid_until": "2026-10-30T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-ticker-amzn-2026-10-30",
       "order": 110,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-30/amzn_2026-10-30.png"
       ],
       "caption": "",
       "not_before": "2026-10-30T08:30:00Z",
-      "valid_until": "2026-10-30T21:00:00Z"
+      "valid_until": "2026-10-30T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "post-gewichtung-kurssturz",
@@ -1334,13 +1377,14 @@
       "id": "story-trading-update-2026-10-30",
       "order": 112,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-10-30/quantcode-ai-trading-update-2026-10-30.png"
       ],
       "caption": "",
       "not_before": "2026-10-30T18:20:00Z",
-      "valid_until": "2026-10-30T23:00:00Z"
+      "valid_until": "2026-10-30T23:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-ticker-meta-2026-10-31",
