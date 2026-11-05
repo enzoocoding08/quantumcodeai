@@ -1803,12 +1803,15 @@
       "id": "story-lexikon-rebalancing",
       "order": 140,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-04/lexikon_rebalancing.png"
       ],
       "caption": "",
-      "not_before": "2026-11-05T12:05:00Z"
+      "not_before": "2026-11-05T12:05:00Z",
+      "posted_at": "2026-11-05T14:48:12+00:00",
+      "media_id": "18641415136042062",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4023764153001578192"
     },
     {
       "id": "story-lexikon-dividendenrendite",
@@ -1884,13 +1887,16 @@
       "id": "reel-korrektur-baerenmarkt",
       "order": 147,
       "type": "reel",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-05/reel-korrektur-baerenmarkt.mp4"
       ],
       "caption": "Korrektur oder Bärenmarkt? Wo ist die Grenze? 📉\n\nFaustregel: Ab 10 Prozent unter dem letzten Hoch spricht man von einer Korrektur, ab 20 Prozent von einem Bärenmarkt. Das ist eine Konvention, kein Gesetz.\n\nEchte Schlusskurse: Meta schloss am 30.10. rund 21 Prozent unter dem Septemberhoch (614,99 $ statt 777,59 $). Alphabet am 29.10. rund 25 Prozent unter dem Augusthoch (283,82 $ statt 377,65 $). Schlagzeilen sprachen beim Nasdaq zu der Zeit von einer Korrektur. (Quelle der Kurse: Alpha Vantage)\n\nEinzelwerte können deutlich tiefer fallen als der Index. Darum zählt Streuung.\n\n💾 Speichern für später\n📩 Schick es jemandem, der gerade in Einzelaktien investiert\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#börse #bärenmarkt #korrektur #aktien #nasdaq #diversifikation #finanzbildung #quantcodeai",
       "not_before": "2026-11-05T12:05:00Z",
-      "valid_until": "2026-11-08T21:00:00Z"
+      "valid_until": "2026-11-08T21:00:00Z",
+      "posted_at": "2026-11-05T14:50:12+00:00",
+      "media_id": "17910359838664808",
+      "permalink": "https://www.instagram.com/reel/DfXSLqygSr0/"
     },
     {
       "id": "story-ticker-cat-2026-11-05",
@@ -1956,13 +1962,16 @@
       "id": "reel-verlust-mathe",
       "order": 152,
       "type": "reel",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-05/reel-verlust-mathe.mp4"
       ],
       "caption": "Warum 50 Prozent Verlust 100 Prozent Gewinn brauchen 📉➡️📈\n\nVerlust und Gewinn sind nicht symmetrisch:\n• minus 10 Prozent → du brauchst plus 11\n• minus 20 Prozent → plus 25\n• minus 33 Prozent → plus 50\n• minus 50 Prozent → plus 100\n• minus 70 Prozent → plus 233\n• minus 90 Prozent → plus 900\n\nFormel: Gewinn = Verlust ÷ (100 − Verlust).\n\nDarum zählen Verlustbegrenzung, Stopp-Marken und Streuung: Wer große Verluste vermeidet, muss keine Wunder aufholen.\n\n💾 Speichern für später\n📩 Schick es jemandem, der \"das hole ich schon wieder auf\" sagt\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#börse #verlust #risikomanagement #aktien #finanzbildung #investieren #quantcodeai",
       "not_before": "2026-11-09T09:45:00Z",
-      "valid_until": "2026-11-12T21:00:00Z"
+      "valid_until": "2026-11-12T21:00:00Z",
+      "posted_at": "2026-11-05T14:51:09+00:00",
+      "media_id": "18099262412399466",
+      "permalink": "https://www.instagram.com/reel/DfXSS7riQoG/"
     }
   ]
 }
