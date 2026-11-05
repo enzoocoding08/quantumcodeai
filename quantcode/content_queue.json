@@ -1951,6 +1951,18 @@
       "posted_at": "2026-11-05T07:18:58+00:00",
       "media_id": "18120759154993596",
       "permalink": "https://www.instagram.com/stories/quantcode_ai/4023538051796304154"
+    },
+    {
+      "id": "reel-verlust-mathe",
+      "order": 152,
+      "type": "reel",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-05/reel-verlust-mathe.mp4"
+      ],
+      "caption": "Warum 50 Prozent Verlust 100 Prozent Gewinn brauchen 📉➡️📈\n\nVerlust und Gewinn sind nicht symmetrisch:\n• minus 10 Prozent → du brauchst plus 11\n• minus 20 Prozent → plus 25\n• minus 33 Prozent → plus 50\n• minus 50 Prozent → plus 100\n• minus 70 Prozent → plus 233\n• minus 90 Prozent → plus 900\n\nFormel: Gewinn = Verlust ÷ (100 − Verlust).\n\nDarum zählen Verlustbegrenzung, Stopp-Marken und Streuung: Wer große Verluste vermeidet, muss keine Wunder aufholen.\n\n💾 Speichern für später\n📩 Schick es jemandem, der \"das hole ich schon wieder auf\" sagt\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#börse #verlust #risikomanagement #aktien #finanzbildung #investieren #quantcodeai",
+      "not_before": "2026-11-09T09:45:00Z",
+      "valid_until": "2026-11-12T21:00:00Z"
     }
   ]
 }
