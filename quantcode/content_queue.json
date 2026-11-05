@@ -2053,6 +2053,18 @@
       "posted_at": "2026-11-05T18:17:29+00:00",
       "media_id": "18101803829420001",
       "permalink": "https://www.instagram.com/stories/quantcode_ai/4023869464081211550"
+    },
+    {
+      "id": "reel-nvidia-ausverkauf",
+      "order": 160,
+      "type": "reel",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-05/reel-nvidia-ausverkauf.mp4"
+      ],
+      "caption": "Chip-Ausverkauf: Wie tief ist NVIDIA gefallen? 📉\n\nEchte Schlusskurse (Quelle: Alpha Vantage):\n• 4. November: 200,13 $\n• 5. November: 182,30 $ → rund minus 8,9 Prozent an einem Tag\n• Schlusskurs vom 6. Oktober: 239,24 $ → seitdem rund minus 24 Prozent\n• Handelsvolumen am 5.11. beim ca. 2,5-fachen des 20-Tage-Durchschnitts\n\nSchlagzeilen sprechen von Sorgen um die KI-Branche. Die genauen Gründe sind Spekulation. Sicher ist: Auch Marktführer können in wenigen Tagen stark fallen. Wer nur auf eine Branche setzt, trägt das Risiko voll. Streuung hilft.\n\n💾 Speichern für später\n📩 Schick es jemandem, der viel Tech im Depot hat\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#nvidia #börse #aktien #chips #ki #finanzbildung #diversifikation #quantcodeai",
+      "not_before": "2026-11-05T12:05:00Z",
+      "valid_until": "2026-11-08T21:00:00Z"
     }
   ]
 }
