@@ -1891,6 +1891,54 @@
       "caption": "Korrektur oder Bärenmarkt? Wo ist die Grenze? 📉\n\nFaustregel: Ab 10 Prozent unter dem letzten Hoch spricht man von einer Korrektur, ab 20 Prozent von einem Bärenmarkt. Das ist eine Konvention, kein Gesetz.\n\nEchte Schlusskurse: Meta schloss am 30.10. rund 21 Prozent unter dem Septemberhoch (614,99 $ statt 777,59 $). Alphabet am 29.10. rund 25 Prozent unter dem Augusthoch (283,82 $ statt 377,65 $). Schlagzeilen sprachen beim Nasdaq zu der Zeit von einer Korrektur. (Quelle der Kurse: Alpha Vantage)\n\nEinzelwerte können deutlich tiefer fallen als der Index. Darum zählt Streuung.\n\n💾 Speichern für später\n📩 Schick es jemandem, der gerade in Einzelaktien investiert\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#börse #bärenmarkt #korrektur #aktien #nasdaq #diversifikation #finanzbildung #quantcodeai",
       "not_before": "2026-11-05T12:05:00Z",
       "valid_until": "2026-11-08T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-cat-2026-11-05",
+      "order": 148,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-05/cat_2026-11-05.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-05T07:20:00Z",
+      "valid_until": "2026-11-05T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-pg-2026-11-05",
+      "order": 149,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-05/pg_2026-11-05.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-05T07:20:00Z",
+      "valid_until": "2026-11-05T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-intc-2026-11-05",
+      "order": 150,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-05/intc_2026-11-05.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-05T07:20:00Z",
+      "valid_until": "2026-11-05T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-aapl-2026-11-05",
+      "order": 151,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-05/aapl_2026-11-05.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-05T07:20:00Z",
+      "valid_until": "2026-11-05T21:00:00Z"
     }
   ]
 }
