@@ -1879,6 +1879,18 @@
       "posted_at": "2026-11-04T18:18:18+00:00",
       "media_id": "18485179738118699",
       "permalink": "https://www.instagram.com/stories/quantcode_ai/4023145111069138040"
+    },
+    {
+      "id": "reel-korrektur-baerenmarkt",
+      "order": 147,
+      "type": "reel",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-05/reel-korrektur-baerenmarkt.mp4"
+      ],
+      "caption": "Korrektur oder Bärenmarkt? Wo ist die Grenze? 📉\n\nFaustregel: Ab 10 Prozent unter dem letzten Hoch spricht man von einer Korrektur, ab 20 Prozent von einem Bärenmarkt. Das ist eine Konvention, kein Gesetz.\n\nEchte Schlusskurse: Meta schloss am 30.10. rund 21 Prozent unter dem Septemberhoch (614,99 $ statt 777,59 $). Alphabet am 29.10. rund 25 Prozent unter dem Augusthoch (283,82 $ statt 377,65 $). Schlagzeilen sprachen beim Nasdaq zu der Zeit von einer Korrektur. (Quelle der Kurse: Alpha Vantage)\n\nEinzelwerte können deutlich tiefer fallen als der Index. Darum zählt Streuung.\n\n💾 Speichern für später\n📩 Schick es jemandem, der gerade in Einzelaktien investiert\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#börse #bärenmarkt #korrektur #aktien #nasdaq #diversifikation #finanzbildung #quantcodeai",
+      "not_before": "2026-11-05T12:05:00Z",
+      "valid_until": "2026-11-08T21:00:00Z"
     }
   ]
 }
