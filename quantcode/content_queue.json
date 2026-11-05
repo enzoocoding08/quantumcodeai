@@ -1972,6 +1972,72 @@
       "posted_at": "2026-11-05T14:51:09+00:00",
       "media_id": "18099262412399466",
       "permalink": "https://www.instagram.com/reel/DfXSS7riQoG/"
+    },
+    {
+      "id": "post-anfaengerfehler",
+      "order": 153,
+      "type": "image",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-05/post_anfaengerfehler.png"
+      ],
+      "caption": "5 Fehler, die fast jeder Anfänger an der Börse macht 🚫\n\n1️⃣ Alles auf eine Aktie\n2️⃣ Ohne Plan kaufen\n3️⃣ Aus Panik verkaufen\n4️⃣ Dem Hype hinterherlaufen\n5️⃣ Kosten ignorieren\n\nWelchen Fehler hast du schon mal gemacht? Ehrlich in die Kommentare 👇\n\n💾 Speichern für später\n📩 Schick es jemandem, der gerade anfängt\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#börse #anfänger #aktien #finanzbildung #investieren #fehler #quantcodeai",
+      "not_before": "2026-11-09T09:45:00Z"
+    },
+    {
+      "id": "story-lexikon-beta",
+      "order": 154,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-05/lexikon_beta.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-09T12:05:00Z"
+    },
+    {
+      "id": "story-lexikon-gap",
+      "order": 155,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-05/lexikon_gap.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-10T12:05:00Z"
+    },
+    {
+      "id": "story-quiz-minus20-frage",
+      "order": 156,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-05/quiz_minus20_frage.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-10T15:15:00Z"
+    },
+    {
+      "id": "story-quiz-minus20-loesung",
+      "order": 157,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-05/quiz_minus20_loesung.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-10T18:20:00Z"
+    },
+    {
+      "id": "story-lexikon-leerverkauf",
+      "order": 158,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-05/lexikon_leerverkauf.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-11T12:05:00Z"
     }
   ]
 }
