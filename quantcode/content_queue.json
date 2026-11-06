@@ -2068,6 +2068,54 @@
       "posted_at": "2026-11-05T23:01:50+00:00",
       "media_id": "18484400695113846",
       "permalink": "https://www.instagram.com/reel/DfYKdk8oc8z/"
+    },
+    {
+      "id": "story-ticker-msft-2026-11-06",
+      "order": 161,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-06/msft_2026-11-06.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-06T07:30:00Z",
+      "valid_until": "2026-11-06T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-nvda-2026-11-06",
+      "order": 162,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-06/nvda_2026-11-06.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-06T07:50:00Z",
+      "valid_until": "2026-11-06T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-googl-2026-11-06",
+      "order": 163,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-06/googl_2026-11-06.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-06T08:10:00Z",
+      "valid_until": "2026-11-06T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-amzn-2026-11-06",
+      "order": 164,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-06/amzn_2026-11-06.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-06T08:30:00Z",
+      "valid_until": "2026-11-06T21:00:00Z"
     }
   ]
 }
