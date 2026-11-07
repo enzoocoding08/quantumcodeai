@@ -1837,12 +1837,15 @@
       "id": "story-lexikon-drawdown",
       "order": 142,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-04/lexikon_drawdown.png"
       ],
       "caption": "",
-      "not_before": "2026-11-07T12:05:00Z"
+      "not_before": "2026-11-07T12:05:00Z",
+      "posted_at": "2026-11-07T15:04:05+00:00",
+      "media_id": "18141340048724765",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4025221698815394675"
     },
     {
       "id": "story-lexikon-limitorder",
@@ -2223,6 +2226,17 @@
       "posted_at": "2026-11-07T07:18:06+00:00",
       "media_id": "18192647182416118",
       "permalink": "https://www.instagram.com/stories/quantcode_ai/4024987150567868975"
+    },
+    {
+      "id": "reel-gebuehren",
+      "order": 171,
+      "type": "reel",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-07/reel-gebuehren.mp4"
+      ],
+      "caption": "Ein Prozent Gebühr klingt harmlos. Über 30 Jahre kostet es dich knapp ein Viertel deines Endvermögens 💸\n\nRechenbeispiel (fiktiv, vereinfacht, ohne Steuern):\n• 10.000 € einmalig angelegt\n• Annahme: 7 % Rendite pro Jahr, 30 Jahre\n• Ohne Kosten: ca. 76.100 €\n• Mit 1 % Gebühren pro Jahr (6 % netto): ca. 57.400 €\n• Unterschied: ca. 18.700 € (knapp 25 %)\n\nDarum: Kosten vergleichen, bevor du investierst. Bei ETFs zählt die Gesamtkostenquote (TER), bei Fonds auch ein möglicher Ausgabeaufschlag.\n\n💾 Speichern für deinen nächsten Vergleich\n📩 Schick es jemandem, der gerade einen Fonds oder ETF auswählt\n\nReine Rechenbeispiel-Zahlen, keine Prognose. Kein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#etf #gebühren #kosten #zinseszins #investieren #finanzbildung #geldanlage #quantcodeai",
+      "not_before": "2026-11-11T09:45:00Z"
     }
   ]
 }
