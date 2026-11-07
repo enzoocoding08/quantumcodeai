@@ -2242,13 +2242,16 @@
       "id": "story-trading-update-2026-11-07",
       "order": 172,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-07/quantcode-ai-trading-update-2026-11-07.png"
       ],
       "caption": "",
       "not_before": "2026-11-07T18:15:00Z",
-      "valid_until": "2026-11-07T23:00:00Z"
+      "valid_until": "2026-11-07T23:00:00Z",
+      "posted_at": "2026-11-07T18:17:08+00:00",
+      "media_id": "18175150411457897",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4025318858642846885"
     }
   ]
 }
