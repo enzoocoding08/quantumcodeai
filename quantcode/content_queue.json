@@ -2444,13 +2444,16 @@
       "id": "story-trade-result-krypto-2026-11-08",
       "order": 187,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-08/trade_result_krypto_2026-11-08.png"
       ],
       "caption": "",
       "not_before": "2026-11-08T22:15:00Z",
-      "valid_until": "2026-11-09T06:00:00Z"
+      "valid_until": "2026-11-09T06:00:00Z",
+      "posted_at": "2026-11-08T22:06:46+00:00",
+      "media_id": "17971638053963602",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4026159200057018111"
     }
   ]
 }
