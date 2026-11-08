@@ -1854,12 +1854,15 @@
       "id": "story-lexikon-limitorder",
       "order": 143,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-04/lexikon_limitorder.png"
       ],
       "caption": "",
-      "not_before": "2026-11-08T12:05:00Z"
+      "not_before": "2026-11-08T12:05:00Z",
+      "posted_at": "2026-11-08T15:05:08+00:00",
+      "media_id": "18118561577043601",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4025946984850808185"
     },
     {
       "id": "story-quiz-aufwaerts-frage",
@@ -2344,6 +2347,72 @@
       "posted_at": "2026-11-08T13:47:34+00:00",
       "media_id": "18267288502307523",
       "permalink": "https://www.instagram.com/stories/quantcode_ai/4025907955946466434"
+    },
+    {
+      "id": "post-aktiensplit",
+      "order": 179,
+      "type": "image",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-08/post_aktiensplit.png"
+      ],
+      "caption": "Aktiensplit: Macht er dich reicher? 🍕\n\nKurz gesagt: Nein. Ein Split schneidet nur die Pizza in mehr Stücke.\n\nBeispiel (fiktiv):\n• Vorher: 10 Aktien à 100 $ = 1.000 $\n• Split 2 zu 1: jede Aktie wird zu zwei Aktien\n• Nachher: 20 Aktien à 50 $ = weiterhin 1.000 $\n\nWarum machen Firmen das? Ein niedrigerer Kurs je Aktie wirkt zugänglicher. Mehr Wert entsteht dadurch nicht.\n\n💾 Speichern für später\n📩 Schick es jemandem, der \"billige Aktien\" für besser hält\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#aktiensplit #aktien #börse #finanzbildung #mythos #investieren #quantcodeai",
+      "not_before": "2026-11-12T09:45:00Z"
+    },
+    {
+      "id": "story-lexikon-freefloat",
+      "order": 180,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-08/lexikon_freefloat.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-12T12:05:00Z"
+    },
+    {
+      "id": "story-quiz-aktiensplit-frage",
+      "order": 181,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-08/quiz_aktiensplit_frage.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-12T15:15:00Z"
+    },
+    {
+      "id": "story-quiz-aktiensplit-loesung",
+      "order": 182,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-08/quiz_aktiensplit_loesung.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-12T18:20:00Z"
+    },
+    {
+      "id": "story-lexikon-gewinnwarnung",
+      "order": 183,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-08/lexikon_gewinnwarnung.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-13T12:05:00Z"
+    },
+    {
+      "id": "story-lexikon-aktienrueckkauf",
+      "order": 184,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-08/lexikon_aktienrueckkauf.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-14T12:05:00Z"
     }
   ]
 }
