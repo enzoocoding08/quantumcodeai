@@ -2428,6 +2428,17 @@
       "posted_at": "2026-11-08T18:17:01+00:00",
       "media_id": "18117585227020451",
       "permalink": "https://www.instagram.com/stories/quantcode_ai/4026043573213114616"
+    },
+    {
+      "id": "reel-aktie-vs-etf",
+      "order": 186,
+      "type": "reel",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-08/reel-aktie-vs-etf.mp4"
+      ],
+      "caption": "Aktie oder ETF? Der wichtigste Unterschied 🧺\n\n🎯 Einzelaktie = Wette auf eine einzige Firma. Geht sie schief, trifft es dein ganzes Investment in diese Firma.\n🧺 ETF = viele Firmen in einem Produkt, z. B. alle Unternehmen eines Index. Dein Geld ist automatisch verteilt.\n\nRechenbeispiel (fiktiv): Eine Firma macht nur 0,5 % eines ETFs aus und fällt um 50 %. Der ETF verliert dadurch nur ca. 0,25 %. Bei einer Einzelaktie wären es 50 %.\n\nAber: Auch ein ETF fällt, wenn der ganze Markt fällt. Und er kostet eine laufende Gebühr (Gesamtkostenquote, TER).\n\n💾 Speichern für später\n📩 Schick es jemandem, der noch zwischen Aktie und ETF schwankt\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#etf #aktien #streuung #diversifikation #investieren #finanzbildung #börse #quantcodeai",
+      "not_before": "2026-11-13T09:45:00Z"
     }
   ]
 }
