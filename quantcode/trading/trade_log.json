@@ -436,6 +436,32 @@
       "gross_pnl_usd": -9.45,
       "fees_usd": 1.91,
       "net_pnl_usd": -11.36
+    },
+    {
+      "id": "e1-2026-11-07-btc-short",
+      "asset": "BTC-PERP",
+      "side": "short",
+      "entry_price": 75591.76,
+      "take_profit": 73939,
+      "stop_loss": 76440,
+      "signals_at_entry": "EXPERIMENT E1 (4h trend-follow): EMA20<EMA50, MACD-Histogramm negativ, OBV fallend. Stop 1x ATR14(4h), Ziel 2x ATR. Vorschlag dieser Session am 2026-11-07 (suggest_trades_batch); im Portfolio am 2026-11-08 als offen gefunden - Fill 2026-11-07 21:31 UTC genau zu den Vorschlagskonditionen. Der Bestaetigungsweg ist in der Session nicht belegt (kein execute_orders_batch-Aufruf dieser Session).",
+      "status": "open",
+      "entry_date": "2026-11-07",
+      "size_notional_usd": 2000,
+      "leverage": 2
+    },
+    {
+      "id": "e1-2026-11-07-eth-short",
+      "asset": "ETH-PERP",
+      "side": "short",
+      "entry_price": 2224.5,
+      "take_profit": 2162.2,
+      "stop_loss": 2256.4,
+      "signals_at_entry": "EXPERIMENT E1 (4h trend-follow): EMA20<EMA50, MACD-Histogramm negativ, OBV fallend. Stop 1x ATR14(4h), Ziel 2x ATR. Vorschlag dieser Session am 2026-11-07 (suggest_trades_batch); im Portfolio am 2026-11-08 als offen gefunden - Fill 2026-11-07 21:31 UTC genau zu den Vorschlagskonditionen. Der Bestaetigungsweg ist in der Session nicht belegt (kein execute_orders_batch-Aufruf dieser Session).",
+      "status": "open",
+      "entry_date": "2026-11-07",
+      "size_notional_usd": 1500,
+      "leverage": 2
     }
   ],
   "stats": {
@@ -453,6 +479,7 @@
     "update_2026-10-22b": "Basket AAPL long / ETH short / MSFT short opened 2026-10-22 ~20:20 UTC (paper, $1000 each, 2x). All three filled with TP/SL set. Equity 10708.28 (fees).",
     "update_2026-10-23": "AAPL long (entry 347.87, 2026-10-22 20:14 UTC) hit stop-loss 345.66 on 2026-10-23 06:38 UTC: net approx -$8.23 (gross -6.34, fees 1.89). ETH short and MSFT short still open (MSFT +$9, ETH -$7.5 unrealized at 07:15 UTC). Equity $10,702.84.",
     "update_2026-10-23b": "MSFT short (entry 520.67, since 2026-10-22 20:14 UTC) hit stop-loss 525.59 at 15:00 UTC on 2026-10-23: net approx -$11.36 (gross -9.45, fees 1.91). Last four closed trades are all stop-losses (GOOGL 10-16, AMZN 10-20, AAPL 10-23, MSFT 10-23) -> one more loss in a row triggers the 6h cool-off. ETH short open (-$8.30, stop 2423.40). Equity $10,682.57.",
-    "update_2026-10-24": "ETH short (entry 2386.5, since 2026-10-22 20:14 UTC) hit take-profit at 2308.4 on 2026-10-24 15:10 UTC (Saturday): net approx +$30.85 (gross 32.72, fees 1.87). Ends the streak of 4 stop-losses. Portfolio flat, equity $10,722.68. E1 basket of 10-22 result: AAPL -8.23, MSFT -11.36, ETH +30.85 = net +11.26."
+    "update_2026-10-24": "ETH short (entry 2386.5, since 2026-10-22 20:14 UTC) hit take-profit at 2308.4 on 2026-10-24 15:10 UTC (Saturday): net approx +$30.85 (gross 32.72, fees 1.87). Ends the streak of 4 stop-losses. Portfolio flat, equity $10,722.68. E1 basket of 10-22 result: AAPL -8.23, MSFT -11.36, ETH +30.85 = net +11.26.",
+    "update_2026-11-08": "BTC short (entry 75591.76) und ETH short (entry 2224.50) wurden am 2026-11-07 21:31 UTC zu den Konditionen des Vorschlags eroeffnet (vermutlich von der Nutzerin in der Liquid-App bestaetigt; nicht ueber diese Session ausgefuehrt). Stand 2026-11-08 13:44 UTC: BTC -8.39, ETH -7.55 unrealisiert, Equity 10703.57, Margin 1757.56."
   }
 }
