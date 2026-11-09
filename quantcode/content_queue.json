@@ -2459,49 +2459,61 @@
       "id": "story-ticker-unh-2026-11-09",
       "order": 188,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-09/unh_2026-11-09.png"
       ],
       "caption": "",
       "not_before": "2026-11-09T07:30:00Z",
-      "valid_until": "2026-11-09T21:00:00Z"
+      "valid_until": "2026-11-09T21:00:00Z",
+      "posted_at": "2026-11-09T07:26:14+00:00",
+      "media_id": "18480497032118452",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4026440795478053657"
     },
     {
       "id": "story-ticker-jpm-2026-11-09",
       "order": 189,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-09/jpm_2026-11-09.png"
       ],
       "caption": "",
       "not_before": "2026-11-09T07:50:00Z",
-      "valid_until": "2026-11-09T21:00:00Z"
+      "valid_until": "2026-11-09T21:00:00Z",
+      "posted_at": "2026-11-09T07:26:24+00:00",
+      "media_id": "18128675149900503",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4026440886871492168"
     },
     {
       "id": "story-ticker-v-2026-11-09",
       "order": 190,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-09/v_2026-11-09.png"
       ],
       "caption": "",
       "not_before": "2026-11-09T08:10:00Z",
-      "valid_until": "2026-11-09T21:00:00Z"
+      "valid_until": "2026-11-09T21:00:00Z",
+      "posted_at": "2026-11-09T07:26:34+00:00",
+      "media_id": "17915022327508471",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4026440972494073676"
     },
     {
       "id": "story-ticker-ma-2026-11-09",
       "order": 191,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-09/ma_2026-11-09.png"
       ],
       "caption": "",
       "not_before": "2026-11-09T08:30:00Z",
-      "valid_until": "2026-11-09T21:00:00Z"
+      "valid_until": "2026-11-09T21:00:00Z",
+      "posted_at": "2026-11-09T07:27:08+00:00",
+      "media_id": "17963972841217465",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4026441252505723230"
     }
   ]
 }
