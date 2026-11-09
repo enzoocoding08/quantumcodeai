@@ -2154,12 +2154,15 @@
       "id": "reel-verlustaversion",
       "order": 165,
       "type": "reel",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-06/reel-verlustaversion.mp4"
       ],
       "caption": "Warum tut ein Verlust mehr weh als ein Gewinn Freude macht? 🧠📉\n\nDas nennt man Verlustaversion. Die Forscher Daniel Kahneman und Amos Tversky zeigten mit ihrer Prospect Theory: Ein Verlust wiegt psychologisch etwa doppelt so schwer wie ein gleich großer Gewinn.\n\nTypische Folgen an der Börse:\n• Gewinner werden zu früh verkauft\n• Verlierer werden zu lange gehalten\n• Panikverkäufe im Tief\n\nWas hilft: vorher einen Plan festlegen (Ziel, Ausstieg, Verlustgrenze) und nicht ständig aufs Depot schauen.\n\n💾 Speichern für später\n📩 Schick es jemandem, der bei roten Zahlen nervös wird\n\nBeispiel im Video fiktiv. Kein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#verlustaversion #börsenpsychologie #aktien #investieren #finanzbildung #behavioralfinance #quantcodeai",
-      "not_before": "2026-11-09T09:45:00Z"
+      "not_before": "2026-11-09T09:45:00Z",
+      "posted_at": "2026-11-09T10:44:55+00:00",
+      "media_id": "18119316680038028",
+      "permalink": "https://www.instagram.com/reel/DfhJTTYjn0Z/"
     },
     {
       "id": "story-trading-update-2026-11-06",
@@ -2514,6 +2517,17 @@
       "posted_at": "2026-11-09T07:27:08+00:00",
       "media_id": "17963972841217465",
       "permalink": "https://www.instagram.com/stories/quantcode_ai/4026441252505723230"
+    },
+    {
+      "id": "reel-crash-ruhe-bewahren",
+      "order": 192,
+      "type": "reel",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-09/reel-crash-ruhe-bewahren.mp4"
+      ],
+      "caption": "Börse fällt, Depot rot, du willst alles verkaufen? 3 Dinge, die helfen 🧘📉\n\n1️⃣ Prüfe, ob sich an deinem Plan etwas geändert hat. Ein Kurssturz allein ist noch kein Grund, die Strategie zu ändern.\n2️⃣ Schau auf den langen Zeitraum. Frühere Einbrüche waren im Rückblick oft Phasen, nach denen der Markt wieder gestiegen ist. Eine Garantie dafür gibt es nie.\n3️⃣ Verkaufe nicht aus Panik. Wer im Tief verkauft, macht aus einem Buchverlust einen echten Verlust.\n\nBonus: Wer regelmäßig spart (z. B. Sparplan), kauft bei fallenden Kursen für denselben Betrag automatisch mehr Anteile.\n\n💾 Speichern für den nächsten Absturz\n📩 Schick es jemandem, der bei roten Zahlen nervös wird\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#börse #crash #ruhebewahren #sparplan #aktien #finanzbildung #investieren #quantcodeai",
+      "not_before": "2026-11-14T09:45:00Z"
     }
   ]
 }
