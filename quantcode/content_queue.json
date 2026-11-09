@@ -1868,12 +1868,15 @@
       "id": "story-quiz-aufwaerts-frage",
       "order": 144,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-04/quiz_aufwaerts_frage.png"
       ],
       "caption": "",
-      "not_before": "2026-11-09T15:15:00Z"
+      "not_before": "2026-11-09T15:15:00Z",
+      "posted_at": "2026-11-09T15:04:56+00:00",
+      "media_id": "18070573628617036",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4026671668651284868"
     },
     {
       "id": "story-quiz-aufwaerts-loesung",
@@ -2009,12 +2012,15 @@
       "id": "story-lexikon-beta",
       "order": 154,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-05/lexikon_beta.png"
       ],
       "caption": "",
-      "not_before": "2026-11-09T12:05:00Z"
+      "not_before": "2026-11-09T12:05:00Z",
+      "posted_at": "2026-11-09T15:05:30+00:00",
+      "media_id": "18371755363244720",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4026671964592991115"
     },
     {
       "id": "story-lexikon-gap",
