@@ -474,11 +474,37 @@
       "gross_pnl_usd": 44.09,
       "fees_usd": 2.81,
       "net_pnl_usd": 41.28
+    },
+    {
+      "id": "e1-2026-11-09-btc-short",
+      "asset": "BTC-PERP",
+      "side": "short",
+      "entry_price": 75196.5,
+      "take_profit": 73302,
+      "stop_loss": 76023,
+      "signals_at_entry": "EXPERIMENT E1 (4h trend-follow): Stop 1x ATR14(4h), Ziel 2x ATR. Vorschlag dieser Session am 2026-11-09 abends (suggest_trades_batch), von der Nutzerin im Chat bestaetigt ('ja korb'), ausgefuehrt via execute_orders_batch (orderIds 177864/177865, idempotencyKey e1-basket-2026-11-09-btcshort-goldlong-v1). BTC: EMA20<EMA50, MACD-Hist -16 (knapp), OBV fallend, RSI 41.",
+      "status": "open",
+      "entry_date": "2026-11-09",
+      "size_notional_usd": 2000,
+      "leverage": 2
+    },
+    {
+      "id": "e1-2026-11-09-gold-long",
+      "asset": "GOLD-PERP",
+      "side": "long",
+      "entry_price": 4140.9,
+      "take_profit": 4194.3,
+      "stop_loss": 4114.1,
+      "signals_at_entry": "EXPERIMENT E1 (4h trend-follow): Stop 1x ATR14(4h), Ziel 2x ATR. Vorschlag dieser Session am 2026-11-09 abends (suggest_trades_batch), von der Nutzerin im Chat bestaetigt ('ja korb'), ausgefuehrt via execute_orders_batch (orderIds 177864/177865, idempotencyKey e1-basket-2026-11-09-btcshort-goldlong-v1). GOLD: EMA20>EMA50, MACD-Hist +3.6, OBV steigend, RSI 66; Shorts im Markt stark positioniert.",
+      "status": "open",
+      "entry_date": "2026-11-09",
+      "size_notional_usd": 1500,
+      "leverage": 2
     }
   ],
   "stats": {
     "note": "8 closed trades: 6 losses (AAPL, BTC, NVDA, XRP, ETH, SOL - the original Day-1 same-direction batch, every single one stopped out, triggering the 5-in-a-row 6h cool-off rule, expired ~2026-09-15 21:00 UTC) plus 2 wins (LLY long, take-profit hit 2026-09-23 at $1,184.40, +6.31%/+$50.42; GOLD short, take-profit hit 2026-09-28 at $4,155.20, +5.4%/+$96.49 net - held since 2026-09-07, the longest-running position in the log). Still not enough sample size for real win-rate/expectancy stats (need 20+ closed), but the trend holds: the Day-1 batch was one correlated risk-on bet wearing 6 different tickers, not 6 independent calls, and it was wrong. The positions opened since with genuine differentiated 3-signal-confluence reasoning (GOLD short -> WIN, AMZN short, LLY long -> WIN, MU long, NVDA long) are either still open and profitable or already closed profitably - real evidence the process works better than broad same-direction batching.",
-    "total_trades": 26,
+    "total_trades": 28,
     "closed_trades": 26,
     "win_rate": null,
     "avg_r_multiple": null,
@@ -493,6 +519,7 @@
     "update_2026-10-23b": "MSFT short (entry 520.67, since 2026-10-22 20:14 UTC) hit stop-loss 525.59 at 15:00 UTC on 2026-10-23: net approx -$11.36 (gross -9.45, fees 1.91). Last four closed trades are all stop-losses (GOOGL 10-16, AMZN 10-20, AAPL 10-23, MSFT 10-23) -> one more loss in a row triggers the 6h cool-off. ETH short open (-$8.30, stop 2423.40). Equity $10,682.57.",
     "update_2026-10-24": "ETH short (entry 2386.5, since 2026-10-22 20:14 UTC) hit take-profit at 2308.4 on 2026-10-24 15:10 UTC (Saturday): net approx +$30.85 (gross 32.72, fees 1.87). Ends the streak of 4 stop-losses. Portfolio flat, equity $10,722.68. E1 basket of 10-22 result: AAPL -8.23, MSFT -11.36, ETH +30.85 = net +11.26.",
     "update_2026-11-08": "BTC short (entry 75591.76) und ETH short (entry 2224.50) wurden am 2026-11-07 21:31 UTC zu den Konditionen des Vorschlags eroeffnet (vermutlich von der Nutzerin in der Liquid-App bestaetigt; nicht ueber diese Session ausgefuehrt). Stand 2026-11-08 13:44 UTC: BTC -8.39, ETH -7.55 unrealisiert, Equity 10703.57, Margin 1757.56.",
-    "update_2026-11-08b": "BTC short (Einstieg 75591.76, Exit 73829.14, TP) und ETH short (Einstieg 2224.50, Exit 2159.10, TP) am 2026-11-08 ~21:55 UTC beide im Take-Profit geschlossen: BTC netto ca. +$42.87, ETH netto ca. +$41.28, zusammen ca. +$84.15. Konto flach, Equity $10,807.10. Beide Legs waren im Grunde eine korrelierte Krypto-Wette; Stichprobe weiter klein. Danach 4h-MACD bei BTC/ETH/SOL wieder positiv -> kein neues E1-Signal; XRP formal ausgerichtet, aber RSI 30 (ueberverkauft)."
+    "update_2026-11-08b": "BTC short (Einstieg 75591.76, Exit 73829.14, TP) und ETH short (Einstieg 2224.50, Exit 2159.10, TP) am 2026-11-08 ~21:55 UTC beide im Take-Profit geschlossen: BTC netto ca. +$42.87, ETH netto ca. +$41.28, zusammen ca. +$84.15. Konto flach, Equity $10,807.10. Beide Legs waren im Grunde eine korrelierte Krypto-Wette; Stichprobe weiter klein. Danach 4h-MACD bei BTC/ETH/SOL wieder positiv -> kein neues E1-Signal; XRP formal ausgerichtet, aber RSI 30 (ueberverkauft).",
+    "update_2026-11-09": "BTC short (Einstieg 75196.50, SL 76023, TP 73302) und GOLD long (Einstieg 4140.90, SL 4114.10, TP 4194.30) am 2026-11-09 ~22:50 UTC nach 'ja korb' der Nutzerin eroeffnet. Equity 10799.63 (Gebuehren)."
   }
 }

@@ -2343,7 +2343,7 @@
         "docs/content/queue/staged-2026-11-08/reel-drei-fragen.mp4"
       ],
       "caption": "3 Fragen, die du dir vor JEDEM Aktienkauf stellen solltest 🧠✅\n\n1️⃣ Warum kaufe ich das eigentlich? (Wenn die Antwort nur \"alle reden darüber\" lautet: Warnsignal)\n2️⃣ Wie viel darf ich höchstens verlieren? Viele Anleger begrenzen das Risiko pro Kauf auf etwa 1 % des Depots. Beispiel (fiktiv): Bei 10.000 € Depot sind das 100 €.\n3️⃣ Wann steige ich aus? Kurs für den Verlustfall und für Gewinnmitnahme vorher festlegen.\n\nSchreib die Antworten auf, bevor du kaufst. Wer einen Plan hat, entscheidet weniger aus dem Bauch.\n\n💾 Speichern als Checkliste\n📩 Schick es jemandem, der gerade seinen ersten Kauf plant\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#aktien #checkliste #risikomanagement #anfänger #finanzbildung #investieren #börse #quantcodeai",
-      "not_before": "2026-11-11T09:45:00Z"
+      "not_before": "2026-11-10T09:45:00Z"
     },
     {
       "id": "story-trade-alert-basket-2026-11-08",
@@ -2369,7 +2369,7 @@
         "docs/content/queue/staged-2026-11-08/post_aktiensplit.png"
       ],
       "caption": "Aktiensplit: Macht er dich reicher? 🍕\n\nKurz gesagt: Nein. Ein Split schneidet nur die Pizza in mehr Stücke.\n\nBeispiel (fiktiv):\n• Vorher: 10 Aktien à 100 $ = 1.000 $\n• Split 2 zu 1: jede Aktie wird zu zwei Aktien\n• Nachher: 20 Aktien à 50 $ = weiterhin 1.000 $\n\nWarum machen Firmen das? Ein niedrigerer Kurs je Aktie wirkt zugänglicher. Mehr Wert entsteht dadurch nicht.\n\n💾 Speichern für später\n📩 Schick es jemandem, der \"billige Aktien\" für besser hält\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#aktiensplit #aktien #börse #finanzbildung #mythos #investieren #quantcodeai",
-      "not_before": "2026-11-12T09:45:00Z"
+      "not_before": "2026-11-11T09:45:00Z"
     },
     {
       "id": "story-lexikon-freefloat",
@@ -2450,7 +2450,7 @@
         "docs/content/queue/staged-2026-11-08/reel-aktie-vs-etf.mp4"
       ],
       "caption": "Aktie oder ETF? Der wichtigste Unterschied 🧺\n\n🎯 Einzelaktie = Wette auf eine einzige Firma. Geht sie schief, trifft es dein ganzes Investment in diese Firma.\n🧺 ETF = viele Firmen in einem Produkt, z. B. alle Unternehmen eines Index. Dein Geld ist automatisch verteilt.\n\nRechenbeispiel (fiktiv): Eine Firma macht nur 0,5 % eines ETFs aus und fällt um 50 %. Der ETF verliert dadurch nur ca. 0,25 %. Bei einer Einzelaktie wären es 50 %.\n\nAber: Auch ein ETF fällt, wenn der ganze Markt fällt. Und er kostet eine laufende Gebühr (Gesamtkostenquote, TER).\n\n💾 Speichern für später\n📩 Schick es jemandem, der noch zwischen Aktie und ETF schwankt\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#etf #aktien #streuung #diversifikation #investieren #finanzbildung #börse #quantcodeai",
-      "not_before": "2026-11-13T09:45:00Z"
+      "not_before": "2026-11-12T09:45:00Z"
     },
     {
       "id": "story-trade-result-krypto-2026-11-08",
@@ -2536,7 +2536,7 @@
         "docs/content/queue/staged-2026-11-09/reel-crash-ruhe-bewahren.mp4"
       ],
       "caption": "Börse fällt, Depot rot, du willst alles verkaufen? 3 Dinge, die helfen 🧘📉\n\n1️⃣ Prüfe, ob sich an deinem Plan etwas geändert hat. Ein Kurssturz allein ist noch kein Grund, die Strategie zu ändern.\n2️⃣ Schau auf den langen Zeitraum. Frühere Einbrüche waren im Rückblick oft Phasen, nach denen der Markt wieder gestiegen ist. Eine Garantie dafür gibt es nie.\n3️⃣ Verkaufe nicht aus Panik. Wer im Tief verkauft, macht aus einem Buchverlust einen echten Verlust.\n\nBonus: Wer regelmäßig spart (z. B. Sparplan), kauft bei fallenden Kursen für denselben Betrag automatisch mehr Anteile.\n\n💾 Speichern für den nächsten Absturz\n📩 Schick es jemandem, der bei roten Zahlen nervös wird\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#börse #crash #ruhebewahren #sparplan #aktien #finanzbildung #investieren #quantcodeai",
-      "not_before": "2026-11-14T09:45:00Z"
+      "not_before": "2026-11-13T09:45:00Z"
     },
     {
       "id": "story-trading-update-2026-11-09",
@@ -2552,6 +2552,18 @@
       "posted_at": "2026-11-09T18:38:41+00:00",
       "media_id": "18340370137256401",
       "permalink": "https://www.instagram.com/stories/quantcode_ai/4026779246400323738"
+    },
+    {
+      "id": "story-trade-alert-basket-2026-11-09",
+      "order": 194,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-09/trade_alert_basket_2026-11-09.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-09T22:50:00Z",
+      "valid_until": "2026-11-10T06:00:00Z"
     }
   ]
 }
