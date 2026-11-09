@@ -1882,12 +1882,15 @@
       "id": "story-quiz-aufwaerts-loesung",
       "order": 145,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-04/quiz_aufwaerts_loesung.png"
       ],
       "caption": "",
-      "not_before": "2026-11-09T18:20:00Z"
+      "not_before": "2026-11-09T18:20:00Z",
+      "posted_at": "2026-11-09T18:15:22+00:00",
+      "media_id": "18124858541016879",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4026767518555927401"
     },
     {
       "id": "story-trading-update-2026-11-04",
