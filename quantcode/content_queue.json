@@ -2029,23 +2029,29 @@
       "id": "story-lexikon-gap",
       "order": 155,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-05/lexikon_gap.png"
       ],
       "caption": "",
-      "not_before": "2026-11-10T12:05:00Z"
+      "not_before": "2026-11-10T12:05:00Z",
+      "posted_at": "2026-11-10T15:05:13+00:00",
+      "media_id": "18063643658637471",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4027396585127193064"
     },
     {
       "id": "story-quiz-minus20-frage",
       "order": 156,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-05/quiz_minus20_frage.png"
       ],
       "caption": "",
-      "not_before": "2026-11-10T15:15:00Z"
+      "not_before": "2026-11-10T15:15:00Z",
+      "posted_at": "2026-11-10T15:05:24+00:00",
+      "media_id": "18576732493078551",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4027396676588150728"
     },
     {
       "id": "story-quiz-minus20-loesung",
@@ -2647,6 +2653,72 @@
       "posted_at": "2026-11-10T07:28:17+00:00",
       "media_id": "17943741759390994",
       "permalink": "https://www.instagram.com/stories/quantcode_ai/4027166600960763345"
+    },
+    {
+      "id": "post-checkliste-5dinge",
+      "order": 200,
+      "type": "image",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-10/post_checkliste.png"
+      ],
+      "caption": "5 Dinge, die du vor deinem ersten Aktienkauf klären solltest ✅\n\n1️⃣ Notgroschen aufbauen\n2️⃣ Ziel und Zeitraum festlegen\n3️⃣ Kosten vergleichen\n4️⃣ Streuen\n5️⃣ Regelmäßig investieren\n\nWer diese fünf Punkte geklärt hat, trifft Entscheidungen ruhiger und weniger aus dem Bauch.\n\n💾 Speichern als Checkliste\n📩 Schick es jemandem, der gerade sein erstes Depot eröffnet\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#aktien #checkliste #anfänger #finanzbildung #investieren #sparplan #börse #quantcodeai",
+      "not_before": "2026-11-14T09:45:00Z"
+    },
+    {
+      "id": "story-quiz-kgv-frage",
+      "order": 201,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-10/quiz_kgv_frage.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-14T15:15:00Z"
+    },
+    {
+      "id": "story-quiz-kgv-loesung",
+      "order": 202,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-10/quiz_kgv_loesung.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-14T18:20:00Z"
+    },
+    {
+      "id": "story-lexikon-valuegrowth",
+      "order": 203,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-10/lexikon_valuegrowth.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-15T12:05:00Z"
+    },
+    {
+      "id": "story-lexikon-kapitalerhoehung",
+      "order": 204,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-10/lexikon_kapitalerhoehung.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-16T12:05:00Z"
+    },
+    {
+      "id": "story-lexikon-handelsvolumen",
+      "order": 205,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-10/lexikon_handelsvolumen.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-17T12:05:00Z"
     }
   ]
 }
