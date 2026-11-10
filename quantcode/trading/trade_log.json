@@ -483,10 +483,16 @@
       "take_profit": 73302,
       "stop_loss": 76023,
       "signals_at_entry": "EXPERIMENT E1 (4h trend-follow): Stop 1x ATR14(4h), Ziel 2x ATR. Vorschlag dieser Session am 2026-11-09 abends (suggest_trades_batch), von der Nutzerin im Chat bestaetigt ('ja korb'), ausgefuehrt via execute_orders_batch (orderIds 177864/177865, idempotencyKey e1-basket-2026-11-09-btcshort-goldlong-v1). BTC: EMA20<EMA50, MACD-Hist -16 (knapp), OBV fallend, RSI 41. KORREKTUR 2026-11-10: Der Korb wurde ZWEIMAL ausgefuehrt: (1) 22:37:07 UTC 0.0266 BTC @75181 (vermutlich Bestaetigung in der Liquid-App direkt nach der Vorschau), (2) 22:52:13 UTC 0.02659 BTC @75212 (execute_orders_batch dieser Session nach 'ja korb' im Chat, ohne vorher get_portfolio zu pruefen). Position daher doppelt so gross wie geplant: 0.05319 BTC (~$4.000 Notional), SL 76023 / TP 73302.",
-      "status": "open",
+      "status": "closed",
       "entry_date": "2026-11-09",
       "size_notional_usd": 4000,
-      "leverage": 2
+      "leverage": 2,
+      "exit_price": 73287.5,
+      "exit_date": "2026-11-10",
+      "exit_reason": "take-profit hit (15:37 UTC)",
+      "gross_pnl_usd": 101.54,
+      "fees_usd": 7.5,
+      "net_pnl_usd": 94.04
     },
     {
       "id": "e1-2026-11-09-gold-long",
@@ -511,7 +517,7 @@
   "stats": {
     "note": "8 closed trades: 6 losses (AAPL, BTC, NVDA, XRP, ETH, SOL - the original Day-1 same-direction batch, every single one stopped out, triggering the 5-in-a-row 6h cool-off rule, expired ~2026-09-15 21:00 UTC) plus 2 wins (LLY long, take-profit hit 2026-09-23 at $1,184.40, +6.31%/+$50.42; GOLD short, take-profit hit 2026-09-28 at $4,155.20, +5.4%/+$96.49 net - held since 2026-09-07, the longest-running position in the log). Still not enough sample size for real win-rate/expectancy stats (need 20+ closed), but the trend holds: the Day-1 batch was one correlated risk-on bet wearing 6 different tickers, not 6 independent calls, and it was wrong. The positions opened since with genuine differentiated 3-signal-confluence reasoning (GOLD short -> WIN, AMZN short, LLY long -> WIN, MU long, NVDA long) are either still open and profitable or already closed profitably - real evidence the process works better than broad same-direction batching.",
     "total_trades": 28,
-    "closed_trades": 26,
+    "closed_trades": 28,
     "win_rate": null,
     "avg_r_multiple": null,
     "expectancy": null,
@@ -527,6 +533,7 @@
     "update_2026-11-08": "BTC short (entry 75591.76) und ETH short (entry 2224.50) wurden am 2026-11-07 21:31 UTC zu den Konditionen des Vorschlags eroeffnet (vermutlich von der Nutzerin in der Liquid-App bestaetigt; nicht ueber diese Session ausgefuehrt). Stand 2026-11-08 13:44 UTC: BTC -8.39, ETH -7.55 unrealisiert, Equity 10703.57, Margin 1757.56.",
     "update_2026-11-08b": "BTC short (Einstieg 75591.76, Exit 73829.14, TP) und ETH short (Einstieg 2224.50, Exit 2159.10, TP) am 2026-11-08 ~21:55 UTC beide im Take-Profit geschlossen: BTC netto ca. +$42.87, ETH netto ca. +$41.28, zusammen ca. +$84.15. Konto flach, Equity $10,807.10. Beide Legs waren im Grunde eine korrelierte Krypto-Wette; Stichprobe weiter klein. Danach 4h-MACD bei BTC/ETH/SOL wieder positiv -> kein neues E1-Signal; XRP formal ausgerichtet, aber RSI 30 (ueberverkauft).",
     "update_2026-11-09": "BTC short (Einstieg 75196.50, SL 76023, TP 73302) und GOLD long (Einstieg 4140.90, SL 4114.10, TP 4194.30) am 2026-11-09 ~22:50 UTC nach 'ja korb' der Nutzerin eroeffnet. Equity 10799.63 (Gebuehren).",
-    "update_2026-11-10": "Korb BTC short / GOLD long vom 2026-11-09 wurde doppelt ausgefuehrt (App-Bestaetigung 22:37 UTC + Chat-Ausfuehrung 22:52 UTC) -> doppelte Positionsgroesse. GOLD long im Stop-Loss geschlossen (netto ca. -$25.13, ohne Doppelung waeren es ca. -$12.6). BTC short (0.05319 BTC, ~$4.000) weiter offen, unrealisiert ca. +$22. Equity 10800.71. Lehre: vor jedem execute zwingend get_portfolio/transaction_history pruefen, ob die Vorschau schon in der App ausgefuehrt wurde."
+    "update_2026-11-10": "Korb BTC short / GOLD long vom 2026-11-09 wurde doppelt ausgefuehrt (App-Bestaetigung 22:37 UTC + Chat-Ausfuehrung 22:52 UTC) -> doppelte Positionsgroesse. GOLD long im Stop-Loss geschlossen (netto ca. -$25.13, ohne Doppelung waeren es ca. -$12.6). BTC short (0.05319 BTC, ~$4.000) weiter offen, unrealisiert ca. +$22. Equity 10800.71. Lehre: vor jedem execute zwingend get_portfolio/transaction_history pruefen, ob die Vorschau schon in der App ausgefuehrt wurde.",
+    "update_2026-11-10b": "BTC short (0.05319 BTC, ~$4.000 durch Doppel-Ausfuehrung, Einstieg Ø 75196.50) am 2026-11-10 15:37 UTC im Take-Profit 73287.50 geschlossen: netto ca. +$94.04 (gross 101.54, fees 7.50). Zusammen mit GOLD long (-$25.13) ergibt der Korb netto ca. +$68.91; bei geplanter einfacher Groesse waeren es ca. +$34.5 gewesen. Konto flach, Equity $10,876.14."
   }
 }
