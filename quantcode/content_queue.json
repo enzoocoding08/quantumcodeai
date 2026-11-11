@@ -2379,12 +2379,15 @@
       "id": "post-aktiensplit",
       "order": 179,
       "type": "image",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-08/post_aktiensplit.png"
       ],
       "caption": "Aktiensplit: Macht er dich reicher? 🍕\n\nKurz gesagt: Nein. Ein Split schneidet nur die Pizza in mehr Stücke.\n\nBeispiel (fiktiv):\n• Vorher: 10 Aktien à 100 $ = 1.000 $\n• Split 2 zu 1: jede Aktie wird zu zwei Aktien\n• Nachher: 20 Aktien à 50 $ = weiterhin 1.000 $\n\nWarum machen Firmen das? Ein niedrigerer Kurs je Aktie wirkt zugänglicher. Mehr Wert entsteht dadurch nicht.\n\n💾 Speichern für später\n📩 Schick es jemandem, der \"billige Aktien\" für besser hält\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#aktiensplit #aktien #börse #finanzbildung #mythos #investieren #quantcodeai",
-      "not_before": "2026-11-11T09:45:00Z"
+      "not_before": "2026-11-11T09:45:00Z",
+      "posted_at": "2026-11-11T10:44:06+00:00",
+      "media_id": "17890324326653131",
+      "permalink": "https://www.instagram.com/p/DfmS39jlrtv/"
     },
     {
       "id": "story-lexikon-freefloat",
