@@ -2071,12 +2071,15 @@
       "id": "story-lexikon-leerverkauf",
       "order": 158,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-05/lexikon_leerverkauf.png"
       ],
       "caption": "",
-      "not_before": "2026-11-11T12:05:00Z"
+      "not_before": "2026-11-11T12:05:00Z",
+      "posted_at": "2026-11-11T12:28:09+00:00",
+      "media_id": "17999517906020133",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4028042307891329224"
     },
     {
       "id": "story-trading-update-2026-11-05",
