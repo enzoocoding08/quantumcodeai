@@ -2424,12 +2424,15 @@
       "id": "story-quiz-aktiensplit-loesung",
       "order": 182,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-08/quiz_aktiensplit_loesung.png"
       ],
       "caption": "",
-      "not_before": "2026-11-12T18:20:00Z"
+      "not_before": "2026-11-12T18:20:00Z",
+      "posted_at": "2026-11-12T18:14:22+00:00",
+      "media_id": "18103516193067601",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4028941322737152555"
     },
     {
       "id": "story-lexikon-gewinnwarnung",
@@ -3048,13 +3051,16 @@
       "id": "story-trading-update-2026-11-12",
       "order": 228,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-12/quantcode-ai-trading-update-2026-11-12.png"
       ],
       "caption": "",
       "not_before": "2026-11-12T18:14:00Z",
-      "valid_until": "2026-11-12T23:00:00Z"
+      "valid_until": "2026-11-12T23:00:00Z",
+      "posted_at": "2026-11-12T18:18:08+00:00",
+      "media_id": "18437421829147390",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4028943237620721347"
     }
   ]
 }
