@@ -2935,6 +2935,51 @@
       ],
       "caption": "In wie vielen Jahren verdoppelt sich dein Geld? So rechnest du es im Kopf 🧠✖️2\n\nDie 72er-Regel: 72 ÷ Zinssatz in Prozent = ungefähre Jahre bis zur Verdopplung.\n\nBeispiele (fiktiv, vereinfacht):\n• 3 % pro Jahr → ca. 24 Jahre\n• 6 % pro Jahr → ca. 12 Jahre\n• 8 % pro Jahr → ca. 9 Jahre\n\nDie Kehrseite: Bei 2 % Inflation halbiert sich die Kaufkraft in rund 36 Jahren.\n\nWichtig: Das ist eine Näherung, keine exakte Rechnung. Echte Renditen schwanken, mal Plus, mal Minus.\n\n💾 Speichern für später\n📩 Schick es jemandem, der Zinsen nicht unterschätzen soll\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#72erregel #zinseszins #investieren #inflation #finanzbildung #geldanlage #sparen #quantcodeai",
       "not_before": "2026-11-16T09:45:00Z"
+    },
+    {
+      "id": "story-trade-alert-msft-aapl-2026-11-12",
+      "order": 220,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-12/trade_alert_msft_aapl_2026-11-12.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-12T13:30:00Z",
+      "valid_until": "2026-11-13T06:00:00Z"
+    },
+    {
+      "id": "story-lexikon-hebel",
+      "order": 221,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-12/lexikon_hebel.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-13T12:05:00Z"
+    },
+    {
+      "id": "story-lexikon-thesaurierend",
+      "order": 222,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-12/lexikon_thesaurierend.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-14T12:05:00Z"
+    },
+    {
+      "id": "story-lexikon-stoploss",
+      "order": 223,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-12/lexikon_stoploss.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-15T12:05:00Z"
     }
   ]
 }
