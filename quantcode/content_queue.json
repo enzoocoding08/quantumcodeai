@@ -2410,12 +2410,15 @@
       "id": "story-quiz-aktiensplit-frage",
       "order": 181,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-08/quiz_aktiensplit_frage.png"
       ],
       "caption": "",
-      "not_before": "2026-11-12T15:15:00Z"
+      "not_before": "2026-11-12T15:15:00Z",
+      "posted_at": "2026-11-12T15:04:54+00:00",
+      "media_id": "18101103314199399",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4028845987783777250"
     },
     {
       "id": "story-quiz-aktiensplit-loesung",
