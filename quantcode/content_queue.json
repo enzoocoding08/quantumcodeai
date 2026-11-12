@@ -3030,13 +3030,16 @@
       "id": "story-news-nvidia-huang",
       "order": 227,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-11/news_nvidia_huang.png"
       ],
       "caption": "",
       "not_before": "2026-11-12T13:40:00Z",
-      "valid_until": "2026-11-13T06:00:00Z"
+      "valid_until": "2026-11-13T06:00:00Z",
+      "posted_at": "2026-11-12T13:43:22+00:00",
+      "media_id": "18104980037550933",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4028804935319906877"
     }
   ]
 }
