@@ -2432,23 +2432,29 @@
       "id": "story-lexikon-gewinnwarnung",
       "order": 183,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-08/lexikon_gewinnwarnung.png"
       ],
       "caption": "",
-      "not_before": "2026-11-13T12:05:00Z"
+      "not_before": "2026-11-13T12:05:00Z",
+      "posted_at": "2026-11-12T13:31:37+00:00",
+      "media_id": "18105657701033952",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4028799038522766729"
     },
     {
       "id": "story-lexikon-aktienrueckkauf",
       "order": 184,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-08/lexikon_aktienrueckkauf.png"
       ],
       "caption": "",
-      "not_before": "2026-11-14T12:05:00Z"
+      "not_before": "2026-11-14T12:05:00Z",
+      "posted_at": "2026-11-12T13:31:51+00:00",
+      "media_id": "18125001053330781",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4028799123592442945"
     },
     {
       "id": "story-trading-update-2026-11-08",
@@ -2706,12 +2712,15 @@
       "id": "story-lexikon-valuegrowth",
       "order": 203,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-10/lexikon_valuegrowth.png"
       ],
       "caption": "",
-      "not_before": "2026-11-15T12:05:00Z"
+      "not_before": "2026-11-15T12:05:00Z",
+      "posted_at": "2026-11-12T13:32:01+00:00",
+      "media_id": "18122196241986104",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4028799235278015561"
     },
     {
       "id": "story-lexikon-kapitalerhoehung",
@@ -2940,13 +2949,16 @@
       "id": "story-trade-alert-msft-aapl-2026-11-12",
       "order": 220,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-12/trade_alert_msft_aapl_2026-11-12.png"
       ],
       "caption": "",
       "not_before": "2026-11-12T13:30:00Z",
-      "valid_until": "2026-11-13T06:00:00Z"
+      "valid_until": "2026-11-13T06:00:00Z",
+      "posted_at": "2026-11-12T13:35:00+00:00",
+      "media_id": "17894462004617357",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4028800738314814518"
     },
     {
       "id": "story-lexikon-hebel",
