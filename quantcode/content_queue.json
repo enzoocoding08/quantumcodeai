@@ -2396,12 +2396,15 @@
       "id": "story-lexikon-freefloat",
       "order": 180,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-08/lexikon_freefloat.png"
       ],
       "caption": "",
-      "not_before": "2026-11-12T12:05:00Z"
+      "not_before": "2026-11-12T12:05:00Z",
+      "posted_at": "2026-11-12T13:04:56+00:00",
+      "media_id": "18171847759475582",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4028785578792234171"
     },
     {
       "id": "story-quiz-aktiensplit-frage",
