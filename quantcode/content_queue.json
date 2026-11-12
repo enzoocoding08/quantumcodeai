@@ -2992,6 +2992,39 @@
       ],
       "caption": "",
       "not_before": "2026-11-15T12:05:00Z"
+    },
+    {
+      "id": "reel-fomo",
+      "order": 224,
+      "type": "reel",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-12/reel-fomo.mp4"
+      ],
+      "caption": "FOMO: Warum du nicht jedem Hype hinterherlaufen solltest. Drei Fragen vor jedem Kauf: Warum? Wie viel darf ich verlieren? Wo ist mein Ausstieg?\n\nSpeichern fuer spaeter, teilen mit jemandem, der gerade im Hype steckt.\n\nKein Anlagetipp, reine Bildung. #aktien #boerse #investieren #fomo #finanzbildung #quantcodeai",
+      "not_before": "2026-11-17T09:45:00Z"
+    },
+    {
+      "id": "reel-rendite-risiko",
+      "order": 225,
+      "type": "reel",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-12/reel-rendite-risiko.mp4"
+      ],
+      "caption": "Rendite und Risiko gehoeren zusammen. Frage dich nicht nur, was du verdienen koenntest, sondern auch, was du aushalten kannst.\n\nSpeichern und teilen.\n\nKein Anlagetipp, reine Bildung. #aktien #boerse #risiko #rendite #finanzbildung #quantcodeai",
+      "not_before": "2026-11-18T09:45:00Z"
+    },
+    {
+      "id": "reel-depot3",
+      "order": 226,
+      "type": "reel",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-12/reel-depot3.mp4"
+      ],
+      "caption": "Dein erstes Depot in drei Schritten: Ziel klaeren, Broker waehlen, klein und regelmaessig anfangen.\n\nSpeichern und teilen.\n\nKein Anlagetipp, reine Bildung. #depot #aktien #sparplan #finanzbildung #investieren #quantcodeai",
+      "not_before": "2026-11-19T09:45:00Z"
     }
   ]
 }
