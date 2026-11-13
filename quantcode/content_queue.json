@@ -2973,12 +2973,15 @@
       "id": "story-lexikon-hebel",
       "order": 221,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-12/lexikon_hebel.png"
       ],
       "caption": "",
-      "not_before": "2026-11-13T12:05:00Z"
+      "not_before": "2026-11-13T12:05:00Z",
+      "posted_at": "2026-11-13T15:06:35+00:00",
+      "media_id": "18106580936371548",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4029571570096780088"
     },
     {
       "id": "story-lexikon-thesaurierend",
