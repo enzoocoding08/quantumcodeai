@@ -3061,6 +3061,54 @@
       "posted_at": "2026-11-12T18:18:08+00:00",
       "media_id": "18437421829147390",
       "permalink": "https://www.instagram.com/stories/quantcode_ai/4028943237620721347"
+    },
+    {
+      "id": "story-msft-2026-11-13",
+      "order": 229,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-13/msft_2026-11-13.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-13T07:30:00Z",
+      "valid_until": "2026-11-13T21:00:00Z"
+    },
+    {
+      "id": "story-nvda-2026-11-13",
+      "order": 230,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-13/nvda_2026-11-13.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-13T07:50:00Z",
+      "valid_until": "2026-11-13T21:00:00Z"
+    },
+    {
+      "id": "story-googl-2026-11-13",
+      "order": 231,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-13/googl_2026-11-13.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-13T08:10:00Z",
+      "valid_until": "2026-11-13T21:00:00Z"
+    },
+    {
+      "id": "story-amzn-2026-11-13",
+      "order": 232,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-13/amzn_2026-11-13.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-13T08:30:00Z",
+      "valid_until": "2026-11-13T21:00:00Z"
     }
   ]
 }
