@@ -3142,6 +3142,28 @@
       "posted_at": "2026-11-13T18:17:54+00:00",
       "media_id": "18103941329679607",
       "permalink": "https://www.instagram.com/stories/quantcode_ai/4029667885551702057"
+    },
+    {
+      "id": "reel-dividende",
+      "order": 234,
+      "type": "reel",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-13/reel-dividende.mp4"
+      ],
+      "caption": "Dividende einfach erklaert: Was sie ist, wie sie ausgezahlt wird und warum der Kurs danach oft faellt. Eine hohe Dividende ist nicht automatisch ein Qualitaetsmerkmal.\n\nSpeichern und teilen.\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel. #dividende #aktien #boerse #finanzbildung #investieren #quantcodeai",
+      "not_before": "2026-11-20T09:45:00Z"
+    },
+    {
+      "id": "reel-sparplan",
+      "order": 235,
+      "type": "reel",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-13/reel-sparplan.mp4"
+      ],
+      "caption": "Sparplan und Cost-Average-Effekt: Jeden Monat der gleiche Betrag, egal wie der Kurs steht. Hilft gegen Bauchentscheidungen, schuetzt aber nicht vor Verlusten.\n\nSpeichern und teilen.\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel. #sparplan #etf #aktien #finanzbildung #investieren #quantcodeai",
+      "not_before": "2026-11-21T09:45:00Z"
     }
   ]
 }
