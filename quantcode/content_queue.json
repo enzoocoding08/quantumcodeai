@@ -2990,12 +2990,15 @@
       "id": "story-lexikon-thesaurierend",
       "order": 222,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-12/lexikon_thesaurierend.png"
       ],
       "caption": "",
-      "not_before": "2026-11-14T12:05:00Z"
+      "not_before": "2026-11-14T12:05:00Z",
+      "posted_at": "2026-11-14T13:44:01+00:00",
+      "media_id": "18128366809913501",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4030254812050314968"
     },
     {
       "id": "story-lexikon-stoploss",
