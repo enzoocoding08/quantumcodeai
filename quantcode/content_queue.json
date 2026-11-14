@@ -3164,6 +3164,54 @@
       ],
       "caption": "Sparplan und Cost-Average-Effekt: Jeden Monat der gleiche Betrag, egal wie der Kurs steht. Hilft gegen Bauchentscheidungen, schuetzt aber nicht vor Verlusten.\n\nSpeichern und teilen.\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel. #sparplan #etf #aktien #finanzbildung #investieren #quantcodeai",
       "not_before": "2026-11-21T09:45:00Z"
+    },
+    {
+      "id": "story-meta-2026-11-14",
+      "order": 236,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-14/meta_2026-11-14.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-14T07:30:00Z",
+      "valid_until": "2026-11-14T21:00:00Z"
+    },
+    {
+      "id": "story-tsla-2026-11-14",
+      "order": 237,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-14/tsla_2026-11-14.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-14T07:50:00Z",
+      "valid_until": "2026-11-14T21:00:00Z"
+    },
+    {
+      "id": "story-adbe-2026-11-14",
+      "order": 238,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-14/adbe_2026-11-14.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-14T08:10:00Z",
+      "valid_until": "2026-11-14T21:00:00Z"
+    },
+    {
+      "id": "story-nflx-2026-11-14",
+      "order": 239,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-14/nflx_2026-11-14.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-14T08:30:00Z",
+      "valid_until": "2026-11-14T21:00:00Z"
     }
   ]
 }
