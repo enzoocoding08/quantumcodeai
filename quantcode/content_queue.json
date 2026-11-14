@@ -2702,12 +2702,15 @@
       "id": "story-quiz-kgv-frage",
       "order": 201,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-10/quiz_kgv_frage.png"
       ],
       "caption": "",
-      "not_before": "2026-11-14T15:15:00Z"
+      "not_before": "2026-11-14T15:15:00Z",
+      "posted_at": "2026-11-14T15:03:36+00:00",
+      "media_id": "18101099981413294",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4030294879984789937"
     },
     {
       "id": "story-quiz-kgv-loesung",
