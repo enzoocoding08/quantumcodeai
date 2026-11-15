@@ -3306,6 +3306,54 @@
       ],
       "caption": "",
       "not_before": "2026-11-20T12:05:00Z"
+    },
+    {
+      "id": "story-dis-2026-11-15",
+      "order": 246,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-15/dis_2026-11-15.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-15T07:30:00Z",
+      "valid_until": "2026-11-15T21:00:00Z"
+    },
+    {
+      "id": "story-crm-2026-11-15",
+      "order": 247,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-15/crm_2026-11-15.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-15T07:50:00Z",
+      "valid_until": "2026-11-15T21:00:00Z"
+    },
+    {
+      "id": "story-lly-2026-11-15",
+      "order": 248,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-15/lly_2026-11-15.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-15T08:10:00Z",
+      "valid_until": "2026-11-15T21:00:00Z"
+    },
+    {
+      "id": "story-jnj-2026-11-15",
+      "order": 249,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-15/jnj_2026-11-15.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-15T08:30:00Z",
+      "valid_until": "2026-11-15T21:00:00Z"
     }
   ]
 }
