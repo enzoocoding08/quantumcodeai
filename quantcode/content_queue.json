@@ -2744,12 +2744,15 @@
       "id": "story-lexikon-kapitalerhoehung",
       "order": 204,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-10/lexikon_kapitalerhoehung.png"
       ],
       "caption": "",
-      "not_before": "2026-11-16T12:05:00Z"
+      "not_before": "2026-11-16T12:05:00Z",
+      "posted_at": "2026-11-16T23:05:48+00:00",
+      "media_id": "18109435580205370",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4031987120646214026"
     },
     {
       "id": "story-lexikon-handelsvolumen",
@@ -2855,12 +2858,15 @@
       "id": "reel-25-euro-reichen",
       "order": 212,
       "type": "reel",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-11/reel-25-euro-reichen.mp4"
       ],
       "caption": "Du brauchst viel Geld zum Anfangen? Stimmt nicht. 25 € im Monat reichen für den Start 💪\n\nRechenbeispiel (fiktiv, vereinfacht): 25 € im Monat, 7 % Rendite pro Jahr (Annahme, keine Prognose), ohne Steuern und Gebühren.\n\n• Nach 10 Jahren: ca. 4.300 € (eingezahlt: 3.000 €)\n• Nach 20 Jahren: ca. 13.000 € (eingezahlt: 6.000 €)\n• Nach 30 Jahren: ca. 30.500 € (eingezahlt: 9.000 €)\n\nEchte Renditen schwanken, mal Plus, mal Minus. Wichtig ist, überhaupt anzufangen und regelmäßig zu sparen.\n\n💾 Speichern für später\n📩 Schick es jemandem, der \"erst mal mehr verdienen will\"\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#sparplan #zinseszins #investieren #etf #finanzbildung #geldanlage #anfänger #quantcodeai",
-      "not_before": "2026-11-15T09:45:00Z"
+      "not_before": "2026-11-15T09:45:00Z",
+      "posted_at": "2026-11-16T23:05:24+00:00",
+      "media_id": "17995758507059017",
+      "permalink": "https://www.instagram.com/reel/Df0fmJkCfiU/"
     },
     {
       "id": "story-trading-update-2026-11-11",
@@ -3010,12 +3016,15 @@
       "id": "story-lexikon-stoploss",
       "order": 223,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-12/lexikon_stoploss.png"
       ],
       "caption": "",
-      "not_before": "2026-11-15T12:05:00Z"
+      "not_before": "2026-11-15T12:05:00Z",
+      "posted_at": "2026-11-16T23:05:36+00:00",
+      "media_id": "18023360402928767",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4031987015940605605"
     },
     {
       "id": "reel-fomo",
@@ -3311,121 +3320,131 @@
       "id": "story-dis-2026-11-15",
       "order": 246,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-11-15/dis_2026-11-15.png"
       ],
       "caption": "",
       "not_before": "2026-11-15T07:30:00Z",
-      "valid_until": "2026-11-15T21:00:00Z"
+      "valid_until": "2026-11-15T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-crm-2026-11-15",
       "order": 247,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-11-15/crm_2026-11-15.png"
       ],
       "caption": "",
       "not_before": "2026-11-15T07:50:00Z",
-      "valid_until": "2026-11-15T21:00:00Z"
+      "valid_until": "2026-11-15T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-lly-2026-11-15",
       "order": 248,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-11-15/lly_2026-11-15.png"
       ],
       "caption": "",
       "not_before": "2026-11-15T08:10:00Z",
-      "valid_until": "2026-11-15T21:00:00Z"
+      "valid_until": "2026-11-15T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-jnj-2026-11-15",
       "order": 249,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-11-15/jnj_2026-11-15.png"
       ],
       "caption": "",
       "not_before": "2026-11-15T08:30:00Z",
-      "valid_until": "2026-11-15T21:00:00Z"
+      "valid_until": "2026-11-15T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-trading-update-2026-11-15",
       "order": 250,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-11-15/quantcode-ai-trading-update-2026-11-15.png"
       ],
       "caption": "",
       "not_before": "2026-11-15T18:14:00Z",
-      "valid_until": "2026-11-15T23:00:00Z"
+      "valid_until": "2026-11-15T23:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-unh-2026-11-16",
       "order": 251,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-11-16/unh_2026-11-16.png"
       ],
       "caption": "",
       "not_before": "2026-11-16T07:30:00Z",
-      "valid_until": "2026-11-16T21:00:00Z"
+      "valid_until": "2026-11-16T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-jpm-2026-11-16",
       "order": 252,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-11-16/jpm_2026-11-16.png"
       ],
       "caption": "",
       "not_before": "2026-11-16T07:50:00Z",
-      "valid_until": "2026-11-16T21:00:00Z"
+      "valid_until": "2026-11-16T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-v-2026-11-16",
       "order": 253,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-11-16/v_2026-11-16.png"
       ],
       "caption": "",
       "not_before": "2026-11-16T08:10:00Z",
-      "valid_until": "2026-11-16T21:00:00Z"
+      "valid_until": "2026-11-16T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-ma-2026-11-16",
       "order": 254,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-11-16/ma_2026-11-16.png"
       ],
       "caption": "",
       "not_before": "2026-11-16T08:30:00Z",
-      "valid_until": "2026-11-16T21:00:00Z"
+      "valid_until": "2026-11-16T21:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     },
     {
       "id": "story-trading-update-2026-11-16",
       "order": 255,
       "type": "story",
-      "status": "pending",
+      "status": "skipped",
       "files": [
         "docs/content/daily/2026-11-16/quantcode-ai-trading-update-2026-11-16.png"
       ],
       "caption": "",
       "not_before": "2026-11-16T18:14:00Z",
-      "valid_until": "2026-11-16T23:00:00Z"
+      "valid_until": "2026-11-16T23:00:00Z",
+      "skip_reason": "stale (valid_until ueberschritten)"
     }
   ]
 }
