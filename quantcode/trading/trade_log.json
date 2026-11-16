@@ -572,16 +572,20 @@
       "take_profit": 361.97,
       "stop_loss": 354.14,
       "signals_at_entry": "EXPERIMENT E1 (4h): Stop 1x ATR14, Ziel 2x ATR. Vorschlag dieser Session am 2026-11-12, von der Nutzerin bestaetigt; ausgefuehrt am 2026-11-12 13:24 UTC ueber die Liquid-App (nicht ueber diese Session; Portfolio/Historie geprueft, keine Doppel-Ausfuehrung). AAPL: EMA20>EMA50, MACD-Hist +0.6, OBV steigend, RSI 70 (Hinterherlaufen-Risiko).",
-      "status": "open",
+      "status": "closed",
       "entry_date": "2026-11-12",
       "size_notional_usd": 1000,
-      "leverage": 2
+      "leverage": 2,
+      "exit_reason": "stop_loss",
+      "exit_price": 353.95,
+      "exit_date": "2026-11-16T14:31 UTC",
+      "pnl_net_usd": -9.48
     }
   ],
   "stats": {
     "note": "8 closed trades: 6 losses (AAPL, BTC, NVDA, XRP, ETH, SOL - the original Day-1 same-direction batch, every single one stopped out, triggering the 5-in-a-row 6h cool-off rule, expired ~2026-09-15 21:00 UTC) plus 2 wins (LLY long, take-profit hit 2026-09-23 at $1,184.40, +6.31%/+$50.42; GOLD short, take-profit hit 2026-09-28 at $4,155.20, +5.4%/+$96.49 net - held since 2026-09-07, the longest-running position in the log). Still not enough sample size for real win-rate/expectancy stats (need 20+ closed), but the trend holds: the Day-1 batch was one correlated risk-on bet wearing 6 different tickers, not 6 independent calls, and it was wrong. The positions opened since with genuine differentiated 3-signal-confluence reasoning (GOLD short -> WIN, AMZN short, LLY long -> WIN, MU long, NVDA long) are either still open and profitable or already closed profitably - real evidence the process works better than broad same-direction batching.",
     "total_trades": 32,
-    "closed_trades": 31,
+    "closed_trades": 32,
     "win_rate": null,
     "avg_r_multiple": null,
     "expectancy": null,
@@ -602,6 +606,7 @@
     "update_2026-11-12": "12.11.: GOLD short TP 3878.10 (netto ca. +$20.77), NVDA short TP 150.53 (netto ca. +$61.10), MSFT short SL 525.42 (netto ca. -$15.17); AAPL long (356.66) weiter offen, ca. -$3. Tagesergebnis netto ca. +$62.6; Equity 10938.71. Letzte drei Closes: 2 Gewinne, 1 Verlust, kein Cool-off.",
     "update_2026-11-13": "13.11.: Keine neuen Trades, keine Closes. AAPL long (356.66) offen, ca. +$1.5. Equity 10943.61 (+$4.90 seit gestern Abend). BTC/ETH 4h formal short-ausgerichtet, aber RSI 25/29 stark ueberverkauft -> nicht vorgeschlagen.",
     "update_2026-11-14": "14.11. (Samstag): Keine neuen Trades, keine Closes. AAPL long (356.66) offen, ca. -$3.4. Equity 10938.48 (-$5.13 seit gestern Abend). BTC 4h formal short, aber RSI ~24 ueberverkauft -> nicht vorgeschlagen.",
-    "update_2026-11-15": "15.11. (Sonntag): Keine neuen Trades, keine Closes. AAPL long (356.66) offen, ca. -$0.9. Equity 10941.23 (+$2.75 seit gestern Abend). Kein Cool-off."
+    "update_2026-11-15": "15.11. (Sonntag): Keine neuen Trades, keine Closes. AAPL long (356.66) offen, ca. -$0.9. Equity 10941.23 (+$2.75 seit gestern Abend). Kein Cool-off.",
+    "update_2026-11-16": "16.11.: AAPL long (356.66) im Stop-Loss geschlossen bei 353.95 (14:31 UTC, US-Open): closedPnl -7.59, netto inkl. Gebuehren ca. -$9.48. Konto flach, Equity 10933.52 (-$7.71 seit gestern Abend). Letzte Closes: Gold TP, NVDA TP, MSFT SL, AAPL SL - kein Cool-off."
   }
 }
