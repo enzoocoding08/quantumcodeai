@@ -2758,12 +2758,15 @@
       "id": "story-lexikon-handelsvolumen",
       "order": 205,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-10/lexikon_handelsvolumen.png"
       ],
       "caption": "",
-      "not_before": "2026-11-17T12:05:00Z"
+      "not_before": "2026-11-17T09:15:00Z",
+      "posted_at": "2026-11-17T09:16:18+00:00",
+      "media_id": "18114487481224589",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4032294392891756587"
     },
     {
       "id": "story-trading-update-2026-11-10",
@@ -3033,12 +3036,15 @@
       "id": "reel-fomo",
       "order": 224,
       "type": "reel",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-12/reel-fomo.mp4"
       ],
       "caption": "FOMO: Warum du nicht jedem Hype hinterherlaufen solltest. Drei Fragen vor jedem Kauf: Warum? Wie viel darf ich verlieren? Wo ist mein Ausstieg?\n\nSpeichern fuer spaeter, teilen mit jemandem, der gerade im Hype steckt.\n\nKein Anlagetipp, reine Bildung. #aktien #boerse #investieren #fomo #finanzbildung #quantcodeai",
-      "not_before": "2026-11-17T09:45:00Z"
+      "not_before": "2026-11-17T09:15:00Z",
+      "posted_at": "2026-11-17T09:17:18+00:00",
+      "media_id": "18137450251662691",
+      "permalink": "https://www.instagram.com/reel/Df1lqGwk9Q9/"
     },
     {
       "id": "reel-rendite-risiko",
