@@ -3288,12 +3288,15 @@
       "id": "story-quiz-hebel-loesung",
       "order": 242,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-14/quiz_hebel_loesung.png"
       ],
       "caption": "",
-      "not_before": "2026-11-17T18:20:00Z"
+      "not_before": "2026-11-17T18:12:00Z",
+      "posted_at": "2026-11-17T18:13:24+00:00",
+      "media_id": "18118280786587810",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4032564732410363675"
     },
     {
       "id": "story-lexikon-diversifikation",
@@ -3605,6 +3608,18 @@
       ],
       "caption": "Wie sehr 1 Prozent Kosten wirken: Beispielrechnung ueber 30 Jahre.\n\n10.000 Euro bei 6 Prozent: ca. 57.400 Euro. Bei 5 Prozent: ca. 43.200 Euro. Unterschied: rund 14.200 Euro (fiktiv, vereinfacht, ohne Steuern).\n\nSpeichern und teilen.\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#kosten #etf #zinseszins #investieren #finanzbildung #geldanlage #quantcodeai",
       "not_before": "2026-11-24T09:45:00Z"
+    },
+    {
+      "id": "story-trading-update-2026-11-17",
+      "order": 268,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-17/quantcode-ai-trading-update-2026-11-17.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-17T18:12:00Z",
+      "valid_until": "2026-11-17T23:00:00Z"
     }
   ]
 }

@@ -607,6 +607,7 @@
     "update_2026-11-13": "13.11.: Keine neuen Trades, keine Closes. AAPL long (356.66) offen, ca. +$1.5. Equity 10943.61 (+$4.90 seit gestern Abend). BTC/ETH 4h formal short-ausgerichtet, aber RSI 25/29 stark ueberverkauft -> nicht vorgeschlagen.",
     "update_2026-11-14": "14.11. (Samstag): Keine neuen Trades, keine Closes. AAPL long (356.66) offen, ca. -$3.4. Equity 10938.48 (-$5.13 seit gestern Abend). BTC 4h formal short, aber RSI ~24 ueberverkauft -> nicht vorgeschlagen.",
     "update_2026-11-15": "15.11. (Sonntag): Keine neuen Trades, keine Closes. AAPL long (356.66) offen, ca. -$0.9. Equity 10941.23 (+$2.75 seit gestern Abend). Kein Cool-off.",
-    "update_2026-11-16": "16.11.: AAPL long (356.66) im Stop-Loss geschlossen bei 353.95 (14:31 UTC, US-Open): closedPnl -7.59, netto inkl. Gebuehren ca. -$9.48. Konto flach, Equity 10933.52 (-$7.71 seit gestern Abend). Letzte Closes: Gold TP, NVDA TP, MSFT SL, AAPL SL - kein Cool-off."
+    "update_2026-11-16": "16.11.: AAPL long (356.66) im Stop-Loss geschlossen bei 353.95 (14:31 UTC, US-Open): closedPnl -7.59, netto inkl. Gebuehren ca. -$9.48. Konto flach, Equity 10933.52 (-$7.71 seit gestern Abend). Letzte Closes: Gold TP, NVDA TP, MSFT SL, AAPL SL - kein Cool-off.",
+    "update_2026-11-17": "17.11.: Keine Trades, Konto flach, Equity 10933.52 (unveraendert). Kein Setup nach E1 (BTC/Gold/NVDA 4h MACD-Hist positiv); vor Nvidia-Zahlen keine neue Position. Kein Cool-off."
   }
 }
