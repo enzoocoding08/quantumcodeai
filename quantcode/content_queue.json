@@ -3274,12 +3274,15 @@
       "id": "story-quiz-hebel-frage",
       "order": 241,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-14/quiz_hebel_frage.png"
       ],
       "caption": "",
-      "not_before": "2026-11-17T15:15:00Z"
+      "not_before": "2026-11-17T15:03:00Z",
+      "posted_at": "2026-11-17T15:04:30+00:00",
+      "media_id": "18115705757131814",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4032469658015740489"
     },
     {
       "id": "story-quiz-hebel-loesung",
