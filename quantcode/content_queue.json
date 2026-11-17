@@ -3496,6 +3496,61 @@
       "caption": "",
       "not_before": "2026-11-17T08:30:00Z",
       "valid_until": "2026-11-17T21:00:00Z"
+    },
+    {
+      "id": "story-lexikon-notgroschen",
+      "order": 260,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-17/lexikon_notgroschen.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-22T12:05:00Z"
+    },
+    {
+      "id": "story-quiz-72-frage",
+      "order": 261,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-17/quiz_72_frage.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-22T15:15:00Z"
+    },
+    {
+      "id": "story-quiz-72-loesung",
+      "order": 262,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-17/quiz_72_loesung.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-22T18:20:00Z"
+    },
+    {
+      "id": "story-lexikon-anlagehorizont",
+      "order": 263,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-17/lexikon_anlagehorizont.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-23T12:05:00Z"
+    },
+    {
+      "id": "story-lexikon-risikotoleranz",
+      "order": 264,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-17/lexikon_risikotoleranz.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-24T12:05:00Z"
     }
   ]
 }
