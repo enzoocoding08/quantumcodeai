@@ -3551,6 +3551,39 @@
       ],
       "caption": "",
       "not_before": "2026-11-24T12:05:00Z"
+    },
+    {
+      "id": "post-mythen",
+      "order": 265,
+      "type": "image",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-17/post_mythen.png"
+      ],
+      "caption": "3 Boersen-Mythen, die dich Geld kosten koennen:\n\n1) Aktien sind wie Gluecksspiel?\n2) Ich brauche viel Geld?\n3) Ich muss den perfekten Einstieg finden?\n\nWas wirklich dahintersteckt, siehst du im Bild.\n\nSpeichern fuer spaeter, teilen mit jemandem, der noch zoegert.\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#mythen #aktien #boerse #investieren #finanzbildung #sparplan #anfaenger #quantcodeai",
+      "not_before": "2026-11-22T09:45:00Z"
+    },
+    {
+      "id": "post-depotcheck",
+      "order": 266,
+      "type": "image",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-17/post_depotcheck.png"
+      ],
+      "caption": "Depot-Check: 4 Fragen, die du dir stellen solltest.\n\nWofuer? Wie breit gestreut? Was kostet es? Bleibst du bei minus 30 Prozent ruhig?\n\nSpeichern und mit jemandem teilen, der sein Depot mal pruefen sollte.\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#depot #investieren #risiko #diversifikation #finanzbildung #boerse #quantcodeai",
+      "not_before": "2026-11-23T09:45:00Z"
+    },
+    {
+      "id": "post-kosten",
+      "order": 267,
+      "type": "image",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-17/post_kosten.png"
+      ],
+      "caption": "Wie sehr 1 Prozent Kosten wirken: Beispielrechnung ueber 30 Jahre.\n\n10.000 Euro bei 6 Prozent: ca. 57.400 Euro. Bei 5 Prozent: ca. 43.200 Euro. Unterschied: rund 14.200 Euro (fiktiv, vereinfacht, ohne Steuern).\n\nSpeichern und teilen.\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#kosten #etf #zinseszins #investieren #finanzbildung #geldanlage #quantcodeai",
+      "not_before": "2026-11-24T09:45:00Z"
     }
   ]
 }
