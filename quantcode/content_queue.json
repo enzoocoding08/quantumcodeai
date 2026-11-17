@@ -3453,49 +3453,61 @@
       "id": "story-wmt-2026-11-17",
       "order": 256,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-17/wmt_2026-11-17.png"
       ],
       "caption": "",
       "not_before": "2026-11-17T07:14:00Z",
-      "valid_until": "2026-11-17T21:00:00Z"
+      "valid_until": "2026-11-17T21:00:00Z",
+      "posted_at": "2026-11-17T07:14:46+00:00",
+      "media_id": "18101636459421978",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4032233235484576697"
     },
     {
       "id": "story-hd-2026-11-17",
       "order": 257,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-17/hd_2026-11-17.png"
       ],
       "caption": "",
       "not_before": "2026-11-17T07:14:00Z",
-      "valid_until": "2026-11-17T21:00:00Z"
+      "valid_until": "2026-11-17T21:00:00Z",
+      "posted_at": "2026-11-17T07:14:57+00:00",
+      "media_id": "18115505639180368",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4032233322935896499"
     },
     {
       "id": "story-mcd-2026-11-17",
       "order": 258,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-17/mcd_2026-11-17.png"
       ],
       "caption": "",
       "not_before": "2026-11-17T07:14:00Z",
-      "valid_until": "2026-11-17T21:00:00Z"
+      "valid_until": "2026-11-17T21:00:00Z",
+      "posted_at": "2026-11-17T07:15:32+00:00",
+      "media_id": "18152059180571365",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4032233607519386524"
     },
     {
       "id": "story-nke-2026-11-17",
       "order": 259,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-17/nke_2026-11-17.png"
       ],
       "caption": "",
       "not_before": "2026-11-17T07:14:00Z",
-      "valid_until": "2026-11-17T21:00:00Z"
+      "valid_until": "2026-11-17T21:00:00Z",
+      "posted_at": "2026-11-17T07:15:42+00:00",
+      "media_id": "18176695018456970",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4032233706622376020"
     },
     {
       "id": "story-lexikon-notgroschen",
