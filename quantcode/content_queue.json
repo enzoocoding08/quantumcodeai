@@ -3695,6 +3695,72 @@
       "posted_at": "2026-11-18T07:21:02+00:00",
       "media_id": "18083365178732712",
       "permalink": "https://www.instagram.com/stories/quantcode_ai/4032961173838177638"
+    },
+    {
+      "id": "post-etf",
+      "order": 273,
+      "type": "image",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-18/post_etf.png"
+      ],
+      "caption": "Was ist eigentlich ein ETF? Ein Korb mit vielen Aktien, an der Boerse handelbar, breit gestreut und meist mit niedrigen Kosten - Verluste sind trotzdem moeglich.\n\nSpeichern und teilen.\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#etf #investieren #finanzbildung #boerse #anfaenger #quantcodeai",
+      "not_before": "2026-11-24T09:45:00Z"
+    },
+    {
+      "id": "post-begriffe",
+      "order": 274,
+      "type": "image",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-18/post_begriffe.png"
+      ],
+      "caption": "6 Boersen-Begriffe in einem Satz: Depot, Order, Dividende, KGV, Volatilitaet und Spread.\n\nSpeichern und teilen.\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#boerse #lexikon #finanzbildung #investieren #anfaenger #quantcodeai",
+      "not_before": "2026-11-25T09:45:00Z"
+    },
+    {
+      "id": "post-karten",
+      "order": 275,
+      "type": "image",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-18/post_karten.png"
+      ],
+      "caption": "So liest du unsere Karten: Kurs, Hoch, Tief und Volumen. Alles Daten der Vergangenheit - keine Prognose, keine Empfehlung.\n\nSpeichern und teilen.\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#aktien #boerse #finanzbildung #kennzahlen #quantcodeai",
+      "not_before": "2026-11-26T09:45:00Z"
+    },
+    {
+      "id": "story-lexikon-broker",
+      "order": 276,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-18/lexikon_broker.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-23T12:05:00Z"
+    },
+    {
+      "id": "story-lexikon-depot",
+      "order": 277,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-18/lexikon_depot.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-24T12:05:00Z"
+    },
+    {
+      "id": "story-lexikon-ausgabeaufschlag",
+      "order": 278,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-18/lexikon_ausgabeaufschlag.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-25T12:05:00Z"
     }
   ]
 }
