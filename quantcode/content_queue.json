@@ -3336,12 +3336,15 @@
       "id": "story-lexikon-crv",
       "order": 245,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-14/lexikon_crv.png"
       ],
       "caption": "",
-      "not_before": "2026-11-20T12:05:00Z"
+      "not_before": "2026-11-18T23:21:00Z",
+      "posted_at": "2026-11-18T23:22:38+00:00",
+      "media_id": "17891831481477778",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4033445105242848862"
     },
     {
       "id": "story-dis-2026-11-15",
@@ -3537,12 +3540,15 @@
       "id": "story-lexikon-notgroschen",
       "order": 260,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-17/lexikon_notgroschen.png"
       ],
       "caption": "",
-      "not_before": "2026-11-22T12:05:00Z"
+      "not_before": "2026-11-18T23:21:00Z",
+      "posted_at": "2026-11-18T23:22:50+00:00",
+      "media_id": "17880762813633634",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4033445246155424494"
     },
     {
       "id": "story-quiz-72-frage",
