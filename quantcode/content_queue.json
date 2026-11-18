@@ -3766,13 +3766,16 @@
       "id": "story-trading-update-2026-11-18",
       "order": 279,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-18/quantcode-ai-trading-update-2026-11-18.png"
       ],
       "caption": "",
       "not_before": "2026-11-18T18:12:00Z",
-      "valid_until": "2026-11-18T23:00:00Z"
+      "valid_until": "2026-11-18T23:00:00Z",
+      "posted_at": "2026-11-18T18:18:47+00:00",
+      "media_id": "17970570930078470",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4033292213081747197"
     }
   ]
 }
