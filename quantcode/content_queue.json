@@ -3183,12 +3183,15 @@
       "id": "reel-dividende",
       "order": 234,
       "type": "reel",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-13/reel-dividende.mp4"
       ],
       "caption": "Dividende einfach erklaert: Was sie ist, wie sie ausgezahlt wird und warum der Kurs danach oft faellt. Eine hohe Dividende ist nicht automatisch ein Qualitaetsmerkmal.\n\nSpeichern und teilen.\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel. #dividende #aktien #boerse #finanzbildung #investieren #quantcodeai",
-      "not_before": "2026-11-19T09:45:00Z"
+      "not_before": "2026-11-19T09:45:00Z",
+      "posted_at": "2026-11-19T10:45:18+00:00",
+      "media_id": "17912179356599711",
+      "permalink": "https://www.instagram.com/reel/Df65VMSE670/"
     },
     {
       "id": "reel-sparplan",
