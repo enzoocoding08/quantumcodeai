@@ -3197,12 +3197,15 @@
       "id": "reel-sparplan",
       "order": 235,
       "type": "reel",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-13/reel-sparplan.mp4"
       ],
       "caption": "Sparplan und Cost-Average-Effekt: Jeden Monat der gleiche Betrag, egal wie der Kurs steht. Hilft gegen Bauchentscheidungen, schuetzt aber nicht vor Verlusten.\n\nSpeichern und teilen.\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel. #sparplan #etf #aktien #finanzbildung #investieren #quantcodeai",
-      "not_before": "2026-11-20T09:45:00Z"
+      "not_before": "2026-11-20T09:45:00Z",
+      "posted_at": "2026-11-20T10:45:01+00:00",
+      "media_id": "17979855666154315",
+      "permalink": "https://www.instagram.com/reel/Df9eGKSgNJK/"
     },
     {
       "id": "story-meta-2026-11-14",
