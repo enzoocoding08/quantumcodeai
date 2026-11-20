@@ -4016,12 +4016,15 @@
       "id": "story-lexikon-spread",
       "order": 297,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-20/lexikon_spread.png"
       ],
       "caption": "",
-      "not_before": "2026-11-20T12:05:00Z"
+      "not_before": "2026-11-20T12:05:00Z",
+      "posted_at": "2026-11-20T13:44:03+00:00",
+      "media_id": "17946469062369223",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4034603486554471961"
     }
   ]
 }
