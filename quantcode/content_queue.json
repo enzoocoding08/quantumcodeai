@@ -3953,49 +3953,61 @@
       "id": "story-ticker-amzn-2026-11-20",
       "order": 293,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-20/amzn_2026-11-20.png"
       ],
       "caption": "",
       "not_before": "2026-11-20T07:15:00Z",
-      "valid_until": "2026-11-20T21:00:00Z"
+      "valid_until": "2026-11-20T21:00:00Z",
+      "posted_at": "2026-11-20T07:18:59+00:00",
+      "media_id": "18024301184930261",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4034409671356138762"
     },
     {
       "id": "story-ticker-meta-2026-11-20",
       "order": 294,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-20/meta_2026-11-20.png"
       ],
       "caption": "",
       "not_before": "2026-11-20T07:15:00Z",
-      "valid_until": "2026-11-20T21:00:00Z"
+      "valid_until": "2026-11-20T21:00:00Z",
+      "posted_at": "2026-11-20T07:19:10+00:00",
+      "media_id": "17972825271007974",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4034409770501582197"
     },
     {
       "id": "story-ticker-tsla-2026-11-20",
       "order": 295,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-20/tsla_2026-11-20.png"
       ],
       "caption": "",
       "not_before": "2026-11-20T07:15:00Z",
-      "valid_until": "2026-11-20T21:00:00Z"
+      "valid_until": "2026-11-20T21:00:00Z",
+      "posted_at": "2026-11-20T07:19:21+00:00",
+      "media_id": "18078394391472263",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4034409865686721334"
     },
     {
       "id": "story-ticker-adbe-2026-11-20",
       "order": 296,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-20/adbe_2026-11-20.png"
       ],
       "caption": "",
       "not_before": "2026-11-20T07:15:00Z",
-      "valid_until": "2026-11-20T21:00:00Z"
+      "valid_until": "2026-11-20T21:00:00Z",
+      "posted_at": "2026-11-20T07:19:31+00:00",
+      "media_id": "18033507095916646",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4034409954765288505"
     },
     {
       "id": "story-lexikon-spread",
