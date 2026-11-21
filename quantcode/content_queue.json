@@ -4108,12 +4108,15 @@
       "id": "story-lexikon-quartalszahlen",
       "order": 303,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-21/lexikon_quartalszahlen.png"
       ],
       "caption": "",
-      "not_before": "2026-11-21T12:05:00Z"
+      "not_before": "2026-11-21T12:05:00Z",
+      "posted_at": "2026-11-21T13:43:40+00:00",
+      "media_id": "18131821751314011",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4035328072542985488"
     }
   ]
 }
