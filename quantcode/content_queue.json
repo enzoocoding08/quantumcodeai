@@ -4236,23 +4236,29 @@
       "id": "reel-ki-verlust-plus100",
       "order": 314,
       "type": "reel",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/reels-ki-2026-11-21/ki-reel-A-verlust-plus100.mp4"
       ],
       "caption": "Eine Aktie verliert 50%. Wie viel Plus braucht sie, um wieder bei null zu sein? Die meisten sagen 50%. Falsch. Das Beispiel (erfundene Zahlen) im Reel.\n\nSpeichern und an jemanden schicken, der gerade startet.\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#aktien #boerse #investieren #finanzbildung #verlust #anfaenger #quantcodeai",
-      "not_before": "2026-11-21T20:23:00Z"
+      "not_before": "2026-11-21T20:23:00Z",
+      "posted_at": "2026-11-21T20:26:23+00:00",
+      "media_id": "18378973252214706",
+      "permalink": "https://www.instagram.com/reel/DgBFa4jE5i5/"
     },
     {
       "id": "reel-ki-kerzenchart",
       "order": 315,
       "type": "reel",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/reels-ki-2026-11-21/ki-reel-B-kerzenchart.mp4"
       ],
       "caption": "Kerzenchart in 34 Sekunden: Koerper, Dochte, Hoch, Tief, gruen oder rot. Der Beispielchart ist erfunden.\n\nSpeichern und an jemanden schicken, der gerade startet.\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#candlestick #chartanalyse #boerse #aktien #finanzbildung #anfaenger #quantcodeai",
-      "not_before": "2026-11-21T20:23:00Z"
+      "not_before": "2026-11-21T20:23:00Z",
+      "posted_at": "2026-11-21T20:27:45+00:00",
+      "media_id": "18074377412770246",
+      "permalink": "https://www.instagram.com/reel/DgBFlJyDZ21/"
     }
   ]
 }
