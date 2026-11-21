@@ -4045,49 +4045,61 @@
       "id": "story-ticker-nflx-2026-11-21",
       "order": 299,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-21/nflx_2026-11-21.png"
       ],
       "caption": "",
       "not_before": "2026-11-21T07:15:00Z",
-      "valid_until": "2026-11-21T21:00:00Z"
+      "valid_until": "2026-11-21T21:00:00Z",
+      "posted_at": "2026-11-21T07:18:39+00:00",
+      "media_id": "18150214348568917",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4035134288408204448"
     },
     {
       "id": "story-ticker-dis-2026-11-21",
       "order": 300,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-21/dis_2026-11-21.png"
       ],
       "caption": "",
       "not_before": "2026-11-21T07:15:00Z",
-      "valid_until": "2026-11-21T21:00:00Z"
+      "valid_until": "2026-11-21T21:00:00Z",
+      "posted_at": "2026-11-21T07:18:50+00:00",
+      "media_id": "18147493939610325",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4035134378577686351"
     },
     {
       "id": "story-ticker-crm-2026-11-21",
       "order": 301,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-21/crm_2026-11-21.png"
       ],
       "caption": "",
       "not_before": "2026-11-21T07:15:00Z",
-      "valid_until": "2026-11-21T21:00:00Z"
+      "valid_until": "2026-11-21T21:00:00Z",
+      "posted_at": "2026-11-21T07:19:26+00:00",
+      "media_id": "17968513652982863",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4035134679636319670"
     },
     {
       "id": "story-ticker-lly-2026-11-21",
       "order": 302,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-21/lly_2026-11-21.png"
       ],
       "caption": "",
       "not_before": "2026-11-21T07:15:00Z",
-      "valid_until": "2026-11-21T21:00:00Z"
+      "valid_until": "2026-11-21T21:00:00Z",
+      "posted_at": "2026-11-21T07:19:36+00:00",
+      "media_id": "18134585161806431",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4035134769025433301"
     },
     {
       "id": "story-lexikon-quartalszahlen",
