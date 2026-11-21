@@ -4040,6 +4040,65 @@
       "posted_at": "2026-11-20T18:17:03+00:00",
       "media_id": "17953335501344493",
       "permalink": "https://www.instagram.com/stories/quantcode_ai/4034740872063621840"
+    },
+    {
+      "id": "story-ticker-nflx-2026-11-21",
+      "order": 299,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-21/nflx_2026-11-21.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-21T07:15:00Z",
+      "valid_until": "2026-11-21T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-dis-2026-11-21",
+      "order": 300,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-21/dis_2026-11-21.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-21T07:15:00Z",
+      "valid_until": "2026-11-21T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-crm-2026-11-21",
+      "order": 301,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-21/crm_2026-11-21.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-21T07:15:00Z",
+      "valid_until": "2026-11-21T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-lly-2026-11-21",
+      "order": 302,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-21/lly_2026-11-21.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-21T07:15:00Z",
+      "valid_until": "2026-11-21T21:00:00Z"
+    },
+    {
+      "id": "story-lexikon-quartalszahlen",
+      "order": 303,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-21/lexikon_quartalszahlen.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-21T12:05:00Z"
     }
   ]
 }
