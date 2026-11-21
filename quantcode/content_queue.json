@@ -4117,6 +4117,105 @@
       "posted_at": "2026-11-21T13:43:40+00:00",
       "media_id": "18131821751314011",
       "permalink": "https://www.instagram.com/stories/quantcode_ai/4035328072542985488"
+    },
+    {
+      "id": "post-fehler",
+      "order": 304,
+      "type": "image",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-22/post_fehler.png"
+      ],
+      "caption": "5 Fehler, die Einsteiger oft machen - und wie du sie vermeidest.\n\nSpeichern fuer spaeter, teilen mit jemandem, der gerade startet.\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#anfaengerfehler #aktien #boerse #investieren #finanzbildung #sparplan #quantcodeai",
+      "not_before": "2026-11-30T09:45:00Z"
+    },
+    {
+      "id": "post-kerzen",
+      "order": 305,
+      "type": "image",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-22/post_kerzen.png"
+      ],
+      "caption": "So liest du eine Kerze im Chart: Koerper, Farbe, Dochte und Zeitraum.\n\nSpeichern fuer spaeter, teilen mit jemandem, der gerade startet.\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#candlestick #chartanalyse #boerse #aktien #finanzbildung #anfaenger #quantcodeai",
+      "not_before": "2026-12-01T09:45:00Z"
+    },
+    {
+      "id": "post-checkliste",
+      "order": 306,
+      "type": "image",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-22/post_checkliste.png"
+      ],
+      "caption": "5 Fragen, die du dir vor dem ersten Kauf stellen solltest.\n\nSpeichern fuer spaeter, teilen mit jemandem, der gerade startet.\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#checkliste #investieren #aktien #etf #finanzbildung #anfaenger #quantcodeai",
+      "not_before": "2026-12-02T09:45:00Z"
+    },
+    {
+      "id": "post-unterschied",
+      "order": 307,
+      "type": "image",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-22/post_unterschied.png"
+      ],
+      "caption": "Aktie, ETF, Anleihe, Fonds: Was ist eigentlich der Unterschied?\n\nSpeichern fuer spaeter, teilen mit jemandem, der gerade startet.\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#etf #aktien #anleihe #fonds #finanzbildung #boerse #quantcodeai",
+      "not_before": "2026-12-03T09:45:00Z"
+    },
+    {
+      "id": "story-lexikon-inflation",
+      "order": 308,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-22/lex_inflation.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-30T12:05:00Z"
+    },
+    {
+      "id": "story-lexikon-durchschnittskosteneffekt",
+      "order": 309,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-22/lex_durchschnitt.png"
+      ],
+      "caption": "",
+      "not_before": "2026-12-01T12:05:00Z"
+    },
+    {
+      "id": "story-lexikon-rezession",
+      "order": 310,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-22/lex_rezession.png"
+      ],
+      "caption": "",
+      "not_before": "2026-12-02T12:05:00Z"
+    },
+    {
+      "id": "story-quiz-verlust-frage",
+      "order": 311,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-22/quiz_verlust_frage.png"
+      ],
+      "caption": "",
+      "not_before": "2026-12-03T15:15:00Z"
+    },
+    {
+      "id": "story-quiz-verlust-loesung",
+      "order": 312,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-22/quiz_verlust_loesung.png"
+      ],
+      "caption": "",
+      "not_before": "2026-12-03T18:20:00Z"
     }
   ]
 }
