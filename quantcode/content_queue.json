@@ -3604,12 +3604,15 @@
       "id": "post-mythen",
       "order": 265,
       "type": "image",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-17/post_mythen.png"
       ],
       "caption": "3 Boersen-Mythen, die dich Geld kosten koennen:\n\n1) Aktien sind wie Gluecksspiel?\n2) Ich brauche viel Geld?\n3) Ich muss den perfekten Einstieg finden?\n\nWas wirklich dahintersteckt, siehst du im Bild.\n\nSpeichern fuer spaeter, teilen mit jemandem, der noch zoegert.\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#mythen #aktien #boerse #investieren #finanzbildung #sparplan #anfaenger #quantcodeai",
-      "not_before": "2026-11-21T09:45:00Z"
+      "not_before": "2026-11-21T09:45:00Z",
+      "posted_at": "2026-11-21T10:44:16+00:00",
+      "media_id": "17962181229279145",
+      "permalink": "https://www.instagram.com/p/DgAC2EzlbFK/"
     },
     {
       "id": "post-depotcheck",
