@@ -3618,12 +3618,15 @@
       "id": "post-depotcheck",
       "order": 266,
       "type": "image",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-17/post_depotcheck.png"
       ],
       "caption": "Depot-Check: 4 Fragen, die du dir stellen solltest.\n\nWofuer? Wie breit gestreut? Was kostet es? Bleibst du bei minus 30 Prozent ruhig?\n\nSpeichern und mit jemandem teilen, der sein Depot mal pruefen sollte.\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#depot #investieren #risiko #diversifikation #finanzbildung #boerse #quantcodeai",
-      "not_before": "2026-11-22T09:45:00Z"
+      "not_before": "2026-11-22T09:45:00Z",
+      "posted_at": "2026-11-22T10:43:59+00:00",
+      "media_id": "18020407175745788",
+      "permalink": "https://www.instagram.com/p/DgCnmmWnJro/"
     },
     {
       "id": "post-kosten",
