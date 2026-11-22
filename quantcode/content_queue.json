@@ -3560,12 +3560,15 @@
       "id": "story-quiz-72-frage",
       "order": 261,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-17/quiz_72_frage.png"
       ],
       "caption": "",
-      "not_before": "2026-11-22T15:15:00Z"
+      "not_before": "2026-11-22T15:15:00Z",
+      "posted_at": "2026-11-22T15:16:12+00:00",
+      "media_id": "18436175791150523",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4036099409477795655"
     },
     {
       "id": "story-quiz-72-loesung",
