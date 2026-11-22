@@ -4264,49 +4264,61 @@
       "id": "story-ticker-jnj-2026-11-22",
       "order": 316,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-22/jnj_2026-11-22.png"
       ],
       "caption": "",
       "not_before": "2026-11-22T07:15:00Z",
-      "valid_until": "2026-11-22T21:00:00Z"
+      "valid_until": "2026-11-22T21:00:00Z",
+      "posted_at": "2026-11-22T07:17:42+00:00",
+      "media_id": "18114792602138141",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4035858584931745065"
     },
     {
       "id": "story-ticker-unh-2026-11-22",
       "order": 317,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-22/unh_2026-11-22.png"
       ],
       "caption": "",
       "not_before": "2026-11-22T07:15:00Z",
-      "valid_until": "2026-11-22T21:00:00Z"
+      "valid_until": "2026-11-22T21:00:00Z",
+      "posted_at": "2026-11-22T07:18:17+00:00",
+      "media_id": "18121132708779939",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4035858878071639992"
     },
     {
       "id": "story-ticker-jpm-2026-11-22",
       "order": 318,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-22/jpm_2026-11-22.png"
       ],
       "caption": "",
       "not_before": "2026-11-22T07:15:00Z",
-      "valid_until": "2026-11-22T21:00:00Z"
+      "valid_until": "2026-11-22T21:00:00Z",
+      "posted_at": "2026-11-22T07:18:27+00:00",
+      "media_id": "17958496137271352",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4035858965758048489"
     },
     {
       "id": "story-ticker-v-2026-11-22",
       "order": 319,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-22/v_2026-11-22.png"
       ],
       "caption": "",
       "not_before": "2026-11-22T07:15:00Z",
-      "valid_until": "2026-11-22T21:00:00Z"
+      "valid_until": "2026-11-22T21:00:00Z",
+      "posted_at": "2026-11-22T07:18:37+00:00",
+      "media_id": "18130264612659942",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4035859050298884765"
     },
     {
       "id": "story-lexikon-bruchstueck",
