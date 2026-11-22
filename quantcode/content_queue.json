@@ -3574,12 +3574,15 @@
       "id": "story-quiz-72-loesung",
       "order": 262,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-17/quiz_72_loesung.png"
       ],
       "caption": "",
-      "not_before": "2026-11-22T18:15:00Z"
+      "not_before": "2026-11-22T18:15:00Z",
+      "posted_at": "2026-11-22T18:16:15+00:00",
+      "media_id": "17908106166354063",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4036190048010147018"
     },
     {
       "id": "story-lexikon-anlagehorizont",
@@ -4344,13 +4347,16 @@
       "id": "story-trading-update-2026-11-22",
       "order": 321,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-22/quantcode-ai-trading-update-2026-11-22.png"
       ],
       "caption": "",
       "not_before": "2026-11-22T18:14:00Z",
-      "valid_until": "2026-11-22T23:00:00Z"
+      "valid_until": "2026-11-22T23:00:00Z",
+      "posted_at": "2026-11-22T18:16:05+00:00",
+      "media_id": "18137912131676074",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4036189946985742319"
     }
   ]
 }
