@@ -4441,7 +4441,18 @@
         "docs/content/queue/staged-2026-11-23/lexikon_waehrung.png"
       ],
       "caption": "",
-      "not_before": "2026-11-23T15:15:00Z"
+      "not_before": "2026-11-23T10:33:00Z"
+    },
+    {
+      "id": "reel-ki-inflation",
+      "order": 328,
+      "type": "reel",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/reels-ki-2026-11-23/ki-reel-C-inflation.mp4"
+      ],
+      "caption": "Zehntausend Euro auf dem Konto, null Prozent Zinsen – was sind sie in zehn Jahren noch wert? 💸\nBeispielrechnung (fiktiv): Bei 3 Prozent Inflation sinkt die Kaufkraft nach 10 Jahren auf rund 7.400 €, nach 20 Jahren auf rund 5.500 €, nach 30 Jahren auf rund 4.100 €.\nDie Zahl auf dem Konto bleibt gleich, aber du kannst dir weniger dafür kaufen. Darum zählt die Rendite nach Inflation.\n💾 Speichern · 📩 Schick es jemandem mit einem Sparbuch.\nBeispielrechnung, kein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n#inflation #kaufkraft #sparbuch #investieren #finanzbildung #zinseszins #geldanlage #quantcodeai",
+      "not_before": "2026-11-23T10:33:00Z"
     }
   ]
 }

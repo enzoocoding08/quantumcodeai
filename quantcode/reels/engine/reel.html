@@ -207,6 +207,60 @@ SC.B4=(r)=>{
 };
 SC.B5=cta('BEISPIELCHART · ERFUNDENE DATEN');
 
+
+/* ================= REEL C : Inflation ================= */
+SC.C1=(r)=>{
+  const lab=abs(r,'left:0;width:1080px;top:310px;text-align:center;font:500 36px "JetBrains Mono";letter-spacing:7px;color:#9aa4af','KONTOSTAND');
+  const big=abs(r,'left:0;width:1080px;top:400px;text-align:center;font:700 190px/1 "Space Grotesk";color:#fff;opacity:0','10.000 €');
+  const pill=abs(r,'left:0;width:1080px;top:690px;text-align:center;opacity:0','<span style="display:inline-block;background:#12161b;border:2px solid #14b8a655;border-radius:999px;padding:16px 44px;font:700 52px \'Space Grotesk\';color:#14b8a6">0 % Zinsen</span>');
+  const q=abs(r,'left:0;width:1080px;top:830px;text-align:center;font:700 120px/1.05 "Space Grotesk";color:#f87171;opacity:0;text-shadow:0 0 50px rgba(248,113,113,.45)','in 10 Jahren?');
+  return (lt)=>{
+    fade(lab,P(lt,.05,.4),16);
+    const k=P(lt,.1,.6);big.style.opacity=clamp(k*5);big.style.transform='scale('+lerp(.6,1,eb(k))+')';
+    pop(pill,P(lt,1.8,2.3));
+    const x=P(lt,3.9,4.4);q.style.opacity=clamp(x*5);q.style.transform='scale('+lerp(.7,1,eb(x))+')translateY('+Math.sin(lt*5)*4+'px)';
+  };
+};
+SC.C2=(r)=>{
+  const tag=abs(r,'left:0;width:1080px;top:290px;text-align:center;font:500 28px "JetBrains Mono";letter-spacing:5px;color:#9aa4af','BEISPIEL · 3 % INFLATION · ERFUNDEN');
+  const base=1200,sc=.076;
+  const out=abs(r,'left:200px;top:'+(base-10000*sc)+'px;width:320px;height:'+(10000*sc)+'px;border:3px dashed #3b4450;border-radius:20px;opacity:0');
+  const bar=abs(r,'left:200px;width:320px;border-radius:20px;background:#14b8a6');
+  const val=abs(r,'left:120px;width:480px;text-align:center;font:700 70px "Space Grotesk";color:#fff','10.000 €');
+  const res=abs(r,'left:590px;top:560px;width:470px;font:700 112px/1 "Space Grotesk";color:#f87171;opacity:0;text-shadow:0 0 40px rgba(248,113,113,.5)','−26 %');
+  const rl=abs(r,'left:590px;top:700px;width:470px;font:500 30px/1.3 "JetBrains Mono";letter-spacing:2px;color:#9aa4af;opacity:0','KAUFKRAFT<br>NACH 10 JAHREN');
+  return (lt)=>{
+    fade(tag,P(lt,.05,.4),16);out.style.opacity=P(lt,.1,.5);
+    const d=ei(P(lt,2.3,4.6));const v=lerp(10000,7441,d);
+    const h=v*sc;bar.style.top=(base-h)+'px';bar.style.height=h+'px';bar.style.background=mix('#14b8a6','#f87171',d);
+    val.style.top=(base-h-96)+'px';val.textContent=Math.round(v).toLocaleString('de-DE')+' €';val.style.color=mix('#ffffff','#f87171',d);
+    pop(res,P(lt,4.7,5.2));rl.style.opacity=P(lt,5.0,5.4);
+  };
+};
+SC.C3=(r)=>{
+  const tag=abs(r,'left:0;width:1080px;top:290px;text-align:center;font:500 28px "JetBrains Mono";letter-spacing:5px;color:#9aa4af','KAUFKRAFT VON 10.000 € (BEISPIEL)');
+  const base=1180,sc=.076,xs=[110,410,710],vals=[7441,5537,4120],labs=['10 J','20 J','30 J'],cols=['#fb923c','#f87171','#ef4444'];
+  const ts=[.0,.35,3.1];
+  const bars=xs.map((x,i)=>{const b=abs(r,'left:'+x+'px;width:260px;border-radius:18px;background:'+cols[i]);const v=abs(r,'left:'+(x-30)+'px;width:320px;text-align:center;font:700 56px "Space Grotesk";color:#fff',Math.round(vals[i]).toLocaleString('de-DE')+' €');const l=abs(r,'left:'+x+'px;width:260px;top:'+(base+14)+'px;text-align:center;font:500 34px "JetBrains Mono";letter-spacing:3px;color:#9aa4af',labs[i]);return {b,v,l}});
+  return (lt)=>{
+    fade(tag,P(lt,.05,.4),16);
+    bars.forEach((o,i)=>{const k=ei(P(lt,ts[i]+.1,ts[i]+.8));const h=vals[i]*sc*k;o.b.style.top=(base-h)+'px';o.b.style.height=h+'px';o.v.style.top=(base-h-84)+'px';o.v.style.opacity=clamp(k*3);o.l.style.opacity=P(lt,ts[i]+.1,ts[i]+.5);o.b.style.opacity=clamp(k*4)});
+  };
+};
+SC.C4=(r)=>{
+  const hd=abs(r,'left:0;width:1080px;top:290px;text-align:center;font:500 30px "JetBrains Mono";letter-spacing:5px;color:#9aa4af','ZAHL VS. KAUFKRAFT');
+  const c1=card(r,'left:84px;top:380px;width:912px;height:250px;padding:34px 50px;border-color:#1f4a3d;background:#0e1f1a;opacity:0','<div class="mono" style="font-size:26px;letter-spacing:4px;color:#9aa4af">AUF DEM KONTO</div><div style="font-size:68px;font-weight:700;color:#14b8a6;line-height:1.1;white-space:nowrap">10.000 € bleibt 10.000 €</div>');
+  const c2=card(r,'left:84px;top:680px;width:912px;height:250px;padding:34px 50px;border-color:#5a2424;background:#1b0e0e;opacity:0','<div class="mono" style="font-size:26px;letter-spacing:4px;color:#9aa4af">IM EINKAUFSWAGEN</div><div style="font-size:68px;font-weight:700;color:#f87171;line-height:1.1;white-space:nowrap">Du bekommst weniger dafür</div>');
+  const fin=abs(r,'left:60px;width:960px;top:990px;text-align:center;font:700 60px/1.15 "Space Grotesk";color:#fff;opacity:0','Entscheidend ist die <span style="color:#14b8a6">Rendite nach Inflation</span>');
+  return (lt)=>{
+    fade(hd,P(lt,.05,.4),16);
+    const a=P(lt,.4,.9);c1.style.opacity=clamp(a*4);c1.style.transform='translateX('+((1-eo(a))*120)+'px)';
+    const b=P(lt,2.1,2.6);c2.style.opacity=clamp(b*4);c2.style.transform='translateX('+((1-eo(b))*120)+'px)';
+    fade(fin,P(lt,4.3,4.8),24);
+  };
+};
+SC.C5=cta('BEISPIEL MIT 3 % INFLATION · FIKTIV');
+
 /* ================= engine ================= */
 let CFG,scenes=[],CHUNKS=[],hudSegs=[];
 window.init=(cfg)=>{
