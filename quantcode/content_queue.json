@@ -3588,12 +3588,15 @@
       "id": "story-lexikon-anlagehorizont",
       "order": 263,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-17/lexikon_anlagehorizont.png"
       ],
       "caption": "",
-      "not_before": "2026-11-23T12:05:00Z"
+      "not_before": "2026-11-23T12:05:00Z",
+      "posted_at": "2026-11-23T15:04:55+00:00",
+      "media_id": "18353355265251467",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4036818518713324363"
     },
     {
       "id": "story-lexikon-risikotoleranz",
@@ -3760,12 +3763,15 @@
       "id": "story-lexikon-broker",
       "order": 276,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-18/lexikon_broker.png"
       ],
       "caption": "",
-      "not_before": "2026-11-23T12:05:00Z"
+      "not_before": "2026-11-23T12:05:00Z",
+      "posted_at": "2026-11-23T15:05:07+00:00",
+      "media_id": "18020136710975946",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4036818613840163539"
     },
     {
       "id": "story-lexikon-depot",
