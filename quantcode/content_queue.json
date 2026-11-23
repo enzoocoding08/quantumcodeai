@@ -3638,12 +3638,15 @@
       "id": "post-kosten",
       "order": 267,
       "type": "image",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-17/post_kosten.png"
       ],
       "caption": "Wie sehr 1 Prozent Kosten wirken: Beispielrechnung ueber 30 Jahre.\n\n10.000 Euro bei 6 Prozent: ca. 57.400 Euro. Bei 5 Prozent: ca. 43.200 Euro. Unterschied: rund 14.200 Euro (fiktiv, vereinfacht, ohne Steuern).\n\nSpeichern und teilen.\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#kosten #etf #zinseszins #investieren #finanzbildung #geldanlage #quantcodeai",
-      "not_before": "2026-11-23T09:45:00Z"
+      "not_before": "2026-11-23T09:45:00Z",
+      "posted_at": "2026-11-23T10:37:45+00:00",
+      "media_id": "18080805491751498",
+      "permalink": "https://www.instagram.com/p/DgFLr5Am4VR/"
     },
     {
       "id": "story-trading-update-2026-11-17",
@@ -4436,12 +4439,15 @@
       "id": "story-lexikon-waehrungsrisiko",
       "order": 327,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-23/lexikon_waehrung.png"
       ],
       "caption": "",
-      "not_before": "2026-11-23T10:33:00Z"
+      "not_before": "2026-11-23T10:33:00Z",
+      "posted_at": "2026-11-23T10:37:56+00:00",
+      "media_id": "18202288465388192",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4036684135326420664"
     },
     {
       "id": "reel-ki-inflation",
