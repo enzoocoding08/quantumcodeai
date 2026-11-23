@@ -4376,49 +4376,61 @@
       "id": "story-ticker-ma-2026-11-23",
       "order": 323,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-23/ma_2026-11-23.png"
       ],
       "caption": "",
       "not_before": "2026-11-23T07:20:00Z",
-      "valid_until": "2026-11-23T21:00:00Z"
+      "valid_until": "2026-11-23T21:00:00Z",
+      "posted_at": "2026-11-23T07:20:50+00:00",
+      "media_id": "17892947175469312",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4036584934777124594"
     },
     {
       "id": "story-ticker-wmt-2026-11-23",
       "order": 324,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-23/wmt_2026-11-23.png"
       ],
       "caption": "",
       "not_before": "2026-11-23T07:20:00Z",
-      "valid_until": "2026-11-23T21:00:00Z"
+      "valid_until": "2026-11-23T21:00:00Z",
+      "posted_at": "2026-11-23T07:21:00+00:00",
+      "media_id": "18150377497605622",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4036585026389565939"
     },
     {
       "id": "story-ticker-hd-2026-11-23",
       "order": 325,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-23/hd_2026-11-23.png"
       ],
       "caption": "",
       "not_before": "2026-11-23T07:20:00Z",
-      "valid_until": "2026-11-23T21:00:00Z"
+      "valid_until": "2026-11-23T21:00:00Z",
+      "posted_at": "2026-11-23T07:21:11+00:00",
+      "media_id": "18102560498427262",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4036585111643029362"
     },
     {
       "id": "story-ticker-mcd-2026-11-23",
       "order": 326,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-23/mcd_2026-11-23.png"
       ],
       "caption": "",
       "not_before": "2026-11-23T07:20:00Z",
-      "valid_until": "2026-11-23T21:00:00Z"
+      "valid_until": "2026-11-23T21:00:00Z",
+      "posted_at": "2026-11-23T07:21:23+00:00",
+      "media_id": "18083278001403068",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4036585211123730332"
     },
     {
       "id": "story-lexikon-waehrungsrisiko",
