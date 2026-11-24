@@ -4521,49 +4521,61 @@
       "id": "story-ticker-nke-2026-11-24",
       "order": 333,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-24/nke_2026-11-24.png"
       ],
       "caption": "",
       "not_before": "2026-11-24T07:20:00Z",
-      "valid_until": "2026-11-24T21:00:00Z"
+      "valid_until": "2026-11-24T21:00:00Z",
+      "posted_at": "2026-11-24T07:21:09+00:00",
+      "media_id": "18500229628105357",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4037309873885340483"
     },
     {
       "id": "story-ticker-sbux-2026-11-24",
       "order": 334,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-24/sbux_2026-11-24.png"
       ],
       "caption": "",
       "not_before": "2026-11-24T07:20:00Z",
-      "valid_until": "2026-11-24T21:00:00Z"
+      "valid_until": "2026-11-24T21:00:00Z",
+      "posted_at": "2026-11-24T07:21:20+00:00",
+      "media_id": "17995466964066879",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4037309964389929861"
     },
     {
       "id": "story-ticker-xom-2026-11-24",
       "order": 335,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-24/xom_2026-11-24.png"
       ],
       "caption": "",
       "not_before": "2026-11-24T07:20:00Z",
-      "valid_until": "2026-11-24T21:00:00Z"
+      "valid_until": "2026-11-24T21:00:00Z",
+      "posted_at": "2026-11-24T07:21:31+00:00",
+      "media_id": "18123518600058802",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4037310052151945137"
     },
     {
       "id": "story-ticker-cvx-2026-11-24",
       "order": 336,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/daily/2026-11-24/cvx_2026-11-24.png"
       ],
       "caption": "",
       "not_before": "2026-11-24T07:20:00Z",
-      "valid_until": "2026-11-24T21:00:00Z"
+      "valid_until": "2026-11-24T21:00:00Z",
+      "posted_at": "2026-11-24T07:21:41+00:00",
+      "media_id": "18148970326597102",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4037310149517466204"
     },
     {
       "id": "story-lexikon-sparquote",
