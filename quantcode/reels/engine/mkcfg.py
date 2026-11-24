@@ -1,9 +1,9 @@
 import json,sys
 K=sys.argv[1]
-ACC={"A":["#f87171","#f87171","#14b8a6","#f87171","#14b8a6"],"B":["#60a5fa","#22c55e","#22c55e","#14b8a6","#14b8a6"],"C":["#f87171","#f87171","#f87171","#14b8a6","#14b8a6"]}[K]
-KK={"A":{4:{"c2":1.5,"h":3.3,"n":4.2}},"B":{4:{"c2":1.2,"h":2.5,"n":4.2}},"C":{4:{"c2":1.4,"h":2.9,"n":3.6}}}[K]
+ACC={"A":["#f87171","#f87171","#14b8a6","#f87171","#14b8a6"],"B":["#60a5fa","#22c55e","#22c55e","#14b8a6","#14b8a6"],"C":["#f87171","#f87171","#f87171","#14b8a6","#14b8a6"],"D":["#22c55e","#f87171","#22c55e","#f87171","#14b8a6"]}[K]
+KK={"A":{4:{"c2":1.5,"h":3.3,"n":4.2}},"B":{4:{"c2":1.2,"h":2.5,"n":4.2}},"C":{4:{"c2":1.4,"h":2.9,"n":3.6}},"D":{4:{"c2":3.5,"h":4.6,"n":5.0}}}[K]
 scenes=[];words=[];t=0.0
-NUM={"fünfzig":"50","Fünfzig":"50","hundert":"100","Hundert":"100","Zehntausend":"10.000","null":"0","drei":"3","zehn":"10","zwanzig":"20","dreißig":"30","siebentausendvierhundert":"7.400","fünftausendfünfhundert":"5.500","viertausendeinhundert":"4.100"}
+NUM={"fünfzig":"50","Fünfzig":"50","hundert":"100","Hundert":"100","Zehntausend":"10.000","null":"0","drei":"3","zehn":"10","zwanzig":"20","dreißig":"30","siebentausendvierhundert":"7.400","fünftausendfünfhundert":"5.500","viertausendeinhundert":"4.100","hundertvierundsiebzig":"174","hundertsechsundzwanzig":"126","hundertfünfundsechzig":"165","achtundzwanzig":"28","einunddreißig":"31","zwölften":"12.","sechsten":"6."}
 for i in range(5):
     v=json.load(open(f"reels/{K}/v{i+1}.json"));d=v["dur"]
     scenes.append({"id":f"{K}{i+1}","start":round(t,3),"dur":d,"accent":ACC[i],"k":KK.get(i,{})})
