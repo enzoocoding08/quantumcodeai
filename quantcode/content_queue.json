@@ -4516,6 +4516,65 @@
       ],
       "caption": "",
       "not_before": "2026-11-24T18:15:00Z"
+    },
+    {
+      "id": "story-ticker-nke-2026-11-24",
+      "order": 333,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-24/nke_2026-11-24.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-24T07:20:00Z",
+      "valid_until": "2026-11-24T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-sbux-2026-11-24",
+      "order": 334,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-24/sbux_2026-11-24.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-24T07:20:00Z",
+      "valid_until": "2026-11-24T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-xom-2026-11-24",
+      "order": 335,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-24/xom_2026-11-24.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-24T07:20:00Z",
+      "valid_until": "2026-11-24T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-cvx-2026-11-24",
+      "order": 336,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-24/cvx_2026-11-24.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-24T07:20:00Z",
+      "valid_until": "2026-11-24T21:00:00Z"
+    },
+    {
+      "id": "story-lexikon-sparquote",
+      "order": 337,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/queue/staged-2026-11-24/lexikon_sparquote.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-24T12:10:00Z"
     }
   ]
 }
