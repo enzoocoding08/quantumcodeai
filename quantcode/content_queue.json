@@ -3747,12 +3747,15 @@
       "id": "post-begriffe",
       "order": 274,
       "type": "image",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-18/post_begriffe.png"
       ],
       "caption": "6 Boersen-Begriffe in einem Satz: Depot, Order, Dividende, KGV, Volatilitaet und Spread.\n\nSpeichern und teilen.\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#boerse #lexikon #finanzbildung #investieren #anfaenger #quantcodeai",
-      "not_before": "2026-11-25T09:45:00Z"
+      "not_before": "2026-11-25T09:45:00Z",
+      "posted_at": "2026-11-25T10:44:16+00:00",
+      "media_id": "18646264999015746",
+      "permalink": "https://www.instagram.com/p/DgKWBiZIFmc/"
     },
     {
       "id": "post-karten",
