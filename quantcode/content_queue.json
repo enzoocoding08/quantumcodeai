@@ -3800,12 +3800,15 @@
       "id": "story-lexikon-ausgabeaufschlag",
       "order": 278,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-18/lexikon_ausgabeaufschlag.png"
       ],
       "caption": "",
-      "not_before": "2026-11-25T12:05:00Z"
+      "not_before": "2026-11-25T12:05:00Z",
+      "posted_at": "2026-11-25T13:45:27+00:00",
+      "media_id": "17992134750080947",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4038228076462938146"
     },
     {
       "id": "story-trading-update-2026-11-18",
@@ -4706,12 +4709,15 @@
       "id": "story-lexikon-bip",
       "order": 344,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-25/lexikon_bip.png"
       ],
       "caption": "",
-      "not_before": "2026-11-25T12:10:00Z"
+      "not_before": "2026-11-25T12:10:00Z",
+      "posted_at": "2026-11-25T13:45:38+00:00",
+      "media_id": "18129278623898800",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4038228168989376325"
     }
   ]
 }
