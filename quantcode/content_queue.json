@@ -3761,12 +3761,15 @@
       "id": "post-karten",
       "order": 275,
       "type": "image",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-18/post_karten.png"
       ],
       "caption": "So liest du unsere Karten: Kurs, Hoch, Tief und Volumen. Alles Daten der Vergangenheit - keine Prognose, keine Empfehlung.\n\nSpeichern und teilen.\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#aktien #boerse #finanzbildung #kennzahlen #quantcodeai",
-      "not_before": "2026-11-26T09:45:00Z"
+      "not_before": "2026-11-26T09:45:00Z",
+      "posted_at": "2026-11-26T10:44:16+00:00",
+      "media_id": "17889195081503768",
+      "permalink": "https://www.instagram.com/p/DgM60NtGzPL/"
     },
     {
       "id": "story-lexikon-broker",
