@@ -3846,12 +3846,15 @@
       "id": "post-spekulieren",
       "order": 281,
       "type": "image",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-18/post_spekulieren.png"
       ],
       "caption": "Investieren oder Spekulieren? Der Unterschied in drei Punkten.\n\nSpeichern und teilen.\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#investieren #spekulieren #risiko #finanzbildung #boerse #quantcodeai",
-      "not_before": "2026-11-27T09:45:00Z"
+      "not_before": "2026-11-27T00:48:56Z",
+      "posted_at": "2026-11-27T00:51:04+00:00",
+      "media_id": "18398245069224918",
+      "permalink": "https://www.instagram.com/p/DgObulDDvaL/"
     },
     {
       "id": "post-zeitmarkt",
