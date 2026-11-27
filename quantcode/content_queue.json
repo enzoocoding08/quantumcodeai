@@ -4820,6 +4820,54 @@
       "posted_at": "2026-11-26T18:16:22+00:00",
       "media_id": "18174161710477737",
       "permalink": "https://www.instagram.com/stories/quantcode_ai/4039089185395302380"
+    },
+    {
+      "id": "story-ticker-amzn-2026-11-27",
+      "order": 351,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-27/amzn_2026-11-27.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-27T07:12:12Z",
+      "valid_until": "2026-11-27T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-meta-2026-11-27",
+      "order": 352,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-27/meta_2026-11-27.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-27T07:12:12Z",
+      "valid_until": "2026-11-27T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-tsla-2026-11-27",
+      "order": 353,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-27/tsla_2026-11-27.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-27T07:12:12Z",
+      "valid_until": "2026-11-27T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-adbe-2026-11-27",
+      "order": 354,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-27/adbe_2026-11-27.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-27T07:12:12Z",
+      "valid_until": "2026-11-27T21:00:00Z"
     }
   ]
 }
