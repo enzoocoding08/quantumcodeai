@@ -3885,12 +3885,15 @@
       "id": "story-lexikon-leitzins",
       "order": 284,
       "type": "story",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-18/lexikon_leitzins.png"
       ],
       "caption": "",
-      "not_before": "2026-11-27T12:05:00Z"
+      "not_before": "2026-11-27T12:05:00Z",
+      "posted_at": "2026-11-27T15:03:54+00:00",
+      "media_id": "18375954235209528",
+      "permalink": "https://www.instagram.com/stories/quantcode_ai/4039717118590181668"
     },
     {
       "id": "story-lexikon-rendite",
