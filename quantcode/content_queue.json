@@ -3860,12 +3860,15 @@
       "id": "post-zeitmarkt",
       "order": 282,
       "type": "image",
-      "status": "pending",
+      "status": "posted",
       "files": [
         "docs/content/queue/staged-2026-11-18/post_zeitmarkt.png"
       ],
       "caption": "Warum Geduld oft wichtiger ist als der perfekte Zeitpunkt.\n\nSpeichern und teilen.\n\nKein Anlagetipp. Bildung, kein echtes Geld im Spiel.\n\n#sparplan #langfristig #investieren #finanzbildung #boerse #quantcodeai",
-      "not_before": "2026-11-28T09:45:00Z"
+      "not_before": "2026-11-28T09:45:00Z",
+      "posted_at": "2026-11-28T10:43:46+00:00",
+      "media_id": "18033608249909838",
+      "permalink": "https://www.instagram.com/p/DgSEWL6HI0o/"
     },
     {
       "id": "story-lexikon-anleihe",
