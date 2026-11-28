@@ -4987,6 +4987,54 @@
       ],
       "caption": "",
       "not_before": "2026-12-04T18:20:00Z"
+    },
+    {
+      "id": "story-ticker-nflx-2026-11-28",
+      "order": 363,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-28/nflx_2026-11-28.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-28T07:12:29Z",
+      "valid_until": "2026-11-28T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-dis-2026-11-28",
+      "order": 364,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-28/dis_2026-11-28.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-28T07:12:29Z",
+      "valid_until": "2026-11-28T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-crm-2026-11-28",
+      "order": 365,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-28/crm_2026-11-28.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-28T07:12:29Z",
+      "valid_until": "2026-11-28T21:00:00Z"
+    },
+    {
+      "id": "story-ticker-lly-2026-11-28",
+      "order": 366,
+      "type": "story",
+      "status": "pending",
+      "files": [
+        "docs/content/daily/2026-11-28/lly_2026-11-28.png"
+      ],
+      "caption": "",
+      "not_before": "2026-11-28T07:12:29Z",
+      "valid_until": "2026-11-28T21:00:00Z"
     }
   ]
 }
